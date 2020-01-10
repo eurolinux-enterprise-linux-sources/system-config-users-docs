@@ -1,0 +1,601 @@
+# Serbian translations for system-config-users-docs
+# Copyright (C) 2008 Red Hat, Inc.
+# This file is distributed under the same license as the system-config-users-docs package.
+# Miloš Komarčević <kmilos@gmail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: system-config-users-docs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-12 11:36+0100\n"
+"PO-Revision-Date: 2009-04-11 10:34+0100\n"
+"Last-Translator: Miloš Komarčević <kmilos@gmail.com>\n"
+"Language-Team: Serbian (sr) <fedora-trans-sr@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:139(None)
+msgid ""
+"@@image: 'images/system-config-users.png'; "
+"md5=3ed07ec09bd46b79535a583624b61c6b"
+msgstr ""
+"@@image: 'images/system-config-users.png'; "
+"md5=3ed07ec09bd46b79535a583624b61c6b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:202(None)
+msgid ""
+"@@image: 'images/system-config-users-user-new.png'; "
+"md5=52dc41e7b6e97b234edb97675fdd0ab6"
+msgstr ""
+"@@image: 'images/system-config-users-user-new.png'; "
+"md5=52dc41e7b6e97b234edb97675fdd0ab6"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:233(None)
+msgid ""
+"@@image: 'images/system-config-users-user-properties-user-data.png'; "
+"md5=ceab8d4b7c0e76942643c69b3a374829"
+msgstr ""
+"@@image: 'images/system-config-users-user-properties-user-data.png'; "
+"md5=ceab8d4b7c0e76942643c69b3a374829"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:314(None)
+msgid ""
+"@@image: 'images/system-config-users-group-new.png'; "
+"md5=a8831cbdee41c89768d2a099b3e23f81"
+msgstr ""
+"@@image: 'images/system-config-users-group-new.png'; "
+"md5=a8831cbdee41c89768d2a099b3e23f81"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:341(None)
+msgid ""
+"@@image: 'images/system-config-users-group-properties-group-data.png'; "
+"md5=3ab34f44acdf639a83dc07a97bb3005c"
+msgstr ""
+"@@image: 'images/system-config-users-group-properties-group-data.png'; "
+"md5=3ab34f44acdf639a83dc07a97bb3005c"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:41(title)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:83(see)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:132(application)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:136(title)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:142(para)
+msgid "User and Group Configuration Tool"
+msgstr "Алат за подешавање корисника и група"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:47(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:48(date)
+msgid "2008-01-31"
+msgstr "2008-01-31"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:51(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:52(date)
+msgid "2008-03-11"
+msgstr "2008-03-11"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:55(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:56(date)
+msgid "2008-03-12"
+msgstr "2008-03-12"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:61(para)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:75(para)
+msgid ""
+"The <application>User and Group Configuration Tool</application> allows you "
+"to view, modify, add, and delete local users and groups."
+msgstr ""
+"<application>Алат за подешавање корисника и група</application> вам допушта "
+"да прегледате, измените, додате, и обришете локалне кориснике и групе."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:69(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:68(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:81(command)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:120(command)
+msgid "system-config-users"
+msgstr "system-config-users"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:86(para)
+msgid ""
+"You must be running the <application>X</application> Window System and have "
+"root privileges to use the User and Group Configuration Tool. There are "
+"three ways to start the application:"
+msgstr ""
+"Морате имати покренут <application>Икс</application> систем прозора и "
+"поседовати root овлашћења ради употребе алата за подешавање корисника и "
+"група. Постоје три начина за покретање овог програма:"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:91(para)
+msgid ""
+"From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the "
+"menu with the \"f\" icon)</guimenu><guisubmenu>System</"
+"guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Users and "
+"Groups</guimenuitem></menuchoice>"
+msgstr ""
+"Са радне површине, идите на <menuchoice><guimenu>главни мени на панелу (мени "
+"са иконом „f“)</guimenu><guisubmenu>Систем</"
+"guisubmenu><guisubmenu>Администрација</guisubmenu><guimenuitem>Корисници и "
+"групе</guimenuitem></menuchoice>"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:97(para)
+msgid ""
+"From the desktop, right-click on the fast user switch applet in the toolbar "
+"and select <guimenu>Edit Users and Groups</guimenu>."
+msgstr ""
+"Са радне површине, притисните десним дугметом на програмче за брзу промену "
+"корисника у панелу алатки и изаберите <guimenu>Уреди кориснике и групе</"
+"guimenu>."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:103(para)
+msgid ""
+"Type the command <command>system-config-users</command> at a shell prompt "
+"(for example, in an <application>XTerm</application> or a "
+"<application>GNOME</application> terminal)."
+msgstr ""
+"Укуцајте наредбу <command>system-config-users</command> на одзивнику љуске "
+"(на пример, у <application>XTerm</application> или <application>GNOME</"
+"application> терминалу)."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:110(title)
+msgid "User and Group Configuration"
+msgstr "Подешавање корисника и група"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:112(primary)
+msgid "users"
+msgstr "корисници"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:113(see)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:124(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:133(see)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:149(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:171(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:219(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:223(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:246(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:250(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:254(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:258(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:282(primary)
+msgid "user configuration"
+msgstr "подешавање корисника"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:116(primary)
+msgid "groups"
+msgstr "групе"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:117(see)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:128(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:153(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:304(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:331(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:351(primary)
+msgid "group configuration"
+msgstr "подешавање групе"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:121(see)
+msgid "user and group configuration"
+msgstr "подешавање корисника и група"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:125(secondary)
+msgid "viewing list of users"
+msgstr "преглед списка корисника"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:129(secondary)
+msgid "viewing list of groups"
+msgstr "преглед списка група"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:150(secondary)
+msgid "filtering list of users"
+msgstr "филтрирање списка корисника"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:154(secondary)
+msgid "filtering list of groups"
+msgstr "филтрирање списка група"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:156(para)
+msgid ""
+"To view a list of local users on the system, click the <guilabel>Users</"
+"guilabel> tab. To view a list of local groups on the system, click the "
+"<guilabel>Groups</guilabel> tab."
+msgstr ""
+"Да бисте видели списак локалних корисника на систему, притисните језичак "
+"<guilabel>Корисници</guilabel>. Да бисте видели списак локалних група на "
+"систему, притисните језичак <guilabel>Групе</guilabel>."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:159(para)
+msgid ""
+"To find a specific user or group, type the first few letters of the name in "
+"the <guilabel>Search filter</guilabel> field. Press <keycap>Enter</keycap> "
+"or click the <guibutton>Apply filter</guibutton> button. The filtered list "
+"is displayed."
+msgstr ""
+"Да бисте пронашли одређеног корисника или групу, укуцајте првих неколико "
+"слова имена у поље <guilabel>Филтар претраге</guilabel>. Притисните "
+"<keycap>Enter</keycap> или притисните дугме <guibutton>Примени филтар</"
+"guibutton>. Приказаће се филтрирани списак."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:162(para)
+msgid ""
+"To sort the users or groups, click on the column name. The users or groups "
+"are sorted according to the value of that column."
+msgstr ""
+"Да бисте поређали кориснике или групе, притисните на назив колоне. Корисници "
+"и групе се ређају према вредности те колоне."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:165(para)
+msgid ""
+"User IDs below 500 are reserved for system users. By default, "
+"<application>User and Group Configuration Tool</application> does not "
+"display system users. To view all users, including the system users, go to "
+"<menuchoice><guimenu>Edit</guimenu><guisubmenu>Preferences</guisubmenu></"
+"menuchoice> and uncheck <guimenuitem>Hide system users and groups</"
+"guimenuitem> from the dialog box."
+msgstr ""
+"Кориснички ID-и испод 500 су резервисани за системске кориснике. "
+"<application>Алат за подешавање корисника и група</application> "
+"подразумевано не приказује системске кориснике. Да бисте видели све "
+"кориснике, укључујући и системске кориснике, идите на "
+"<menuchoice><guimenu>Уреди</guimenu><guisubmenu>Поставке</guisubmenu></"
+"menuchoice> и очистите кућицу <guimenuitem>Сакриј системске кориснике и "
+"групе</guimenuitem> у прозорчету."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:169(title)
+msgid "Adding a New User"
+msgstr "Додавање новог корисника"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:172(secondary)
+msgid "adding users"
+msgstr "додавање корисника"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:174(para)
+msgid ""
+"To add a new user, click the <guibutton>Add User</guibutton> button. A "
+"window as shown in <xref linkend=\"user-new-fig\"/> appears. Type the "
+"username and full name for the new user in the appropriate fields. Type the "
+"user's password in the <guilabel>Password</guilabel> and <guilabel>Confirm "
+"Password</guilabel> fields. The password must be at least six characters."
+msgstr ""
+"Да бисте додали новог корисника, притисните дугме <guibutton>Додај "
+"корисника</guibutton>. Појавиће се прозор приказан као <xref linkend=\"user-"
+"new-fig\"/>. Укуцајте корисничко име и пуно име за новог корисника у "
+"одговарајућа поља. Укуцајте корисникову лозинку у поља <guilabel>Лозинка</"
+"guilabel> и <guilabel>Потврда лозинке</guilabel>. Лозинка мора садржати "
+"барем шест знакова."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:178(title)
+msgid "Tip"
+msgstr "Савет"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:179(para)
+msgid ""
+"It is advisable to use a much longer password, as this makes it more "
+"difficult for an intruder to guess it and access the account without "
+"permission. It is also recommended that the password not be based on a "
+"dictionary term; use a combination of letters, numbers and special "
+"characters."
+msgstr ""
+"Препоручљива је употреба доста дуже лозинке, јер то отежава уљезу да је "
+"погоди и приступи налогу без одобрења. Такође се препоручује да лозинка не "
+"буде заснована на појму из речника; употребите комбинацију слова, бројева и "
+"посебних знакова."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:183(para)
+msgid ""
+"Select a login shell. If you are not sure which shell to select, accept the "
+"default value of <computeroutput>/bin/bash</computeroutput>. The default "
+"home directory is <filename>/home/<replaceable>&lt;username&gt;</"
+"replaceable>/</filename>. You can change the home directory that is created "
+"for the user, or you can choose not to create the home directory by "
+"unselecting <guilabel>Create home directory</guilabel>."
+msgstr ""
+"Изаберите пријавну љуску. Ако нисте сигурни коју љуску да изаберете, "
+"прихватите подразумевану вредност <computeroutput>/bin/bash</"
+"computeroutput>. Подразумевани лични директоријум је <filename>/home/"
+"<replaceable>&lt;корисничкоиме&gt;</replaceable>/</filename>. Можете "
+"променити лични директоријум који се прави за корисника, или можете изабрати "
+"да се не прави лични директоријум поништавањем избора <guilabel>Направи "
+"лични директоријум</guilabel>."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:186(para)
+msgid ""
+"If you select to create the home directory, default configuration files are "
+"copied from the <filename>/etc/skel/</filename> directory into the new home "
+"directory."
+msgstr ""
+"Ако изаберете да направите лични директоријум, подразумеване датотеке "
+"подешавања се умножавају из директоријума <filename>/etc/skel/</filename> у "
+"нови лични директоријум."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:189(para)
+msgid ""
+"By default, a <firstterm>user private group</firstterm> (UPG) scheme is "
+"used. The UPG scheme does not add or change anything in the standard UNIX "
+"way of handling groups; it offers a new convention. Whenever you create a "
+"new user, by default, a unique group with the same name as the user is "
+"created. If you do not want to create this group, unselect <guilabel>Create "
+"a private group for the user</guilabel>."
+msgstr ""
+"Подразумевано се користи шема <firstterm>приватне групе корисника</"
+"firstterm> (UPG - user private group). UPG шема не додаје нити мења ништа у "
+"стандардном UNIX начину руковања групама; она нуди нов обичај. Кад год "
+"направите новог корисника, подразумевано се прави јединствена група са истим "
+"именом као корисниковим. Ако не желите да направите ову групу, поништите "
+"избор <guilabel>Направи приватну групу за корисника</guilabel>."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:192(para)
+msgid ""
+"To specify a user ID for the user, select <guibutton>Specify user ID "
+"manually</guibutton>. If the option is not selected, the next available user "
+"ID above 500 is assigned to the new user. Because user IDs below 500 are "
+"reserved for system users, it is not advisable to manually assign user IDs 1-"
+"499."
+msgstr ""
+"Да бисте навели ID за корисника, изаберите <guibutton>Ручно наведи "
+"кориснички ID</guibutton>. Ако опција није изабрана, следећи слободан "
+"кориснички ID преко 500 ће бити додељен новом кориснику. Пошто су кориснички "
+"ID-и испод 500 резервисани за системске кориснике, не препоручује се ручно "
+"навођење корисничких ID-а 1-499."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:195(para)
+msgid "Click <guibutton>OK</guibutton> to create the user."
+msgstr "Притисните <guibutton>У реду</guibutton> за прављење корисника."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:199(title)
+msgid "New User"
+msgstr "Нов корисник"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:205(para)
+msgid "Creating a new user"
+msgstr "Прављење новог корисника"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:211(para)
+msgid ""
+"To configure more advanced user properties, such as password expiration, "
+"modify the user's properties after adding the user. Refer to <xref linkend="
+"\"s2-system-config-users-user-properties\"/> for more information."
+msgstr ""
+"Да бисте подесили напредније особине корисника, као што је истицање лозинке, "
+"измените особине корисника након додавања корисника. Погледајте <xref "
+"linkend=\"s2-system-config-users-user-properties\"/> за више информација."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:217(title)
+msgid "Modifying User Properties"
+msgstr "Измена особина корисника"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:220(secondary)
+msgid "modifying users"
+msgstr "измена корисника"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:224(secondary)
+msgid "modify groups for a user"
+msgstr "измена група за корисника"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:226(para)
+msgid ""
+"To view the properties of an existing user, click on the <guilabel>Users</"
+"guilabel> tab, select the user from the user list, and click "
+"<guibutton>Properties</guibutton> from the menu (or choose "
+"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></"
+"menuchoice> from the pulldown menu). A window similar to <xref linkend="
+"\"user-properties-fig\"/> appears."
+msgstr ""
+"Да бисте видели особине постојећег корисника, притисните на језичак "
+"<guilabel>Корисници</guilabel>, изаберите корисника са списка корисника, и "
+"притисните <guibutton>Особине</guibutton> у менију (или изаберите "
+"<menuchoice><guimenu>Датотека</guimenu><guimenuitem>Особине</guimenuitem></"
+"menuchoice> из падајућег менија). Појавиће се прозор као <xref linkend="
+"\"user-properties-fig\"/>."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:230(title)
+msgid "User Properties"
+msgstr "Особине корисника"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:236(para)
+msgid "Modifying user properties"
+msgstr "Измена особина корисника"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:242(para)
+msgid ""
+"The <guilabel>User Properties</guilabel> window is divided into multiple "
+"tabbed pages:"
+msgstr ""
+"Прозор <guilabel>Особине корисника</guilabel> је подељен у више страница са "
+"језичцима:"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:247(secondary)
+msgid "changing password"
+msgstr "промена лозинке"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:251(secondary)
+msgid "changing login shell"
+msgstr "промена пријавне љуске"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:255(secondary)
+msgid "changing full name"
+msgstr "промена пуног имена"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:259(secondary)
+msgid "changing home directory"
+msgstr "промена личног директоријума"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:263(para)
+msgid ""
+"<guilabel>User Data</guilabel> — Shows the basic user information configured "
+"when you added the user. Use this tab to change the user's full name, "
+"password, home directory, or login shell."
+msgstr ""
+"<guilabel>Кориснички подаци</guilabel> — Приказује основне корисничке "
+"податке које сте подесили при додавању корисника. Користите овај језичак да "
+"бисте изменили корисниково пуно име, лозинку, лични директоријум, или "
+"пријавну љуску."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:268(para)
+msgid ""
+"<guilabel>Account Info</guilabel> — <indexterm significance=\"normal"
+"\"><primary>user configuration</primary><secondary>setting user account "
+"expiration</secondary></indexterm> Select <guibutton>Enable account "
+"expiration</guibutton> if you want the account to expire on a certain date. "
+"Enter the date in the provided fields. <indexterm significance=\"normal"
+"\"><primary>user configuration</primary><secondary>locking user accounts</"
+"secondary></indexterm> Select <guilabel>Local password is locked</guilabel> "
+"to lock the user account and prevent the user from logging into the system."
+msgstr ""
+"<guilabel>Подаци о налогу</guilabel> — <indexterm significance=\"normal"
+"\"><primary>подешавање корисника</primary><secondary>постављање истицања "
+"корисничког налога</secondary></indexterm> Изаберите <guibutton>Укључи "
+"истицање налога</guibutton> ако желите да налог истекне одређеног датума. "
+"Унесите датум у понуђена поља. <indexterm significance=\"normal"
+"\"><primary>подешавање корисника</primary><secondary>закључавање корисничких "
+"налога</secondary></indexterm> Изаберите <guilabel>Локална лозинка је "
+"закључана</guilabel> за закључавање корисничког налога и спречавања "
+"корисника у пријављивању на систем."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:283(secondary)
+msgid "password expiration"
+msgstr "истицање лозинке"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:285(para)
+msgid ""
+"<guilabel>Password Info</guilabel> — Displays the date that the user's "
+"password last changed. To force the user to change passwords after a certain "
+"number of days, select <guilabel>Enable password expiration</guilabel> and "
+"enter a desired value in the <guilabel>Days before change required:</"
+"guilabel> field. The number of days before the user's password expires, the "
+"number of days before the user is warned to change passwords, and days "
+"before the account becomes inactive can also be changed."
+msgstr ""
+"<guilabel>Подаци за лозинку</guilabel> — Приказује датум када је корисникова "
+"лозинка последњи пут измењена. Да бисте приморали корисника да промени "
+"лозинку после одређеног броја дана, изаберите <guilabel>Укључи истицање "
+"лозинке</guilabel> и унесите жељену вредност у поље <guilabel>Дана пре него "
+"што је промена неопходна:</guilabel>. Број дана пре него што корисникова "
+"лозинка истекне, број дана пре него што корисник буде упозорен да промени "
+"лозинку, и дани пре него што налог постане неактиван се такође могу изменити."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:290(para)
+msgid ""
+"<indexterm significance=\"normal\"><primary>user configuration</"
+"primary><secondary>adding users to groups</secondary></"
+"indexterm><guilabel>Groups</guilabel> — Allows you to view and configure the "
+"Primary Group of the user, as well as other groups that you want the user to "
+"be a member of."
+msgstr ""
+"<indexterm significance=\"normal\"><primary>подешавање корисника</"
+"primary><secondary>додавање корисника у групе</secondary></"
+"indexterm><guilabel>Групе</guilabel> — Дозвољава вам да прегледате и "
+"подесите основну групу за корисника, као и друге групе за које желите да "
+"корисник буде њихов члан."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:302(title)
+msgid "Adding a New Group"
+msgstr "Додавање нове групе"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:305(secondary)
+msgid "adding groups"
+msgstr "додавање група"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:307(para)
+msgid ""
+"To add a new user group, click the <guibutton>Add Group</guibutton> button. "
+"A window similar to <xref linkend=\"group-new-fig\"/> appears. Type the name "
+"of the new group to create. To specify a group ID for the new group, select "
+"<guibutton>Specify group ID manually</guibutton> and select the GID. Note "
+"that group IDs lower than 500 are reserved for system groups."
+msgstr ""
+"Да бисте додали нову корисничку групу, притисните дугме <guibutton>Додај "
+"групу</guibutton>. Појавиће се прозор као <xref linkend=\"group-new-fig\"/>. "
+"Укуцајте име нове групе за прављење. Да бисте навели ID групе за нову групу, "
+"изаберите <guibutton>Ручно наведи ID групе</guibutton> и изаберите GID. "
+"Примите к знању да су ID-и група испод 500 резервисани за системске групе."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:311(title)
+msgid "New Group"
+msgstr "Нова група"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:317(para)
+msgid "Creating a new group"
+msgstr "Прављење нове групе"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:323(para)
+msgid ""
+"Click <guibutton>OK</guibutton> to create the group. The new group appears "
+"in the group list."
+msgstr ""
+"Притисните <guibutton>У реду</guibutton> за прављење групе. Нова група ће се "
+"појавити у списку група."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:329(title)
+msgid "Modifying Group Properties"
+msgstr "Измена особина групе"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:332(secondary)
+msgid "modifying group properties"
+msgstr "измена особина групе"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:334(para)
+msgid ""
+"To view the properties of an existing group, select the group from the group "
+"list and click <guibutton>Properties</guibutton> from the menu (or choose "
+"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></"
+"menuchoice> from the pulldown menu). A window similar to <xref linkend="
+"\"group-properties-fig\"/> appears."
+msgstr ""
+"Да бисте видели особине постојеће групе, изаберите групу са списка група и "
+"притисните <guibutton>Особине</guibutton> у менију (или изаберите "
+"<menuchoice><guimenu>Датотека</guimenu><guimenuitem>Особине</guimenuitem></"
+"menuchoice> из падајућег менија). Појавиће се прозор као <xref linkend="
+"\"group-properties-fig\"/>."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:338(title)
+msgid "Group Properties"
+msgstr "Особине групе"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:344(para)
+msgid "Modifying group properties"
+msgstr "Измена особина групе"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:352(secondary)
+msgid "modify users in groups"
+msgstr "измена корисника у групама"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:354(para)
+msgid ""
+"The <guilabel>Group Users</guilabel> tab displays which users are members of "
+"the group. Use this tab to add or remove users from the group. Click "
+"<guibutton>OK</guibutton> to save your changes."
+msgstr ""
+"Језичак <guilabel>Чланови групе</guilabel> приказује који су корисници "
+"чланови те групе. Користите овај језичак да бисте додали или уклонили "
+"кориснике из групе. Притисните <guibutton>У реду</guibutton> да бисте "
+"сачували измене."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:0(None)
+msgid "translator-credits"
+msgstr "Miloš Komarčević <kmilos@gmail.com>, 2009."

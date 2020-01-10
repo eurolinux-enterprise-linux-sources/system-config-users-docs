@@ -1,0 +1,358 @@
+# Translation of system-config-users.master-docs.po from Greek Fedora team
+# Greek translation of system-config-users.master
+# Copyright (C) 2002-2010 Free Software Foundation, Inc.
+#
+# Thalia Papoutsaki <saliyath@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: system-config-users.master-docs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-12 11:36+0100\n"
+"PO-Revision-Date: 2010-02-17 00:16+0200\n"
+"Last-Translator: Thalia Papoutsaki <saliyath@gmail.com>\n"
+"Language-Team: Greek Fedora team <fedora-trans-el@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:139(None)
+msgid "@@image: 'images/system-config-users.png'; md5=3ed07ec09bd46b79535a583624b61c6b"
+msgstr "@@image: 'images/system-config-users.png'; md5=3ed07ec09bd46b79535a583624b61c6b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:202(None)
+msgid "@@image: 'images/system-config-users-user-new.png'; md5=52dc41e7b6e97b234edb97675fdd0ab6"
+msgstr "@@image: 'images/system-config-users-user-new.png'; md5=52dc41e7b6e97b234edb97675fdd0ab6"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:233(None)
+msgid "@@image: 'images/system-config-users-user-properties-user-data.png'; md5=ceab8d4b7c0e76942643c69b3a374829"
+msgstr "@@image: 'images/system-config-users-user-properties-user-data.png'; md5=ceab8d4b7c0e76942643c69b3a374829"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:314(None)
+msgid "@@image: 'images/system-config-users-group-new.png'; md5=a8831cbdee41c89768d2a099b3e23f81"
+msgstr "@@image: 'images/system-config-users-group-new.png'; md5=a8831cbdee41c89768d2a099b3e23f81"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:341(None)
+msgid "@@image: 'images/system-config-users-group-properties-group-data.png'; md5=3ab34f44acdf639a83dc07a97bb3005c"
+msgstr "@@image: 'images/system-config-users-group-properties-group-data.png'; md5=3ab34f44acdf639a83dc07a97bb3005c"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:41(title)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:83(see)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:132(application)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:136(title)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:142(para)
+msgid "User and Group Configuration Tool"
+msgstr "Εργαλείο Ρυθμίσεων Χρηστών και Ομάδων"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:47(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:48(date)
+msgid "2008-01-31"
+msgstr "2008-01-31"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:51(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:52(date)
+msgid "2008-03-11"
+msgstr "2008-03-11"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:55(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:56(date)
+msgid "2008-03-12"
+msgstr "2008-03-12"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:61(para)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:75(para)
+msgid "The <application>User and Group Configuration Tool</application> allows you to view, modify, add, and delete local users and groups."
+msgstr "Το <application>Εργαλείο Ρυθμίσεων Χρηστών και Ομάδων</application> σας επιτρέπει να δείτε, να τροποποιήσετε, να προσθέσετε και να διαγράψετε τοπικούς χρήστες και ομάδες."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:69(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:68(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:81(command)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:120(command)
+msgid "system-config-users"
+msgstr "system-config-users"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:86(para)
+msgid "You must be running the <application>X</application> Window System and have root privileges to use the User and Group Configuration Tool. There are three ways to start the application:"
+msgstr "Πρέπει να τρέξετε το <application>X</application> Window System και να έχετε δικαιώματα υπερχρήστη για να χρησιμοποιήσετε το Εργαλείο Ρυθμίσεων Χρηστών και Ομάδων. Υπάρχουν τρεις τρόποι να ξεκινήσετε την εφαρμογή:"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:91(para)
+msgid "From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the menu with the \"f\" icon)</guimenu><guisubmenu>System</guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Users and Groups</guimenuitem></menuchoice>"
+msgstr "Από την επιφάνεια εργασίας, πηγαίνετε στο  <menuchoice><guimenu>στο κεντρικό μενού του πίνακα (το μενού με το εικονίδιο \"f\" )</guimenu><guisubmenu>Σύστημα</guisubmenu><guisubmenu>Διαχείρηση</guisubmenu><guimenuitem>Χρήστες και Ομάδες</guimenuitem></menuchoice>"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:97(para)
+msgid "From the desktop, right-click on the fast user switch applet in the toolbar and select <guimenu>Edit Users and Groups</guimenu>."
+msgstr "Από την επιφάνεια εργασίας, πατήστε δεξί κλικ στο εργαλείο γρήγορης αλλαγής χρήστη στην γραμμή εργαλείων και επιλέξτε <guimenu>Επεξεργασία Χρηστών και Ομάδων</guimenu>."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:103(para)
+msgid "Type the command <command>system-config-users</command> at a shell prompt (for example, in an <application>XTerm</application> or a <application>GNOME</application> terminal)."
+msgstr "Πληκτρολογήστε την εντολή <command>system-config-users</command> στο τερματικό (για παράδειγμα, σ' ένα <application>XTerm</application> ή <application>GNOME</application> τερματικό)."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:110(title)
+msgid "User and Group Configuration"
+msgstr "Ρύθμιση Χρηστών και Ομάδων"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:112(primary)
+msgid "users"
+msgstr "χρήστες"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:113(see)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:124(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:133(see)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:149(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:171(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:219(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:223(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:246(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:250(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:254(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:258(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:282(primary)
+msgid "user configuration"
+msgstr "ρύθμιση χρήστη"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:116(primary)
+msgid "groups"
+msgstr "ομάδες"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:117(see)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:128(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:153(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:304(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:331(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:351(primary)
+msgid "group configuration"
+msgstr "ρύθμιση ομάδας"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:121(see)
+msgid "user and group configuration"
+msgstr "ρύθμιση χρηστών και ομάδων"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:125(secondary)
+msgid "viewing list of users"
+msgstr "προεπισκόπηση λίστας χρηστών"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:129(secondary)
+msgid "viewing list of groups"
+msgstr "προεπισκόπηση λίστας ομάδων"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:150(secondary)
+msgid "filtering list of users"
+msgstr "φιλτραρισμένη λίστα χρηστών"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:154(secondary)
+msgid "filtering list of groups"
+msgstr "φιλτραρισμένη λίστα ομάδων"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:156(para)
+msgid "To view a list of local users on the system, click the <guilabel>Users</guilabel> tab. To view a list of local groups on the system, click the <guilabel>Groups</guilabel> tab."
+msgstr "Για να δείτε τη λίστα από τοπικούς χρήστες του συστήματος, πατήστε στο <guilabel>Χρήστες</guilabel>. Για να δείτε τη λίστα από τις τοπικές ομάδες του συστήματος, πατήστε στο <guilabel>Ομάδες</guilabel>."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:159(para)
+msgid "To find a specific user or group, type the first few letters of the name in the <guilabel>Search filter</guilabel> field. Press <keycap>Enter</keycap> or click the <guibutton>Apply filter</guibutton> button. The filtered list is displayed."
+msgstr "Για να βρείτε έναν συγκεκριμένο χρήστη ή ομάδα, πληκτρολογήστε τα πρώτα γράμματα του ονόματος στο πεδίο <guilabel>Αναζήτηση φίλτρου</guilabel>. Πατήστε <keycap>Enter</keycap> ή πατήστε το <guibutton>Εφαρμογή φίλτρου</guibutton>. Η φιλτραρισμένη λίστα θα εμφανιστεί. "
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:162(para)
+msgid "To sort the users or groups, click on the column name. The users or groups are sorted according to the value of that column."
+msgstr "Για να εμφανιστούν οι χρήστες ή οι ομάδες, πατήστε το όνομα στη στήλη. Οι χρήστες και οι ομάδες εμφανίζονται ανάλογα με την τιμή της στήλης."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:165(para)
+msgid "User IDs below 500 are reserved for system users. By default, <application>User and Group Configuration Tool</application> does not display system users. To view all users, including the system users, go to <menuchoice><guimenu>Edit</guimenu><guisubmenu>Preferences</guisubmenu></menuchoice> and uncheck <guimenuitem>Hide system users and groups</guimenuitem> from the dialog box."
+msgstr "Τα ID χρηστών κάτω του 500 κρατούνται για χρήστες συστήματος. Απο προεπιλογή, το <application>Εργαλείο Ρυθμίσεων Χρηστών και Ομάδων</application> δεν δείχνει τους χρήστες συστήματος. Για να δείτε όλους τους χρήστες, συμπεριλαμβανομένων και των χρηστών συστήματος, πηγαίνετε στο <menuchoice><guimenu>Επεξεργασία</guimenu><guisubmenu>Προτιμήσεις</guisubmenu></menuchoice> και απενεργοποιήστε το <guimenuitem>Απόκρυψη χρηστών συστήματος και ομάδων</guimenuitem> στο παράθυρο διαλόγου."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:169(title)
+msgid "Adding a New User"
+msgstr "Προσθήκη Νέου Χρήστη"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:172(secondary)
+msgid "adding users"
+msgstr "προσθήκη χρηστών"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:174(para)
+msgid "To add a new user, click the <guibutton>Add User</guibutton> button. A window as shown in <xref linkend=\"user-new-fig\"/> appears. Type the username and full name for the new user in the appropriate fields. Type the user's password in the <guilabel>Password</guilabel> and <guilabel>Confirm Password</guilabel> fields. The password must be at least six characters."
+msgstr "Για να προσθέσετε ένα νέο χρήστη, πατήστε το <guibutton>Προσθήκη Χρήστη</guibutton>. Θα εμφανιστεί ένα παράθυρο όπως φαίνεται στο <xref linkend=\"user-new-fig\"/>. Πληκτρολογείστε το όνομα χρήστη (username) και το πλήρες όνομα του νέου χρήστη στα ανάλογα πεδία. Πληκτρολογείστε τον κωδικό χρήστη στα πεδία <guilabel>Κωδικός</guilabel> και <guilabel>Επιβεβαίωση κωδικού</guilabel>. Ο κωδικός πρέπει να αποτελείται το λιγότερο από έξι χαρακτήρες."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:178(title)
+msgid "Tip"
+msgstr "Συμβουλή"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:179(para)
+msgid "It is advisable to use a much longer password, as this makes it more difficult for an intruder to guess it and access the account without permission. It is also recommended that the password not be based on a dictionary term; use a combination of letters, numbers and special characters."
+msgstr "Συνίσταται να χρησιμοποιείτε όσο πιο μεγάλο κωδικό γίνεται, αφού έτσι γίνεται πιο δύσκολο για κάποιον εισβολέα να τον μαντέψει και να έχει πρόσβαση στο λογαριασμό χωρίς άδεια. Συνίσταται επίσης ο κωδικός να μην βασίζεται σε κάποιο λεξιλογικό όρο. Χρησιμοποιήστε συνδυασμό γραμμάτων, αριθμών και ειδικών χαρακτήρων. "
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:183(para)
+msgid "Select a login shell. If you are not sure which shell to select, accept the default value of <computeroutput>/bin/bash</computeroutput>. The default home directory is <filename>/home/<replaceable>&lt;username&gt;</replaceable>/</filename>. You can change the home directory that is created for the user, or you can choose not to create the home directory by unselecting <guilabel>Create home directory</guilabel>."
+msgstr "Επιλέξτε ένα τερματικό. Εάν δεν είστε σίγουρος ποιο τερματικό να επιλέξετε, αποδεχθείτε την προεπιλεγμένη τιμή <computeroutput>/bin/bash</computeroutput>. Ο προεπιλεγμένος κατάλογος χρηστών είναι <filename>/home/<replaceable>&lt;username&gt;</replaceable>/</filename>. Μπορείτε να αλλάξετε τον κατάλογο χρηστών που δημιουργήθηκε από τον χρήστη, ή μπορείτε να επιλέξετε να μην δημιουργήσετε τον κατάλογο χρηστών με το να απενεργοποιήσετε το <guilabel>Δημιουργία καταλόγου χρηστών</guilabel>."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:186(para)
+msgid "If you select to create the home directory, default configuration files are copied from the <filename>/etc/skel/</filename> directory into the new home directory."
+msgstr "Αν επιλέξετε να δημιουργήσετε έναν κατάλογο χρηστών, τα προεπιλεγμένα αρχεία ρυθμίσεων αντιγράφονται από τον κατάλογο <filename>/etc/skel/</filename> στον νέο κατάλογο χρηστών."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:189(para)
+msgid "By default, a <firstterm>user private group</firstterm> (UPG) scheme is used. The UPG scheme does not add or change anything in the standard UNIX way of handling groups; it offers a new convention. Whenever you create a new user, by default, a unique group with the same name as the user is created. If you do not want to create this group, unselect <guilabel>Create a private group for the user</guilabel>."
+msgstr "Ως προεπιλογή, χρησιμοποιείται μια <firstterm>ιδιωτική ομάδα χρήστη</firstterm> (user private group, UPG). H UPG δομή δεν προσθέτει ή αλλάζει κάτι στο βασικό UNIX τρόπο χειρισμού ομάδων, αλλά προσφέρει μια νέα σύμβαση. Όποτε δημιουργείτε ένα νέο χρήστη, από προεπιλογή, θα δημιουργείται και μια νέα ομάδα με όνομα ίδιο με αυτό του χρήστη. Αν δεν επιθυμείτε να δημιουργήσετε αυτή την ομάδα, απενεργοποιήστε το <guilabel>Δημιουργία ιδιωτικής ομάδας γι' αυτόν τον χρήστη</guilabel>."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:192(para)
+msgid "To specify a user ID for the user, select <guibutton>Specify user ID manually</guibutton>. If the option is not selected, the next available user ID above 500 is assigned to the new user. Because user IDs below 500 are reserved for system users, it is not advisable to manually assign user IDs 1-499."
+msgstr "Για να ορίσετε ένα ID χρήστη για κάποιον, επιλέξτε <guibutton>Ορισμός ID χρήστη χειροκίνητα</guibutton>. Αν η επιλογή δεν έχει οριστεί, το επόμενο διαθέσιμο ID χρήστη πέραν του 500 εισάγεται στο νέο χρήστη. Επειδή τα ID χρηστών κάτω απο 500 κρατούνται για του χρήστες συστήματος, δεν συνίσταται να ορίζονται χειροκίνητα ID χρηστών 1-499. "
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:195(para)
+msgid "Click <guibutton>OK</guibutton> to create the user."
+msgstr "Πατήστε <guibutton>OK</guibutton> για να δημιουργήσετε τον νέο χρήστη."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:199(title)
+msgid "New User"
+msgstr "Νέος Χρήστης"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:205(para)
+msgid "Creating a new user"
+msgstr "Δημιουργία νέου χρήστη"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:211(para)
+msgid "To configure more advanced user properties, such as password expiration, modify the user's properties after adding the user. Refer to <xref linkend=\"s2-system-config-users-user-properties\"/> for more information."
+msgstr "Για να ρυθμίσετε πιο προχωρημένες ιδιότητες χρήστη, όπως τη λήξη κωδικού, τροποποιήστε τις ιδιότητες χρήστη αφού προσθέσετε τον χρήστη. Αναφερθείτε στο  <xref linkend=\"s2-system-config-users-user-properties\"/> για περισσότερες πληροφορίες."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:217(title)
+msgid "Modifying User Properties"
+msgstr "Τροποποίηση Ιδιοτήτων Χρήστη"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:220(secondary)
+msgid "modifying users"
+msgstr "τροποποίηση χρηστών"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:224(secondary)
+msgid "modify groups for a user"
+msgstr "τροποποίηση ομάδων για ένα χρήστη"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:226(para)
+msgid "To view the properties of an existing user, click on the <guilabel>Users</guilabel> tab, select the user from the user list, and click <guibutton>Properties</guibutton> from the menu (or choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice> from the pulldown menu). A window similar to <xref linkend=\"user-properties-fig\"/> appears."
+msgstr "Για να δείτε τις ιδιότητες ενός υπάρχοντος χρήστη, πατήστε στο <guilabel>Χρήστες</guilabel>, επιλέξτε τον χρήστη από τη λίστα και πατήστε <guibutton>Ιδιότητες</guibutton> από το μενού (ή επιλέξτε <menuchoice><guimenu>Αρχείο</guimenu><guimenuitem>Ιδιότητες</guimenuitem></menuchoice> από το συρόμενο μενού). Θα εμφανιστεί ένα παράθυρο παρόμοιο με το <xref linkend=\"user-properties-fig\"/>."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:230(title)
+msgid "User Properties"
+msgstr "Ιδιότητες Χρήστη"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:236(para)
+msgid "Modifying user properties"
+msgstr "Τροποποίηση ιδιοτήτων χρήστη"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:242(para)
+msgid "The <guilabel>User Properties</guilabel> window is divided into multiple tabbed pages:"
+msgstr "Το παράθυρο <guilabel>Ιδιότητες Χρήστη</guilabel> χωρίζεται σε πολλαπλές καρτέλες:"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:247(secondary)
+msgid "changing password"
+msgstr "αλλαγή κωδικού"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:251(secondary)
+msgid "changing login shell"
+msgstr "αλλαγή κελύφους σύνδεσης (shell)"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:255(secondary)
+msgid "changing full name"
+msgstr "αλλαγή πλήρους ονόματος"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:259(secondary)
+msgid "changing home directory"
+msgstr "αλλαγή καταλόγου χρηστών"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:263(para)
+msgid "<guilabel>User Data</guilabel> — Shows the basic user information configured when you added the user. Use this tab to change the user's full name, password, home directory, or login shell."
+msgstr "<guilabel>Πληροφορίες Χρήστη</guilabel> — Εμφανίζει τις βασικές πληροφορίες χρήστη που ρυθμίστηκαν όταν προσθέσατε τον χρήστη. Χρησιμοποιήστε αυτό το πεδίο για να αλλάξετε το πλήρες όνομα, τον κωδικό, τον αρχικό κατάλογο, ή την περιοχή σύνδεσης."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:268(para)
+msgid "<guilabel>Account Info</guilabel> — <indexterm significance=\"normal\"><primary>user configuration</primary><secondary>setting user account expiration</secondary></indexterm> Select <guibutton>Enable account expiration</guibutton> if you want the account to expire on a certain date. Enter the date in the provided fields. <indexterm significance=\"normal\"><primary>user configuration</primary><secondary>locking user accounts</secondary></indexterm> Select <guilabel>Local password is locked</guilabel> to lock the user account and prevent the user from logging into the system."
+msgstr "<guilabel>Πληροφορίες Λογαριασμού</guilabel> — <indexterm significance=\"normal\"><primary>ρύθμιση χρήστη</primary><secondary>ορισμός λήξης λογαριασμού χρήστη</secondary></indexterm> Επιλογή <guibutton>Ενεργοποίηση λήξης λογαριασμού</guibutton> εάν θέλετε ο λογαριασμός να λήγει μια συγκεκριμένη ημερομηνία. Εισάγετε την ημερομηνία στα δοθέντα πεδία. <indexterm significance=\"normal\"><primary>ρύθμιση χρήστη</primary><secondary>κλείδωμα λογαριασμών χρηστών</secondary></indexterm> Επιλογή <guilabel>Τοπικός κωδικός κλειδωμένος</guilabel> για να κλειδώσετε το λογαριασμό χρήστη και να προλαμβάνετε την είσοδο του χρήστη στο σύστημα."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:283(secondary)
+msgid "password expiration"
+msgstr "λήξη κωδικού"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:285(para)
+msgid "<guilabel>Password Info</guilabel> — Displays the date that the user's password last changed. To force the user to change passwords after a certain number of days, select <guilabel>Enable password expiration</guilabel> and enter a desired value in the <guilabel>Days before change required:</guilabel> field. The number of days before the user's password expires, the number of days before the user is warned to change passwords, and days before the account becomes inactive can also be changed."
+msgstr "<guilabel>Πληροφορίες κωδικού</guilabel> —  Εμφανίζει την ημερομηνία που έγινε η τελευταία αλλαγή του κωδικού χρήστη. Για να υποχρεώσετε το χρήστη να αλλάζει κωδικό μετά από συγκεκριμένο αριθμό ημερών, επιλέξτε <guilabel>Ενεργοποίηση λήξης κωδικού</guilabel> και βάλτε την επιθυμητή τιμή στο πεδίο <guilabel>Απαιτούμενες μέρες για αλλαγή κωδικού:</guilabel>. Ο αριθμός των ημερών πριν τη λήξη του κωδικού, ο αριθμός των ημερών πριν προειδοποιηθεί ο χρήστης να αλλάξει κωδικό, και οι μέρες μέχρι να απενεργοποιηθεί ο λογαριασμός, μπορούν επίσης να αλλάξουν. "
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:290(para)
+msgid "<indexterm significance=\"normal\"><primary>user configuration</primary><secondary>adding users to groups</secondary></indexterm><guilabel>Groups</guilabel> — Allows you to view and configure the Primary Group of the user, as well as other groups that you want the user to be a member of."
+msgstr "<indexterm significance=\"normal\"><primary>ρύθμιση χρήστη</primary><secondary>προσθήκη χρηστών σε ομάδες</secondary></indexterm><guilabel>Ομάδες</guilabel> — Σας επιτρέπει να δείτε και να τροποποιήσετε την Αρχική Ομάδα του χρήστη, καθώς και άλλες ομάδες που θέλετε ο χρήστης να παίρνει μέρος."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:302(title)
+msgid "Adding a New Group"
+msgstr "Προσθήκη Νέας Ομάδας"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:305(secondary)
+msgid "adding groups"
+msgstr "προσθήκη ομάδων"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:307(para)
+msgid "To add a new user group, click the <guibutton>Add Group</guibutton> button. A window similar to <xref linkend=\"group-new-fig\"/> appears. Type the name of the new group to create. To specify a group ID for the new group, select <guibutton>Specify group ID manually</guibutton> and select the GID. Note that group IDs lower than 500 are reserved for system groups."
+msgstr "Για να προσθέσετε μια νέα ομάδα χρηστών, πατήστε το <guibutton>Προσθήκη Ομάδας</guibutton>. Θα εμφανιστεί ένα νέο παράθυρο παρόμοιο με το <xref linkend=\"group-new-fig\"/>. Πληκτρολογείστε το όνομα της ομάδας που θέλετε να δημιουργήσετε. Για να ορίσετε ID ομάδας για μια νέα ομάδα, επιλέξτε <guibutton>Ορισμός ID ομάδας χειροκίνητα</guibutton> και επιλέξτε το GID. Σημειώστε πως τα ID ομάδας κάτω του 500 κρατούνται για τις ομάδες συστήματος."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:311(title)
+msgid "New Group"
+msgstr "Νέα Ομάδα"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:317(para)
+msgid "Creating a new group"
+msgstr "Δημιουργία νέας ομάδας"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:323(para)
+msgid "Click <guibutton>OK</guibutton> to create the group. The new group appears in the group list."
+msgstr "Πατήστε <guibutton>OK</guibutton> για να δημιουργήσετε την ομάδα. Η νέα ομάδα θα εμφανιστεί στη λίστα ομάδων. "
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:329(title)
+msgid "Modifying Group Properties"
+msgstr "Τροποποίηση Ιδιοτήτων Ομάδων"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:332(secondary)
+msgid "modifying group properties"
+msgstr "τροποποίηση ιδιοτήτων ομάδων"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:334(para)
+msgid "To view the properties of an existing group, select the group from the group list and click <guibutton>Properties</guibutton> from the menu (or choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice> from the pulldown menu). A window similar to <xref linkend=\"group-properties-fig\"/> appears."
+msgstr "Για να δείτε τις ιδιότητες μιας υπάρχουσας ομάδας, επιλέξτε την ομάδα από τη λίστα και πατήστε <guibutton>Ιδιότητες</guibutton> από το μενού (ή επιλέξτε <menuchoice><guimenu>Αρχείο</guimenu><guimenuitem>Ιδιότητες</guimenuitem></menuchoice> από το συρόμενο μενού). Θα εμφανιστεί ένα παράθυρο παρόμοιο με το <xref linkend=\"group-properties-fig\"/>. "
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:338(title)
+msgid "Group Properties"
+msgstr "Ιδιότητες Ομάδας"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:344(para)
+msgid "Modifying group properties"
+msgstr "Τροποποίηση ιδιοτήτων ομάδων"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:352(secondary)
+msgid "modify users in groups"
+msgstr "τροποποίηση χρηστών σε ομάδες"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:354(para)
+msgid "The <guilabel>Group Users</guilabel> tab displays which users are members of the group. Use this tab to add or remove users from the group. Click <guibutton>OK</guibutton> to save your changes."
+msgstr "Το πεδίο <guilabel>Χρήστες ομάδων</guilabel> δείχνει ποιοι χρήστες είναι μέλη της ομάδας. Χρησιμοποιήστε το πεδίο αυτό για να προσθέσετε ή να αφαιρέσετε χρήστες από την ομάδα. Πατήστε <guibutton>OK</guibutton> για να αποθηκεύσετε τις αλλαγές."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:0(None)
+msgid "translator-credits"
+msgstr "Θάλεια Παπουτσάκη <saliyath@gmail.com>, 2010."

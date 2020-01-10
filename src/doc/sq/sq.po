@@ -1,0 +1,831 @@
+# Albanian translations for PACKAGE package.
+# Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the system-config-users package.
+# Automatically generated, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-01-31 14:30+0100\n"
+"PO-Revision-Date: 2008-09-13 16:18+0200\n"
+"Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/groupProperties.py:118
+#: ../src/groupWindow.py:110
+#: ../src/userGroupCheck.py:66
+msgid "Please enter a group name."
+msgstr "Ju lutem jepni emër grupi."
+
+#: ../src/groupProperties.py:132
+#, python-format
+msgid "The group '%s' already exists. Please choose a different name."
+msgstr "Ka tashmë një grup '%s'. Ju lutem zgjidhni një emër tjetër."
+
+#: ../src/groupProperties.py:174
+#: ../src/mainWindow.py:813
+#, python-format
+msgid "You cannot remove user '%s' from their primary group."
+msgstr "Nuk mund të hiqni përdoruesin '%s' prej grupit të vet parësor."
+
+#: ../src/groupWindow.py:118
+#, python-format
+msgid "A group with name '%s' already exists."
+msgstr "Ka tashmë një grup me emrin '%s'."
+
+#. This uid already exists, so complain
+#. This (chosen) gid already exists, so complain
+#: ../src/groupWindow.py:133
+#: ../src/userWindow.py:297
+#, python-format
+msgid "The gid %s is already in use."
+msgstr "Gid-ja %s është në përdorim tashmë."
+
+#: ../src/groupWindow.py:140
+msgid "Creating a group with a GID less than 500 is not recommended.  Are you sure you want to do this?"
+msgstr "Nuk këshillohet krijimi i një grupi me GID më të vogël se 500.  Jeni të sigurt se doni ta bëni këtë?"
+
+#: ../src/mainWindow.py:135
+msgid "The help viewer could not be found. To be able to view help you need to install the 'yelp' package."
+msgstr "Nuk u gjet dot parës ndihme. Për të qenë në gjendje të shihni ndihmën lypset të instaloni paketën 'yelp'."
+
+#: ../src/mainWindow.py:150
+#, python-format
+msgid "No helper application for the URL '%(url)s can be found."
+msgstr "Nuk u gjet dot zbatim ndihmës për URL-në '%(url)s."
+
+#: ../src/mainWindow.py:175
+#, python-format
+msgid "Error saving settings to %s"
+msgstr "Gabim gjatë ruajtjes te %s"
+
+#: ../src/mainWindow.py:185
+msgid "Users and Groups"
+msgstr "Përdoruesa dhe Grupe"
+
+#: ../src/mainWindow.py:186
+msgid "Add or remove users and groups"
+msgstr "Shtoni ose hiqni përdoruesa dhe grupe"
+
+#: ../src/mainWindow.py:199
+msgid "Logon Information Required"
+msgstr "Lypsen Të dhëna Hyrjeje"
+
+#: ../src/mainWindow.py:211
+msgid "User Name"
+msgstr "Emër Përdoruesi"
+
+#: ../src/mainWindow.py:215
+msgid "User ID"
+msgstr "ID Përdoruesi"
+
+#: ../src/mainWindow.py:219
+msgid "Primary Group"
+msgstr "Grup Parësor"
+
+#: ../src/mainWindow.py:223
+msgid "Full Name"
+msgstr "Emër i Plotë"
+
+#: ../src/mainWindow.py:227
+msgid "Login Shell"
+msgstr "Shell Hyrjesh"
+
+#: ../src/mainWindow.py:231
+msgid "Home Directory"
+msgstr "Drejtori Hyrje"
+
+#: ../src/mainWindow.py:247
+msgid "Group Name"
+msgstr "Emër Grupi"
+
+#: ../src/mainWindow.py:251
+msgid "Group ID"
+msgstr "ID-i Grupi"
+
+#: ../src/mainWindow.py:255
+msgid "Group Members"
+msgstr "Anëtarë Grupi"
+
+#: ../src/mainWindow.py:489
+#, python-format
+msgid ""
+"I couldn't find the numerical ID of the user '%(user)s'.\n"
+"\n"
+msgstr ""
+"Nuk gjeta dot ID numerike të përdoruesit '%(user)s'.\n"
+"\n"
+
+#: ../src/mainWindow.py:490
+#, python-format
+msgid ""
+"I couldn't find the numerical IDs of these users:\n"
+"%(users)s\n"
+"\n"
+msgstr ""
+"Nuk gjeta dot ID-të numerike të këtyre përdoruesve:\n"
+"%(users)s\n"
+"\n"
+
+#: ../src/mainWindow.py:501
+#, python-format
+msgid ""
+"I couldn't find the numerical ID of the group '%(group)s'.\n"
+"\n"
+msgstr ""
+"Nuk gjeta dot ID numerike të grupit '%(group)s'.\n"
+"\n"
+
+#: ../src/mainWindow.py:502
+#, python-format
+msgid ""
+"I couldn't find the numerical IDs of these groups:\n"
+"%(groups)s\n"
+"\n"
+msgstr ""
+"Nuk gjeta dot ID-të numerike të këtyre grupeve:\n"
+"%(groups)s\n"
+"\n"
+
+#: ../src/mainWindow.py:512
+#, python-format
+msgid ""
+"%(msg_users)s%(msg_groups)s\n"
+"In most cases this is caused by inconsistencies in the user or group database, e.g. between the files /etc/passwd, /etc/group and their respective shadow files /etc/shadow and /etc/gshadow. I will try to ignore these entries and continue for now, but please fix these inconsistencies as soon as possible."
+msgstr ""
+"%(msg_users)s%(msg_groups)s\n"
+"Në shumicën e rasteve kjo shkaktohet nga mospërputhje te baza e të dhënave të përdoruesve ose grupeve, p.sh. ndërmjet kartelave /etc/passwd, /etc/group dhe kartelave hije të tyre përkatëse /etc/shadow dhe /etc/gshadow. Do të provoj t'i shpërfill dhe të vazhdoj tani, por ju lutem ndreqini këto mospërputhje sa më shpejt të jetë e mundur."
+
+#: ../src/mainWindow.py:631
+#: system-config-users.gladestrings:92
+msgid "system-config-users"
+msgstr "system-config-users"
+
+#: ../src/mainWindow.py:641
+#, python-format
+msgid "Copyright © %(years)s %(holder)s <%(email)s>"
+msgstr "Të drejta kopjimi © %(viti)s %(mbajtësi)s <%(email)s>"
+
+#: ../src/mainWindow.py:643
+#, python-format
+msgid "Copyright © %(years)s %(holder)s"
+msgstr "Të drejta kopjimi © %(years)s %(holder)s"
+
+#: ../src/mainWindow.py:651
+#, python-format
+msgid "%(author)s <%(email)s>"
+msgstr "%(autor)s <%(email)s>"
+
+#: ../src/mainWindow.py:653
+#, python-format
+msgid "%(author)s"
+msgstr "%(autor)s"
+
+#: ../src/mainWindow.py:701
+msgid "Deleting the root user is not allowed."
+msgstr "Nuk lejohet fshirja e përdoruesit rrënjë ."
+
+#: ../src/mainWindow.py:710
+msgid "- An installed software package contains this directory."
+msgstr "- Kjo drejtori përmbahet në një paketë software-i të instaluar."
+
+#: ../src/mainWindow.py:712
+msgid "- A system user owns this directory and removing it may impair the system's integrity."
+msgstr "- Kjo drejtori është pronë e një përdoruesi sistem dhe heqja mund të cënojë integritetin e sistemit."
+
+#: ../src/mainWindow.py:714
+msgid "- This directory doesn't exist or isn't writable."
+msgstr "- Kjo drejtori nuk ekziston ose nuk është e shkruajtshme."
+
+#: ../src/mainWindow.py:716
+#, python-format
+msgid "- The user '%s' doesn't own this directory."
+msgstr "- Përdoruesi '%s' nuk e ka të vetën këtë drejtori."
+
+#: ../src/mainWindow.py:723
+#, python-format
+msgid "<b>There are currently processes running that are owned by '%s'!</b>  This user is probably still logged in.  "
+msgstr "<b>Ka procese të tanishëm në xhirim e sipër, e që janë pronë e '%s'!</b>  Ka gjasa që ky përdorues të jetë ende brenda.  "
+
+#: ../src/mainWindow.py:725
+#, python-format
+msgid "Do you really want to remove the user '%s'?"
+msgstr "Doni vërtet të hiqni përdoruesin '%s'?"
+
+#: ../src/mainWindow.py:734
+#, python-format
+msgid "Delete %(user)s's home directory ('%(homedir)s') and temporary files."
+msgstr "Fshi drejtorinë shtëpi ('%(homedir)s') për %(user)s dhe kartela të përkohshme."
+
+#: ../src/mainWindow.py:736
+#, python-format
+msgid "Delete %(user)s's home directory ('%(homedir)s'), mail spool ('%(mailspool)s') and temporary files."
+msgstr "Fshi drejtorinë shtëpi ('%(homedir)s') për %(user)s, pjesën e postës për të ('%(mailspool)s') dhe kartela të përkohshme."
+
+#: ../src/mainWindow.py:743
+#, python-format
+msgid ""
+"I won't delete %(user)s's home directory ('%(homedir)s') for this reason:\n"
+"%(reason)s"
+msgstr ""
+"Nuk do ta fshij drejtorinë shtëpi ('%(homedir)s') për %(user)s për këtë arsye:\n"
+"%(reason)s"
+
+#: ../src/mainWindow.py:744
+#, python-format
+msgid ""
+"I won't delete %(user)s's home directory ('%(homedir)s') for these reasons:\n"
+"%(reason)s"
+msgstr ""
+"Nuk do ta fshij drejtorinë shtëpi ('%(homedir)s') për %(user)s për këto arsye:\n"
+"%(reason)s"
+
+#: ../src/mainWindow.py:817
+#, python-format
+msgid "Are you sure you want to delete the group '%s'?"
+msgstr "Jeni të sigurt se doni të fshihet grupi '%s'?"
+
+#: ../src/system-config-users.py:42
+msgid "system-config-users requires a currently running X server."
+msgstr "system-config-users lyp një shërbyes X në xhirim e sipër."
+
+#: ../src/userGroupCheck.py:57
+#: ../src/userProperties.py:310
+msgid "Please enter a user name."
+msgstr "Ju lutem jepni një emër përdoruesi."
+
+#: ../src/userGroupCheck.py:58
+#, python-format
+msgid "The user name must not exceed %d characters."
+msgstr "Emri i përdoruesit nuk duhet të jetë më i gjatë se %d shenja."
+
+#: ../src/userGroupCheck.py:59
+#, python-format
+msgid "The user name '%s' contains whitespace. Please do not include whitespace in the user name."
+msgstr "Emri i përdoruesit '%s' përmban hapësira bosh. Ju lutem mos përdorni hapësira boshe te emri i përdoruesit."
+
+#: ../src/userGroupCheck.py:60
+#, python-format
+msgid "The user name '%s' contains a dollar sign which is not at the end. Please use dollar signs only at the end of user names to indicate Samba machine accounts."
+msgstr "Emri i përdoruesit '%s' përmban një shenjë dollari e cila nuk gjendet në fund. Ju lutem përdorni shenja dollari vetëm në fund të të emrave të përdoruesve, për të treguar llogarira Samba makine."
+
+#: ../src/userGroupCheck.py:61
+#, python-format
+msgid "The user name '%(name)s' contains an invalid character at position %(position)d."
+msgstr "Emri i përdoruesit '%(name)s' përmban te pozicioni %(position)d një shenjë të pavlefshme."
+
+#: ../src/userGroupCheck.py:62
+msgid "Using all numbers as the user name can cause confusion about whether the user name or numerical user id is meant. Do you really want to use a numerical-only user name?"
+msgstr "Përdorimi vetëm i numrave si emër përdoruesi mund të shkaktojë paqartësi rreth faktit nëse bëhet fjalë për emrin e përdoruesit apo për id-në e tij numerike. Doni vërtet të përdorni emër përdoruesi vetëm me shifra?"
+
+#: ../src/userGroupCheck.py:67
+#, python-format
+msgid "The group name must not exceed %d characters."
+msgstr "Emri i grupit nuk duhet të jetë më i gjatë se %d shenja."
+
+#: ../src/userGroupCheck.py:68
+#, python-format
+msgid "The group name '%s' contains whitespace. Please do not include whitespace in the group name."
+msgstr "Emri i grupit '%s' përmban hapësira bosh. Ju lutem mos përdorni hapësira boshe te emri i grupit."
+
+#: ../src/userGroupCheck.py:69
+#, python-format
+msgid "The group name '%(name)s' contains an invalid character at position %(position)d."
+msgstr "Emri i grupit '%(name)s' përmban te pozicioni %(position)d një shenjë të pavlefshme."
+
+#: ../src/userGroupCheck.py:70
+msgid "Using all numbers as the group name can cause confusion about whether the group name or numerical group id is meant. Do you really want to use a numerical-only group name?"
+msgstr "Përdorimi vetëm i numrave si emër grupi mund të shkaktojë paqartësi rreth faktit nëse bëhet fjalë për emrin e grupit apo për id-në e tij numerike. Doni vërtet të përdorni emër grupi vetëm me shifra?"
+
+#: ../src/userGroupCheck.py:135
+msgid "The password contains invalid characters.  Please use only ASCII characters."
+msgstr "Fjakëkalimi përmban shenja të pavlefshme.  Ju lutem përdorni vetëm shenja ASCII."
+
+#: ../src/userGroupCheck.py:149
+#, python-format
+msgid "The chosen password is too weak: %s. Do you want to use it anyway?"
+msgstr "Fjalëkalimi i zgjedhur është shumë i dobët: %s. Doni të përdoret, sido që të jetë?"
+
+#. have to check for whitespace for gecos, since whitespace is ok
+#: ../src/userGroupCheck.py:160
+#, python-format
+msgid "The name '%s' contains invalid characters.  Please use only UTF-8 characters."
+msgstr "Emri '%s' përmban shenja të pavlefshme.  Ju lutem përdorni vetëm shenja UTF-8."
+
+#. have to check for colons since /etc/passwd is a colon delimited file
+#: ../src/userGroupCheck.py:168
+#, python-format
+msgid "The name '%s' contains a colon.  Please do not use colons in the name."
+msgstr "Emri '%s' përmban shenjën dy pika.  Ju lutem mos e përdorni shenjën dy pika në emra."
+
+#: ../src/userGroupCheck.py:177
+msgid "Please enter a home directory."
+msgstr "Ju lutem jepni një drejtori hyrje."
+
+#. have to check for colons since /etc/passwd is a colon delimited file
+#: ../src/userGroupCheck.py:184
+#, python-format
+msgid "The directory name '%s' contains a colon.  Please do not use colons in the directory name."
+msgstr "Emri '%s' i drejtorisë përmban shenjën dy pika.  Ju lutem mos e përdorni shenjën dy pika në emra drejtorish."
+
+#: ../src/userGroupCheck.py:193
+#, python-format
+msgid "The directory name '%s' doesn't begin with a '/'. Please specify an absolute path for the home directory."
+msgstr "Emri i drejtorisë '%s' s'fillon me një '/'. Ju lutem tregoni një shteg absolut për drejtorinë shtëpi."
+
+#: ../src/userGroupCheck.py:199
+#, python-format
+msgid "The directory name '%s' has path components which are too long. Please use shorter path components for the home directory."
+msgstr "Emri i drejtorisë '%s' ka përbërëse shtegu të cilat janë shumë të gjata. Ju lutem përdorni për drejtorinë shtëpi përbërëse shtegu më të shkurtra."
+
+#: ../src/userGroupCheck.py:206
+#, python-format
+msgid "The directory name '%s' contains empty path components. Please specify a home directory name without empty path components."
+msgstr "Emri i drejtorisë '%s' përmban përbërëse shtegu bosh. Ju lutem jepni emër drejtorie shtëpi pa përbërëse shtegu bosh."
+
+#: ../src/userGroupCheck.py:215
+#, python-format
+msgid "The directory name '%s' contains illegal path components. Please don't use '.' or '..' as path components for the home directory."
+msgstr "Emri i drejtorisë '%s' përmban përbërëse të jashtëligjshme shtegu. Ju lutem mos përdorni '.' or '..' si përbërëse shtegu për drejtorinë shtëpi."
+
+#: ../src/userProperties.py:121
+#: ../src/userWindow.py:87
+msgid "User"
+msgstr "Përdorues"
+
+#: ../src/userProperties.py:121
+#: ../src/userWindow.py:87
+msgid "Staff"
+msgstr "Stafi"
+
+#: ../src/userProperties.py:122
+#: ../src/userWindow.py:88
+msgid "System Administrator"
+msgstr "Administrues Sistemi"
+
+#: ../src/userProperties.py:152
+msgid "Primary Group:"
+msgstr "Grup Parësor:"
+
+#: ../src/userProperties.py:329
+#, python-format
+msgid "The user '%s' already exists. Please choose a different name."
+msgstr "Ka tashmë një përdorues '%s'. Ju lutem zgjidhni një emër tjetër."
+
+#: ../src/userProperties.py:351
+#: ../src/userWindow.py:198
+msgid "Please enter a password for the user."
+msgstr "Ju lutem jepni një fjalëkalim për përdoruesin."
+
+#: ../src/userProperties.py:360
+#: ../src/userWindow.py:206
+msgid "The password is too short.  Please use at least 6 characters."
+msgstr "Fjalëkalimi është shumë i shkurtër.  Ju lutem përdorni të paktën 6 shenja."
+
+#: ../src/userProperties.py:369
+msgid "Passwords do not match."
+msgstr "Fjalëkalimet nuk përputhen."
+
+#: ../src/userProperties.py:446
+msgid "Please select at least one group for the user."
+msgstr "Ju lutem përzgjidhni të paktën një grup për përdoruesin."
+
+#: ../src/userProperties.py:465
+msgid "Please specify the month that the password will expire."
+msgstr "Ju lutem përcaktoni muajin kur do të skadojë fjalëkalimi."
+
+#: ../src/userProperties.py:473
+msgid "Please specify the day that the password will expire."
+msgstr "Ju lutem përcaktoni ditën kur do të skadojë fjalëkalimi."
+
+#: ../src/userProperties.py:481
+msgid "Please specify the year that the password will expire."
+msgstr "Ju lutem përcaktoni vitin kur do të skadojë fjalëkalimi."
+
+#. mktime will throw an OverflowError if the year is too big.
+#: ../src/userProperties.py:497
+msgid "The year is out of range.  Please select a different year."
+msgstr "Viti është jashtë intervalit. Ju lutem përzgjidhni një vit tjetër."
+
+#: ../src/userProperties.py:526
+msgid "Please specify the number of days before changing the password is allowed."
+msgstr "Ju lutem përcaktoni numrin e ditëve para se të lejohet ndryshimi i fjalëkalimit."
+
+#: ../src/userProperties.py:528
+#, python-format
+msgid "The number of days before changing the password is allowed must be between %(min)d and %(max)d."
+msgstr "Numri i ditëve para se të lejohet ndryshimi i fjalëkalimit duhet të jetë mes %(min)d dhe %(max)d."
+
+#: ../src/userProperties.py:533
+msgid "Please specify the number of days before changing the password is required."
+msgstr "Ju lutem përcaktoni numrin e ditëve para se të kërkohet ndryshimi i fjalëkalimit."
+
+#: ../src/userProperties.py:535
+#, python-format
+msgid "The number of days before changing the password is required must be between %(min)d and %(max)d."
+msgstr "Numri i ditëve para se të kërkohet ndryshimi i fjalëkalimit duhet të jetë mes %(min)d dhe %(max)d."
+
+#: ../src/userProperties.py:539
+msgid "Please specify the number of days to warn the user before changing the password is required."
+msgstr "Ju lutem përcaktoni numrin e ditëve për sinjalizim përdoruesi para se të kërkohet ndryshimi i fjalëkalimit."
+
+#: ../src/userProperties.py:541
+#, python-format
+msgid "The number of days to warn the user before changing the password is required must be between %(min)d and %(max)d."
+msgstr "Numri i ditëve për sinjalizim përdoruesi para se të kërkohet ndryshimi i fjalëkalimit duhet të jetë mes %(min)d dhe %(max)d."
+
+#: ../src/userProperties.py:547
+msgid "Please specify the number of days until the user account becomes inactive after password has expired."
+msgstr "Ju lutem përcaktoni numrin e ditëve përpara se llogaria e përdoruesit të bëhet jovepruese pasi të ketë skaduar fjalëkalimi."
+
+#: ../src/userProperties.py:549
+#, python-format
+msgid "The number of days until the user account becomes inactive after the password has expired must be between %(min)d and %(max)d. Setting it to -1 means the account won't become inactive."
+msgstr "Numri i ditëve përpara se llogaria e përdoruesit të bëhet jovepruese pasi të ketë skaduar fjalëkalimi duhet të jetë mes %(min)d dhe %(max)d. Caktimi i tij -1 do të thotë që llogaria nuk do të bëhet jovepruese."
+
+#: ../src/userWindow.py:215
+msgid "The passwords do not match."
+msgstr "Fjalëkalimet nuk përputhen."
+
+#. The user name is blank, so complain
+#: ../src/userWindow.py:246
+msgid "Please specify a user name"
+msgstr "Ju lutem jepni një emër përdoruesi"
+
+#. This user already exists, so complain
+#: ../src/userWindow.py:254
+#, python-format
+msgid "An account with username '%s' already exists."
+msgstr "Ka tashmë një llogari me emër përdoruesi '%s'."
+
+#. This uid already exists, so complain
+#: ../src/userWindow.py:290
+#, python-format
+msgid "The uid %s is already in use."
+msgstr "Uid-ja %s është në përdorim tashmë."
+
+#: ../src/userWindow.py:308
+msgid "Creating a user with a UID less than 500 is not recommended.  Are you sure you want to do this?"
+msgstr "Nuk këshillohet krijimi i një UID-je më të vogël se 500.  Jeni të sigurt se doni ta bëni këtë?"
+
+#: ../src/userWindow.py:338
+msgid "A group with this gid already exists.  What would you like to do?"
+msgstr "Ka tashmë një grup me këtë gid. Ç'doni të bëhet?"
+
+#: ../src/userWindow.py:340
+msgid "A group with this name already exists.  What would you like to do?"
+msgstr "Ka tashmë një grup me këtë emër. Ç'doni të bëhet?"
+
+#: ../src/userWindow.py:344
+msgid "Add to the existing group"
+msgstr "Shtoje te grupi ekzistues"
+
+#: ../src/userWindow.py:345
+msgid "Add to the 'users' group"
+msgstr "Shtoje te grupi 'përdorues'"
+
+#. Uh-oh.  It looks like /etc/group and /etc/gshadow are out of sync.  Give up and quit.
+#: ../src/userWindow.py:427
+msgid "The system group database cannot be read.  This problem is most likely caused by a mismatch in /etc/group and /etc/gshadow.  The program will exit now."
+msgstr "Nuk u lexua dot baza e të dhënave për grupin e sistemit.  Ka shumë të ngjarë që ky problem të jetë shkaktuar nga keqpërputhje te /etc/group dhe /etc/gshadow.  Programi tani do të mbyllet."
+
+#.
+#. * Translatable strings file generated by Glade.
+#. * Add this file to your project's POTFILES.in.
+#. * DO NOT compile it as part of your application.
+#.
+#: system-config-users.gladestrings:7
+msgid "Create New Group"
+msgstr "Krijo Grup të Ri"
+
+#: system-config-users.gladestrings:8
+#: system-config-users.gladestrings:38
+msgid "_Group Name:"
+msgstr "_Emër Grupi:"
+
+#: system-config-users.gladestrings:9
+#: system-config-users.gladestrings:77
+msgid "Specify g_roup ID manually:"
+msgstr "Tregoni ID _grupi dorazi:"
+
+#: system-config-users.gladestrings:10
+msgid "User Properties"
+msgstr "Veti Përdoruesi"
+
+#: system-config-users.gladestrings:11
+msgid "User _Name:"
+msgstr "_Emër Përdoruesi:"
+
+#: system-config-users.gladestrings:12
+#: system-config-users.gladestrings:67
+msgid "_Full Name:"
+msgstr "Emër i _Plotë:"
+
+#: system-config-users.gladestrings:13
+#: system-config-users.gladestrings:68
+msgid "_Password:"
+msgstr "_Fjalëkalim:"
+
+#: system-config-users.gladestrings:14
+#: system-config-users.gladestrings:69
+msgid "C_onfirm Password:"
+msgstr "_Ripohoni Fjalëkalimin:"
+
+#: system-config-users.gladestrings:15
+#: system-config-users.gladestrings:70
+msgid "_Login Shell:"
+msgstr "Shell _Hyrjesh:"
+
+#: system-config-users.gladestrings:16
+msgid "_Home Directory:"
+msgstr "_Drejtori Hyrje:"
+
+#: system-config-users.gladestrings:17
+#: system-config-users.gladestrings:71
+msgid "S_ELinux role:"
+msgstr "Rol S_ELinux:"
+
+#: system-config-users.gladestrings:18
+msgid "_User Data"
+msgstr "_Të dhëna Përdoruesi"
+
+#: system-config-users.gladestrings:19
+msgid "_Enable account expiration"
+msgstr "_Aktivizo skadim llogarie"
+
+#: system-config-users.gladestrings:20
+msgid "Account _expires (YYYY-MM-DD):"
+msgstr "Llogaria _skadon (VVVV-MM-DD):"
+
+#: system-config-users.gladestrings:21
+#: system-config-users.gladestrings:29
+msgid "     "
+msgstr "     "
+
+#: system-config-users.gladestrings:22
+#: system-config-users.gladestrings:23
+msgid "-"
+msgstr "-"
+
+#: system-config-users.gladestrings:24
+msgid "_Local password is locked"
+msgstr "Fjalëkalimi _vendor është i kyçur"
+
+#: system-config-users.gladestrings:25
+msgid "_Account Info"
+msgstr "Të dhëna _Llogarie "
+
+#: system-config-users.gladestrings:26
+msgid "User last changed password on:"
+msgstr "Përdoruesi e ndryshoi fjalëkalimin së fundi më:"
+
+#: system-config-users.gladestrings:27
+msgid "Unknown"
+msgstr "E panjohur"
+
+#: system-config-users.gladestrings:28
+msgid "_Enable password expiration"
+msgstr "_Aktivizo skadim fjalëkalimesh"
+
+#: system-config-users.gladestrings:30
+msgid "Days before change a_llowed:"
+msgstr ""
+
+#: system-config-users.gladestrings:31
+msgid "Days before change _required:"
+msgstr ""
+
+#: system-config-users.gladestrings:32
+msgid "Days _warning before change:"
+msgstr ""
+
+#: system-config-users.gladestrings:33
+msgid "Days before account _inactive:"
+msgstr ""
+
+#: system-config-users.gladestrings:34
+msgid "_Password Info"
+msgstr "Të dhëna _Fjalëkalimi"
+
+#: system-config-users.gladestrings:35
+msgid "Select the groups that the user will be a member of:"
+msgstr "Përzgjidhni grupet anëtar i të cilëve do të jetë përdoruesi:"
+
+#: system-config-users.gladestrings:36
+msgid "_Groups"
+msgstr "_Grupe"
+
+#: system-config-users.gladestrings:37
+msgid "Group Properties"
+msgstr "Veti Grupi"
+
+#: system-config-users.gladestrings:39
+msgid "Group _Data"
+msgstr "Të _dhëna Grupi"
+
+#: system-config-users.gladestrings:40
+msgid "Select the users to join this group:"
+msgstr "Përzgjidhni përdoruesit që do t'i bashkohen këtij grupi:"
+
+#: system-config-users.gladestrings:41
+msgid "Group _Users"
+msgstr "_Përdoruesa Grupi"
+
+#: system-config-users.gladestrings:42
+msgid "User Manager"
+msgstr "Përgjegjës Përdoruesish"
+
+#: system-config-users.gladestrings:43
+msgid "_File"
+msgstr "_Kartelë"
+
+#: system-config-users.gladestrings:44
+#: system-config-users.gladestrings:50
+msgid "Add _User"
+msgstr "Shto _Përdorues"
+
+#: system-config-users.gladestrings:45
+#: system-config-users.gladestrings:52
+msgid "Add _Group"
+msgstr "Shto _Grup"
+
+#: system-config-users.gladestrings:46
+msgid "_Edit"
+msgstr "_Përpunoni"
+
+#: system-config-users.gladestrings:47
+#: system-config-users.gladestrings:60
+msgid "_Help"
+msgstr "_Ndihmë"
+
+#: system-config-users.gladestrings:48
+msgid "_Contents"
+msgstr "_Përmbajtje"
+
+#: system-config-users.gladestrings:49
+msgid "New User"
+msgstr "Përdorues i Ri"
+
+#: system-config-users.gladestrings:51
+msgid "New Group"
+msgstr "Grup i Ri"
+
+#: system-config-users.gladestrings:53
+msgid "Edit properties"
+msgstr "Përpunoni veti"
+
+#: system-config-users.gladestrings:54
+msgid "Proper_ties"
+msgstr "_Veti"
+
+#: system-config-users.gladestrings:55
+msgid "Delete"
+msgstr "Fshije"
+
+#: system-config-users.gladestrings:56
+msgid "_Delete"
+msgstr "_Fshije"
+
+#: system-config-users.gladestrings:57
+msgid "Reload"
+msgstr "Ringarkoje"
+
+#: system-config-users.gladestrings:58
+msgid "_Refresh"
+msgstr "_Freskoje"
+
+#: system-config-users.gladestrings:59
+msgid "Help"
+msgstr "Ndihmë"
+
+#: system-config-users.gladestrings:61
+msgid "_Search filter:"
+msgstr ""
+
+#: system-config-users.gladestrings:62
+msgid "_Apply filter"
+msgstr ""
+
+#: system-config-users.gladestrings:63
+msgid "U_sers"
+msgstr "_Përdoruesa"
+
+#: system-config-users.gladestrings:64
+msgid "Gr_oups"
+msgstr "_Grupe"
+
+#: system-config-users.gladestrings:65
+msgid "Create New User"
+msgstr "Krijo Përdorues të Ri"
+
+#: system-config-users.gladestrings:66
+msgid "_User Name:"
+msgstr "_Emër Përdoruesi:"
+
+#: system-config-users.gladestrings:72
+msgid "Create _home directory"
+msgstr "Krijo drejtorinë _shtëpi"
+
+#: system-config-users.gladestrings:73
+#, fuzzy
+msgid "    "
+msgstr "    "
+
+#: system-config-users.gladestrings:74
+msgid "Home _Directory:"
+msgstr "_Drejtori Hyrjeje"
+
+#: system-config-users.gladestrings:75
+msgid "Create a private _group for the user"
+msgstr "Krijo _grup vetjak për përdoruesin"
+
+#: system-config-users.gladestrings:76
+msgid "Specify u_ser ID manually:"
+msgstr "Tregoni ID _përdoruesi dorazi:"
+
+#: system-config-users.gladestrings:78
+msgid "About system-config-users"
+msgstr "Rreth system-config-users"
+
+#: system-config-users.gladestrings:79
+msgid "<b>system-config-users</b>"
+msgstr "<b>system-config-users</b>"
+
+#: system-config-users.gladestrings:80
+msgid "Version @VERSION@"
+msgstr "Version @VERSION@"
+
+#: system-config-users.gladestrings:81
+msgid "Copyright (c) 2001 - 2005 Red Hat, Inc."
+msgstr "Të drejta Kopjimi (c) 2001 - 2005 Red Hat, Inc."
+
+#: system-config-users.gladestrings:82
+msgid "This software is distributed under the GNU General Public License."
+msgstr "Ky software qarkullon sipas Licensës së Përgjithshme Publike GNU."
+
+#: system-config-users.gladestrings:83
+msgid "Preferences"
+msgstr "Parapëlqime"
+
+#: system-config-users.gladestrings:84
+msgid "_Hide system users and groups"
+msgstr "_Fshih përdoruesa dhe grupe sistemi"
+
+#: system-config-users.gladestrings:85
+msgid "<b>User and Group List</b>"
+msgstr "<b>Listë Përdoruesish dhe Grupesh</b>"
+
+#: system-config-users.gladestrings:86
+msgid "Ensure that a new user gets a higher UID than all existing users, if not set manually."
+msgstr "Sigurohuni që një përdoruesi të ri i caktohet një UID më e lartë se tërë përdoruesit ekzistues, në të kundërt caktojani dorazi.  "
+
+#: system-config-users.gladestrings:87
+msgid "Automatically assigned _UID must be highest"
+msgstr "_UID e caktuar vetvetiu duhet të jetë më e larta"
+
+#: system-config-users.gladestrings:88
+msgid "Ensure that a new group gets a higher GID than all existing groups, if not set manually."
+msgstr "Sigurohuni që një grupi të ri i caktohet një GID më e lartë se tërë grupet ekzistuese, në të kundërt caktojani dorazi.  "
+
+#: system-config-users.gladestrings:89
+msgid "Automatically assigned _GID must be highest"
+msgstr "_GID e caktuar vetvetiu duhet të jetë më e larta"
+
+#: system-config-users.gladestrings:90
+msgid "Prefer that private group GID is the _same as UID"
+msgstr "Parapëlqe që GID-ja për grup vetjak të jetë e _njëjtë me UID"
+
+#: system-config-users.gladestrings:91
+msgid "<b>New Users</b>"
+msgstr "<b>Përdorues të Rinj</b>"
+
+#: system-config-users.gladestrings:93
+msgid "Copyright © 2001-2007 Red Hat, Inc."
+msgstr "Të drejta Kopjimi © 2001-2007 Red Hat, Inc."
+
+#: system-config-users.gladestrings:94
+msgid "Manages users and groups on your system."
+msgstr "Administron përdoruesa dhe grupe te sistemi juaj."
+
+#: system-config-users.gladestrings:95
+msgid ""
+"system-config-users is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.\n"
+"\n"
+"system-config-users is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License along with system-config-users; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-130159 USA"
+msgstr ""
+"system-config-users është software i lirë; mund ta rishpërndani dhe/ose ndryshoni sipas kushteve të Licensës së Përgjithshme Publike GNU të botuar nga Free Software Foundation; ose në versionin 2 të Licensës, ose (vendosni vetë) cilindo version të më vonshëm.\n"
+"\n"
+"system-config-users shpërndahet me shpresën se do të jetë i dobishëm, por PA ASNJË GARANCI; madje pa as garanci të nënkuptuar TREGTUESHMËRIE ose  TË QENËT I PËRSHTATSHËM PËR NJË QËLLIM TË CAKTUAR.  Për më tepër hollësi shihni Licensën e Përgjithshme Publike GNU.\n"
+"\n"
+"Bashkë me system-config-users, duhej t'ju kish ardhur një kopje të Licensës së Përgjithshme Publike GNU; po qe se jo, i shkruani Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-130159 USA"
+
+#: system-config-users.gladestrings:100
+msgid "translator-credits"
+msgstr "kredite përkthyesish"
+

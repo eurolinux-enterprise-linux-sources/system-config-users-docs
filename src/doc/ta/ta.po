@@ -1,0 +1,360 @@
+# translation of system-config-users.docs.ta.po to Tamil
+# I. Felix <ifelix@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: system-config-users.docs.ta\n"
+"POT-Creation-Date: 2008-03-12 11:36+0100\n"
+"PO-Revision-Date: 2009-09-23 21:04+0530\n"
+"Last-Translator: I. Felix <ifelix@redhat.com>\n"
+"Language-Team: Tamil <fedora-trans-ta@redhat.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\\n\n"
+"\n"
+"\n"
+"\n"
+"X-Poedit-Bookmarks: -1,33,-1,-1,-1,-1,-1,-1,-1,-1\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:139(None)
+msgid "@@image: 'images/system-config-users.png'; md5=3ed07ec09bd46b79535a583624b61c6b"
+msgstr "@@image: 'images/system-config-users.png'; md5=3ed07ec09bd46b79535a583624b61c6b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:202(None)
+msgid "@@image: 'images/system-config-users-user-new.png'; md5=52dc41e7b6e97b234edb97675fdd0ab6"
+msgstr "@@image: 'images/system-config-users-user-new.png'; md5=52dc41e7b6e97b234edb97675fdd0ab6"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:233(None)
+msgid "@@image: 'images/system-config-users-user-properties-user-data.png'; md5=ceab8d4b7c0e76942643c69b3a374829"
+msgstr "@@image: 'images/system-config-users-user-properties-user-data.png'; md5=ceab8d4b7c0e76942643c69b3a374829"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:314(None)
+msgid "@@image: 'images/system-config-users-group-new.png'; md5=a8831cbdee41c89768d2a099b3e23f81"
+msgstr "@@image: 'images/system-config-users-group-new.png'; md5=a8831cbdee41c89768d2a099b3e23f81"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:341(None)
+msgid "@@image: 'images/system-config-users-group-properties-group-data.png'; md5=3ab34f44acdf639a83dc07a97bb3005c"
+msgstr "@@image: 'images/system-config-users-group-properties-group-data.png'; md5=3ab34f44acdf639a83dc07a97bb3005c"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:41(title)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:83(see)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:132(application)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:136(title)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:142(para)
+msgid "User and Group Configuration Tool"
+msgstr "பயனர் மற்றும் குழுவின் கட்டமைப்பு கருவி"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:47(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:48(date)
+msgid "2008-01-31"
+msgstr "2008-01-31"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:51(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:52(date)
+msgid "2008-03-11"
+msgstr "2008-03-11"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:55(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:56(date)
+msgid "2008-03-12"
+msgstr "2008-03-12"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:61(para)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:75(para)
+msgid "The <application>User and Group Configuration Tool</application> allows you to view, modify, add, and delete local users and groups."
+msgstr "இந்த <application>பயனர் மற்றும் குழு கட்டமைப்பு கருவி</application> உங்களை பார்க்க, மாற்றியமைக்க, சேர்க்க, மற்றும் உள்ளமை பயனர்கள் மற்றும் குழுக்களை அழிக்க அனுமதிக்கிறது."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:69(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:68(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:81(command)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:120(command)
+msgid "system-config-users"
+msgstr "system-config-users"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:86(para)
+msgid "You must be running the <application>X</application> Window System and have root privileges to use the User and Group Configuration Tool. There are three ways to start the application:"
+msgstr "நீங்கள் <application>X</application> விண்டோ கணினி மற்றும் உள்ள ரூட் முன்னுரிமைகளுக்காக பயனர் மற்றும் குழு கட்டமைப்பு கருவியை இயக்க வேண்டும். இந்த பயன்பாட்டைத் துவக்க மூன்று வழிகள் உள்ளன:"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:91(para)
+msgid "From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the menu with the \"f\" icon)</guimenu><guisubmenu>System</guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Users and Groups</guimenuitem></menuchoice>"
+msgstr "பணிமேடையிலிருந்து, பேனலிலுள்ள முக்கிய மெனுவிற்கு <menuchoice><guimenu>செல்லவும் (\"f\" சின்னத்தை கொண்ட மெனு)</guimenu><guisubmenu>கணினி</guisubmenu><guisubmenu>நிர்வாகம்</guisubmenu><guimenuitem>பயனர்கள் மற்றும் குழுக்கள்</guimenuitem></menuchoice>"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:97(para)
+msgid "From the desktop, right-click on the fast user switch applet in the toolbar and select <guimenu>Edit Users and Groups</guimenu>."
+msgstr "பணிமேடையிலிருந்து, கருவிப்பட்டியிலுள்ள அப்லெட்டை விரைவு பயனர்கள் வலதுபக்கமாக கிளிக் செய்யவும் மற்றும்<guimenu>பயனர்கள் மற்றும் குழுக்களை திருத்து</guimenu> என்பதை தேர்ந்தெடுக்கவும்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:103(para)
+msgid "Type the command <command>system-config-users</command> at a shell prompt (for example, in an <application>XTerm</application> or a <application>GNOME</application> terminal)."
+msgstr "கட்டளையை <command>system-config-users</command> ஷெல் ப்ரோமோட்டில்  (எடுத்துக்காட்டாக, <application>XTerm</application> அல்லது <application>GNOME</application> terminal)இதில் அச்சிடவும்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:110(title)
+msgid "User and Group Configuration"
+msgstr "பயனர் மற்றும் குழுவின் கட்டமைப்பு"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:112(primary)
+msgid "users"
+msgstr "பயனர்கள்"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:113(see)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:124(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:133(see)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:149(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:171(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:219(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:223(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:246(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:250(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:254(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:258(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:282(primary)
+msgid "user configuration"
+msgstr "பயனர் கட்டமைப்பு"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:116(primary)
+msgid "groups"
+msgstr "குழுக்குள்"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:117(see)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:128(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:153(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:304(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:331(primary)
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:351(primary)
+msgid "group configuration"
+msgstr "குழுவின் கட்டமைப்பு"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:121(see)
+msgid "user and group configuration"
+msgstr "பயனர் மற்றும் குழுவின் கட்டமைப்பு"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:125(secondary)
+msgid "viewing list of users"
+msgstr "பயனர்களின் பட்டியலை பார்வையிடுகிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:129(secondary)
+msgid "viewing list of groups"
+msgstr "குழுக்களின் பட்டியலை பார்வையிடுகிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:150(secondary)
+msgid "filtering list of users"
+msgstr "பயனர்களின் பட்டியலை வடிக்கிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:154(secondary)
+msgid "filtering list of groups"
+msgstr "குழுக்களின் பட்டியலை வடிக்கிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:156(para)
+msgid "To view a list of local users on the system, click the <guilabel>Users</guilabel> tab. To view a list of local groups on the system, click the <guilabel>Groups</guilabel> tab."
+msgstr "கணினியில் உள்ளமை பயனர்களின் பட்டியலைப் பார்க்க, பட்டி <guilabel>பயனர்கள்</guilabel> என்பதை கிளிக் செய்யவும். கணினியில் உள்ளமை குழுக்களின் பட்டியலைப் பார்க்க, பட்டி <guilabel>குழுக்கள்</guilabel> என்பதை கிளிக் செய்யவும்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:159(para)
+msgid "To find a specific user or group, type the first few letters of the name in the <guilabel>Search filter</guilabel> field. Press <keycap>Enter</keycap> or click the <guibutton>Apply filter</guibutton> button. The filtered list is displayed."
+msgstr "ஒரு குறிப்பிட்ட பயனர் அல்லது குழுவைத் தேட, புலத்தில் <guilabel>வடிப்பி தேடு</guilabel> பெயரின் முதல் சில எழுத்துக்களை அச்சிடவும். அழுத்தவும் <keycap>Enter</keycap> அல்லது பொத்தானை<guibutton>வடிப்பி செயல்படுத்து</guibutton> என்பதை கிளிக் செய்யவும். வடிக்கப்பட்ட பட்டியலானது காட்டப்படும்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:162(para)
+msgid "To sort the users or groups, click on the column name. The users or groups are sorted according to the value of that column."
+msgstr "பயனர்கள் அல்லது குழுக்களை வரிசைப்படுத்த, நிரலின் பெயரை கிளிக் செய்யவும். நிரலின் மதிப்பை பொருத்து பயனர்கள் அல்லது குழுக்கள் வரிசைப்படுத்தப்படுகின்றது."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:165(para)
+msgid "User IDs below 500 are reserved for system users. By default, <application>User and Group Configuration Tool</application> does not display system users. To view all users, including the system users, go to <menuchoice><guimenu>Edit</guimenu><guisubmenu>Preferences</guisubmenu></menuchoice> and uncheck <guimenuitem>Hide system users and groups</guimenuitem> from the dialog box."
+msgstr "பயனர் IDs க்கு குறைந்து 500 கணினிகளின் பயனர்களுகாக பாதுகாக்கிறது. முன்னிருப்பாக, கணினி பயனர்களில்<application>பயனர் மற்றும் குழு கட்டமைப்பு கருவி</application>காட்டப்படவில்லை. அனைத்து பயனர்களையும் பார்க்க, கணினி பயனர்களையும் சேர்த்து, உரையாடல் பெட்டியிலிருந்து <menuchoice><guimenu>திருத்து</guimenu><guisubmenu>விருப்பங்கள்</guisubmenu></menuchoice> மற்றும் உரையாடல் பெட்டியிலிருந்து <guimenuitem>கணினி பயனர்கள் மற்றும் குழுக்களை மறை</guimenuitem> என்பதை தேர்வு நீக்கவும்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:169(title)
+msgid "Adding a New User"
+msgstr "ஒரு புதிய பயனரைச் சேர்க்கிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:172(secondary)
+msgid "adding users"
+msgstr "பயனர்களை சேர்க்கிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:174(para)
+msgid "To add a new user, click the <guibutton>Add User</guibutton> button. A window as shown in <xref linkend=\"user-new-fig\"/> appears. Type the username and full name for the new user in the appropriate fields. Type the user's password in the <guilabel>Password</guilabel> and <guilabel>Confirm Password</guilabel> fields. The password must be at least six characters."
+msgstr "ஒரு புதிய பயனரை சேர்க்க, இந்த <guibutton>பயனரை சேர்</guibutton> பொத்தானை கிளிக் செய்யவும். ஒரு விண்டோவானது <xref linkend=\"user-new-fig\"/> இதுவாக தோன்றுவதை காட்டுகிறது. புதிய பயனருக்கான முழுப்பெயர் மற்றும் பயனர்பெயரை பொருத்தமான புலத்தில் அச்சிடவும். புலங்களில் <guilabel>கடவுச்சொல்</guilabel> மற்றும் <guilabel>கடவுச்சொல்லை உறுதிப்படுத்து</guilabel> பயனர்களின் கடவுச்சொல்லை அச்சிடவும். கடவுச்சொல்லானது குறைந்தபட்சம் ஆறு எண்களைக் கொண்டிருக்க வேண்டும்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:178(title)
+msgid "Tip"
+msgstr "துணுக்கு"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:179(para)
+msgid "It is advisable to use a much longer password, as this makes it more difficult for an intruder to guess it and access the account without permission. It is also recommended that the password not be based on a dictionary term; use a combination of letters, numbers and special characters."
+msgstr "ஒரு நீண்ட கடவுச்சொல்லை பயன்படுத்துவது விவேகமுள்ளதாகும், இது தகாத முறையில் உள்நுழைபவர்களுக்கு அதிக கடினமானதாகவும் ஊகிக்கவும் கணக்கை அனுமதி இல்லாமல் அணுக முடியாது. கடவுச்சொல்லானது ஒரு அகராதி பெயராக பரிந்துரைக்க கூடாது; எழுத்துகள், எண்கள், மற்றும் குறிப்பிட்ட எண்களைப் பயன்படுத்தவும்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:183(para)
+msgid "Select a login shell. If you are not sure which shell to select, accept the default value of <computeroutput>/bin/bash</computeroutput>. The default home directory is <filename>/home/<replaceable>&lt;username&gt;</replaceable>/</filename>. You can change the home directory that is created for the user, or you can choose not to create the home directory by unselecting <guilabel>Create home directory</guilabel>."
+msgstr "ஒரு ஷெல் உட்புகுதலை தேர்ந்தெடுக்கவும். ஷெல்லை தேர்ந்தெடுத்தால் நீங்கள், முன்னிருப்பு மதிப்பை ஏற்கவும் <computeroutput>/bin/bash</computeroutput>.முன்னிருப்பு முகப்பு அடைவானது<filename>/home/<replaceable>&lt;username&gt;</replaceable>/</filename>.பயனருக்காக உருவாக்கப்பட்ட முகப்பு அடைவை நீங்கள் மாற்றலாம், அல்லது  நீங்களும் தேர்ந்தெடுக்கப்படாத முகப்பு அடைவை  உருவாக்கமல்<guilabel>இல்ல அடைவை உருவாக்கு</guilabel> என்பதை தேர்ந்தெடுக்கவும்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:186(para)
+msgid "If you select to create the home directory, default configuration files are copied from the <filename>/etc/skel/</filename> directory into the new home directory."
+msgstr "முகப்பு அடைவை உருவாக்க நீங்கள் தேர்ந்தெடுத்தால், புதிய முகப்பு அடைவினுள்ள இதிலிருந்து<filename>/etc/skel/</filename> முன்னிருப்பு கட்டமைப்பு கோப்புகளை நகலெடுக்கிறது ."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:189(para)
+msgid "By default, a <firstterm>user private group</firstterm> (UPG) scheme is used. The UPG scheme does not add or change anything in the standard UNIX way of handling groups; it offers a new convention. Whenever you create a new user, by default, a unique group with the same name as the user is created. If you do not want to create this group, unselect <guilabel>Create a private group for the user</guilabel>."
+msgstr "முன்னிருப்பாக, ஒரு <firstterm>user private group</firstterm> (UPG) திட்டமானது பயன்படுத்தப்பட்டது. குழுக்களை கையாள UPG திட்டமானது சேர்க்கப்படவோஅல்லது  நிலையான UNIX வழியில் எதையாவது மாற்றவோ இல்லை; ஒரு புதிய உரையாடலை தருகிறது. நீங்கள் எப்போது புதிய பயனரை உருவாக்கினாலும், முன்னிருப்பாக, ஒரு யுனிக் குழு ஒரே பெயருடைய பயனரை உருவாக்கப்படுவர். இந்த குழுவை நீங்கள் உருவாக்க விரும்பாவிடில், இதை <guilabel>பயனருக்கு தனிப்பட்ட குழுவை உருவாக்கு</guilabel> என்பதை தேர்ந்தெடுக்க வேண்டாம்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:192(para)
+msgid "To specify a user ID for the user, select <guibutton>Specify user ID manually</guibutton>. If the option is not selected, the next available user ID above 500 is assigned to the new user. Because user IDs below 500 are reserved for system users, it is not advisable to manually assign user IDs 1-499."
+msgstr "பயனருக்காக பயனர் ID ஐ குறிப்பட, கைமுறையாக <guibutton>பயனர் IDஐ கைமுறையாக குறிப்பிடு</guibutton> என்பதை தேர்ந்தெடுக்கவும்.இந்த விருப்பமானது தேர்ந்தெடுக்கப்படவில்லையெனில்,அடுத்து கிடைக்ககூடிய பயனர் ID ஆனது 500க்கு மேற்பட்டு புதிய பயனருக்காக ஒதுக்கப்படுகிறது. ஏனெனில் பயனர் IDsஆனது குறைந்தது 500 கணினி பயனர்களுக்காக முன்பதிவு செய்யப்பட்டுள்ளது, இது கைமுறையாக ஒதுக்கப்பட்டபயனர் IDs 1-499க்கு செய்யத்தக்கதல்ல."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:195(para)
+msgid "Click <guibutton>OK</guibutton> to create the user."
+msgstr "பயனரை உருவாக்க <guibutton>சரி</guibutton> என கிளிக் செய்யவும்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:199(title)
+msgid "New User"
+msgstr "புதிய பயனர்"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:205(para)
+msgid "Creating a new user"
+msgstr "ஒரு புதிய பயனரை உருவாக்குகிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:211(para)
+msgid "To configure more advanced user properties, such as password expiration, modify the user's properties after adding the user. Refer to <xref linkend=\"s2-system-config-users-user-properties\"/> for more information."
+msgstr "கூடுதலான முன்னேற்றமடைந்த பயனர் தன்மைகளை கட்டமைக்க, எடுத்துக்காட்டாக கடவுச்சொல் முடிவுறுதல், ஒரு பயனரை சேர்த்த பின் பயனர்களின் தன்மைகளை மாற்றியமைக்கவும். கூடுதல் தகவலுக்கு <xref linkend=\"s2-system-config-users-user-properties\"/> இதை பார்க்கவும்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:217(title)
+msgid "Modifying User Properties"
+msgstr "பயனர் தன்மைகளை மாற்றியமைக்கிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:220(secondary)
+msgid "modifying users"
+msgstr "மாற்றியமைக்கப்பட்ட பயனர்கள்"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:224(secondary)
+msgid "modify groups for a user"
+msgstr "ஒரு பயனருக்கு குழுக்களை மாற்றியமைக்கவும்"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:226(para)
+msgid "To view the properties of an existing user, click on the <guilabel>Users</guilabel> tab, select the user from the user list, and click <guibutton>Properties</guibutton> from the menu (or choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice> from the pulldown menu). A window similar to <xref linkend=\"user-properties-fig\"/> appears."
+msgstr "ஒரு உள்ளிருக்கும் பயனரின் தன்மைகளை பார்க்கவும், பட்டியில் <guilabel>பயனர்கள்</guilabel> என்பதை கிளிக் செய்யவும், பயனர் பட்டியலிருந்து பயனரை தேர்ந்தெடுக்கவும், மற்றும் <guibutton>தன்மைகள்</guibutton> மெனுவிற்கு (அல்லது <menuchoice><guimenu>கோப்பு</guimenu><guimenuitem>தன்மைகள்</guimenuitem></menuchoice> என்பதை கீழ் இழு பட்டியிலிருந்து தேர்ந்தெடுக்கவும்) கிளிக் செய்யவும்.ஒரு விண்டோவிற்கு ஒத்ததாக <xref linkend=\"user-properties-fig\"/> தோன்றுகிறது."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:230(title)
+msgid "User Properties"
+msgstr "பயனர் தன்மைகள்"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:236(para)
+msgid "Modifying user properties"
+msgstr "பயனர் தன்மைகளை மாற்றுகிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:242(para)
+msgid "The <guilabel>User Properties</guilabel> window is divided into multiple tabbed pages:"
+msgstr "இந்த<guilabel>பயனர் தன்மைகள்</guilabel> சாளரமானது பல பட்டிகளுடைய பக்கங்களாக பிரிக்கப்படுகிறது:"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:247(secondary)
+msgid "changing password"
+msgstr "கடவுச்சொல்லை மாற்றுகிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:251(secondary)
+msgid "changing login shell"
+msgstr "உட்புகு ஷெல்லை மாற்றுகிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:255(secondary)
+msgid "changing full name"
+msgstr "முழுப் பெயரையும் மாற்றுகிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:259(secondary)
+msgid "changing home directory"
+msgstr "முகப்பு அடைவை மாற்றுகிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:263(para)
+msgid "<guilabel>User Data</guilabel> — Shows the basic user information configured when you added the user. Use this tab to change the user's full name, password, home directory, or login shell."
+msgstr "<guilabel>பயனர் தரவு</guilabel> — அடிப்படை பயனர் தகவலானது எப்போது நீங்கள் பயனரை சேர்க்கும் போது கட்டமைப்பதை காட்டுகிறது. பயனர்களின் முழுப்பெயர், கடவுச்சொல், முகப்பு அடைவு, அல்லது உட்புகு ஷெல்லை மாற்ற இந்த பட்டியை பயன்படுத்தவும்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:268(para)
+msgid "<guilabel>Account Info</guilabel> — <indexterm significance=\"normal\"><primary>user configuration</primary><secondary>setting user account expiration</secondary></indexterm> Select <guibutton>Enable account expiration</guibutton> if you want the account to expire on a certain date. Enter the date in the provided fields. <indexterm significance=\"normal\"><primary>user configuration</primary><secondary>locking user accounts</secondary></indexterm> Select <guilabel>Local password is locked</guilabel> to lock the user account and prevent the user from logging into the system."
+msgstr "<guilabel>கணக்கு தகவல்</guilabel> — <indexterm significance=\"normal\"><primary>பயனர் கட்டமைப்பு</primary><secondary>பயனர் கணக்கு முடிவடைவதை அமைக்கிறது</secondary></indexterm> <guibutton>கணக்கு முடிவுறுதலை செயல்படுத்து</guibutton> என்பதை குறிப்பிட்ட தேதிக்கு இந்த கணக்கை முடிக்க விரும்பினால் தேர்ந்தெடுக்கவும். தரப்பட்ட புலத்திலிருந்து தேதியை உள்ளிடவும். <indexterm significance=\"normal\"><primary>பயனர் கட்டமைப்பு</primary><secondary>பயனர் கணக்கை பூட்டுகிறது</secondary></indexterm> <guilabel>உள்ளமை கடவுச்சொல் பூட்டப்பட்டது</guilabel> பயனர் கணக்கை பூட்ட மற்றும் பயனில் கணினிகளில் பயனரை தவிர்க்கிறது."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:283(secondary)
+msgid "password expiration"
+msgstr "கடவுச்சொல் முடிவடைகிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:285(para)
+msgid "<guilabel>Password Info</guilabel> — Displays the date that the user's password last changed. To force the user to change passwords after a certain number of days, select <guilabel>Enable password expiration</guilabel> and enter a desired value in the <guilabel>Days before change required:</guilabel> field. The number of days before the user's password expires, the number of days before the user is warned to change passwords, and days before the account becomes inactive can also be changed."
+msgstr "<guilabel>கடவுச்சொல் தகவல்</guilabel> — பயனர் கடவுச்சொல் கடைசியாக மாற்றப்பட்ட தேதியை காட்டுகிறது. பயனரை கடவுச்சொல்லை சில நாட்களுக்கு பின் மாற்ற கட்டாயப்படுத்த, <guilabel>கடவுச்சொல் முடிவுறுதலை செயல்படுத்து</guilabel> என்பதை தேர்ந்தெடுத்து <guilabel>மாற்றங்கள் தேவைப்படுவதற்கு பின் நாட்கள்:</guilabel> புலத்தில் வேண்டிய மதிப்பை உள்ளிடவும். பயனர் கடவுச்சில் நாட்களின் எண்ணிக்கைக்கு முன் முடிவுற்றால், பயனர் கடவுச்சொல்லை மாற்ற எச்சரிக்கப்படுவார் மற்றும் கணக்கு செயல்நீக்கப்பட்டாலும் மாற்றலாம்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:290(para)
+msgid "<indexterm significance=\"normal\"><primary>user configuration</primary><secondary>adding users to groups</secondary></indexterm><guilabel>Groups</guilabel> — Allows you to view and configure the Primary Group of the user, as well as other groups that you want the user to be a member of."
+msgstr "<indexterm significance=\"normal\"><primary>பயனர் கட்டமைப்பு</primary><secondary>குழுவில் பயனரை சேர்க்கிறது</secondary></indexterm><guilabel>குழுக்கள்</guilabel> — முதன்மை குழுவின் பயனரை நீங்கள் பார்க்க மற்றும் கட்டமைக்க அனுமதிக்கிறது, மேலும் மற்ற குழுக்களில் நீங்கள் பயனரை உறுப்பினராக்க விரும்பினால்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:302(title)
+msgid "Adding a New Group"
+msgstr "ஒரு புதிய குழுவைச் சேர்க்கிறது "
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:305(secondary)
+msgid "adding groups"
+msgstr "குழுக்களைச் சேர்க்கிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:307(para)
+msgid "To add a new user group, click the <guibutton>Add Group</guibutton> button. A window similar to <xref linkend=\"group-new-fig\"/> appears. Type the name of the new group to create. To specify a group ID for the new group, select <guibutton>Specify group ID manually</guibutton> and select the GID. Note that group IDs lower than 500 are reserved for system groups."
+msgstr "ஒரு புதிய குழுவைச் சேர்க்க, இந்தப் பொத்தானை <guibutton>குழுவை சேர்</guibutton> என்பதை கிளிக் செய்யவும். ஒரு சாளரமானது <xref linkend=\"group-new-fig\"/> இதை போல் தோன்றுகிறது. ஒரு புதிய குழுவை உருவாக்க புதிய பெயரை அச்சிடவும். புதிய குழுவிற்கான IDஐ குறிப்பிடவும், இதை தேர்ந்தெடுக்கவும் <guibutton>குழு IDஐ கைமுறையாக குறிப்பிடு</guibutton> மற்றும் GIDஐ தேர்ந்தெடுக்கவும். குழு IDs குறைந்தது 500க்கு கணினி குழுக்களுக்காக ஒதுக்கலாம்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:311(title)
+msgid "New Group"
+msgstr "புதிய குழு"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:317(para)
+msgid "Creating a new group"
+msgstr "ஒரு புதிய குழுவை உருவாக்குகிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:323(para)
+msgid "Click <guibutton>OK</guibutton> to create the group. The new group appears in the group list."
+msgstr "குழுவை உருவாக்க <guibutton>சரி</guibutton>ஐ கிளிக் செய்யவும். புதியக்குழு குழுப்பட்டியலில் காணப்படும்."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:329(title)
+msgid "Modifying Group Properties"
+msgstr "குழுத் தன்மையை மாற்றியமைக்கிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:332(secondary)
+msgid "modifying group properties"
+msgstr "குழுத் தன்மையை மாற்றியமைக்கிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:334(para)
+msgid "To view the properties of an existing group, select the group from the group list and click <guibutton>Properties</guibutton> from the menu (or choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice> from the pulldown menu). A window similar to <xref linkend=\"group-properties-fig\"/> appears."
+msgstr "உள்ளிருக்கும் குழுவின் தன்மைகளைக் பார்க்க, குழுப் பட்டியலிருந்து குழுவைத் தேர்ந்தெடுத்து மற்றும்  <guibutton>தன்மைகள்</guibutton> மெனுவிலிருந்து கிளிக் செய்யவும் (அல்லது  <menuchoice><guimenu>கோப்பு</guimenu><guimenuitem>தன்மைகள்</guimenuitem></menuchoice> என்பதை தேர்ந்தெடுக்கவும்). ஒரு விண்டோவானது <xref linkend=\"group-properties-fig\"/> தோன்றுவதைப் போல உள்ளது."
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:338(title)
+msgid "Group Properties"
+msgstr "குழுத் தன்மைகள்"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:344(para)
+msgid "Modifying group properties"
+msgstr "குழுத் தன்மையை மாற்றியமைக்கிறது"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:352(secondary)
+msgid "modify users in groups"
+msgstr "குழுக்களில் பயனர்களை மாற்றியமை"
+
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:354(para)
+msgid "The <guilabel>Group Users</guilabel> tab displays which users are members of the group. Use this tab to add or remove users from the group. Click <guibutton>OK</guibutton> to save your changes."
+msgstr "இந்தப் பட்டியானது <guilabel>குழு பயனர்கள்</guilabel> இக்குழுவின் உறுப்பினரான பயனர்கள் யாரோ அவர்களுக்கு இதைக் காட்டவும். இந்தப் பட்டியை பயனர்களை குழுவிறுக் சேர்க்க அல்லது நீக்க பயன்படுத்தலாம். உங்களது மாற்றங்களை சேமிக்க<guibutton>சரி</guibutton> என கிளிக் செய்யவும்."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.
+#: /home/nils/src/system-config-users/hosted/doc/C/system-config-users-complete.xml:0(None)
+msgid "translator-credits"
+msgstr "I. FELIX <ifelix@redhat.com>"
+
