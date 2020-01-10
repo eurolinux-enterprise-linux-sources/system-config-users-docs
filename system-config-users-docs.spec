@@ -9,14 +9,20 @@
 Summary: Documentation for administering users and groups
 Name: system-config-users-docs
 Version: 1.0.8
-Release: 1%{?dist}
+Release: 2%{?dist}
 URL: https://fedorahosted.org/%{name}
 License: GPLv2+
 Group: Documentation
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 BuildArch: noarch
 Source: http://fedorahosted.org/released/%{name}/%{name}-%{version}.tar.bz2
+# update screenshots (#635248)
+# upstream commits 42e35d81d6d139e226a5897b90176497d856e6d3 and
+# 8730145aee9323d7a45a69462edd7ed759653bef
+# this file is a git binary diff
+Patch0: system-config-users-docs-1.0.8-screenshots.patch
 BuildRequires: gettext
+BuildRequires: git
 BuildRequires: pkgconfig
 BuildRequires: gnome-doc-utils
 BuildRequires: docbook-dtds
@@ -46,6 +52,14 @@ a graphical utility for administrating users and groups.
 %prep
 %setup -q
 
+# Patch0 is a git binary diff
+git init
+git config user.email "nobody@localhost"
+git config user.name "Nobody"
+git add .
+git commit -a -q -m "%{version} baseline"
+git am -p1 %{PATCH0}
+
 %build
 make %{?_smp_mflags}
 
@@ -69,6 +83,9 @@ rm -rf $RPM_BUILD_ROOT
 %doc %{_datadir}/gnome/help/system-config-users
 
 %changelog
+* Wed Jun 19 2013 Nils Philippsen <nils@redhat.com> - 1.0.8-2
+- update screenshots (#635248)
+
 * Tue Mar 23 2010 Nils Philippsen <nils@redhat.com> - 1.0.8-1
 - pick up translation updates
 
