@@ -1,0 +1,623 @@
+# translation of ja.po to Japanese
+# Kiyoto Hashida <khashida@redhat.com>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: ja\n"
+"POT-Creation-Date: 2010-05-06 17:03+0200\n"
+"PO-Revision-Date: 2010-05-31 15:02+0900\n"
+"Last-Translator: Kiyoto Hashida <khashida@redhat.com>\n"
+"Language-Team: Japanese <jp@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(None)
+msgid ""
+"@@image: 'images/system-config-users.png'; "
+"md5=3ed07ec09bd46b79535a583624b61c6b"
+msgstr ""
+"@@image: 'images/system-config-users.png'; "
+"md5=3ed07ec09bd46b79535a583624b61c6b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(None)
+msgid ""
+"@@image: 'images/system-config-users-user-new.png'; "
+"md5=52dc41e7b6e97b234edb97675fdd0ab6"
+msgstr ""
+"@@image: 'images/system-config-users-user-new.png'; "
+"md5=52dc41e7b6e97b234edb97675fdd0ab6"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(None)
+msgid ""
+"@@image: 'images/system-config-users-user-properties-user-data.png'; "
+"md5=ceab8d4b7c0e76942643c69b3a374829"
+msgstr ""
+"@@image: 'images/system-config-users-user-properties-user-data.png'; "
+"md5=ceab8d4b7c0e76942643c69b3a374829"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(None)
+msgid ""
+"@@image: 'images/system-config-users-group-new.png'; "
+"md5=a8831cbdee41c89768d2a099b3e23f81"
+msgstr ""
+"@@image: 'images/system-config-users-group-new.png'; "
+"md5=a8831cbdee41c89768d2a099b3e23f81"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(None)
+msgid ""
+"@@image: 'images/system-config-users-group-properties-group-data.png'; "
+"md5=3ab34f44acdf639a83dc07a97bb3005c"
+msgstr ""
+"@@image: 'images/system-config-users-group-properties-group-data.png'; "
+"md5=3ab34f44acdf639a83dc07a97bb3005c"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:49(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(application)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(para)
+msgid "User and Group Configuration Tool"
+msgstr "ユーザーとグループの設定ツール"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-01-31"
+msgstr "2008-01-31"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-03-11"
+msgstr "2008-03-11"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-03-12"
+msgstr "2008-03-12"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0.9"
+msgstr "1.0.9"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2010-05-06"
+msgstr "2010-05-06"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(para)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(para)
+msgid ""
+"The <application>User and Group Configuration Tool</application> allows you "
+"to view, modify, add, and delete local users and groups."
+msgstr ""
+"<application>ユーザーとグループの設定ツール（User and Group Configuration "
+"Tool）</application> を 使用すると、ローカルのユーザーとグループの表示、修"
+"正、追加、及び削除ができます。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:44(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:43(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(year)
+msgid "2008"
+msgstr "2008"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(year)
+msgid "2010"
+msgstr "2010"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(holder)
+msgid "Red Hat, Inc."
+msgstr "Red Hat, Inc."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:48(command)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(command)
+msgid "system-config-users"
+msgstr "system-config-users"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:49(para)
+msgid ""
+"You must be running the <application>X</application> Window System and have "
+"root privileges to use the User and Group Configuration Tool. There are "
+"three ways to start the application:"
+msgstr ""
+"ユーザーとグループの設定ツールを使用するには、<application>X</application> "
+"Window システムを 実行していて、root 権限を持っている必要があります。３種類の"
+"方法でこのアプリケーションを 開始できます:"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:51(para)
+msgid ""
+"From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the "
+"menu with the \"f\" icon)</guimenu><guisubmenu>System</"
+"guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Users and "
+"Groups</guimenuitem></menuchoice>"
+msgstr ""
+"デスクトップ上で、<menuchoice><guimenu>パネル上のメインメニュー (  \"f\" アイ"
+"コンを持つメニュー)</guimenu><guisubmenu>システム</guisubmenu><guisubmenu>管"
+"理</guisubmenu><guimenuitem>ユーザーとグループ</guimenuitem></menuchoice>  と"
+"進みます。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:53(para)
+msgid ""
+"From the desktop, right-click on the fast user switch applet in the toolbar "
+"and select <guimenu>Edit Users and Groups</guimenu>."
+msgstr ""
+"デスクトップ上で、ツールバーにあるユーザースイッチアプレットを右クリックして "
+"<guimenu>ユーザーとグループを編集（Edit Users and Groups）</guimenu> を選択し"
+"ます。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:55(para)
+msgid ""
+"Type the command <command>system-config-users</command> at a shell prompt "
+"(for example, in an <application>XTerm</application> or a "
+"<application>GNOME</application> terminal)."
+msgstr ""
+"シェルプロンプト（例えば、<application>XTerm</application> 又は "
+"<application>GNOME</application> ターミナル）で、<command>system-config-"
+"users</command> を入力します。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(title)
+msgid "User and Group Configuration"
+msgstr "ユーザーとグループの設定"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+msgid "users"
+msgstr "ユーザー"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(primary)
+msgid "user configuration"
+msgstr "ユーザーの設定"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+msgid "groups"
+msgstr "グループ"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(primary)
+msgid "group configuration"
+msgstr "グループの設定"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+msgid "user and group configuration"
+msgstr "ユーザーとグループの設定"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(secondary)
+msgid "viewing list of users"
+msgstr "ユーザーリストの表示"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(secondary)
+msgid "viewing list of groups"
+msgstr "グループリストの表示"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(secondary)
+msgid "filtering list of users"
+msgstr "ユーザーリストをフィルター"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(secondary)
+msgid "filtering list of groups"
+msgstr "グループリストをフィルター"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(para)
+msgid ""
+"To view a list of local users on the system, click the <guilabel>Users</"
+"guilabel> tab. To view a list of local groups on the system, click the "
+"<guilabel>Groups</guilabel> tab."
+msgstr ""
+"システム上のローカルユーザーのリストを表示するには、<guilabel>ユーザー"
+"（Users）</guilabel> タブをクリックします。システム上のローカルグループのリス"
+"トを表示するには、 <guilabel>グループ（Groups）</guilabel> タブをクリックしま"
+"す。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:62(para)
+msgid ""
+"To find a specific user or group, type the first few letters of the name in "
+"the <guilabel>Search filter</guilabel> field. Press <keycap>Enter</keycap> "
+"or click the <guibutton>Apply filter</guibutton> button. The filtered list "
+"is displayed."
+msgstr ""
+"特定のユーザーか、グループを検索するには、まず、その名前の最初の２、３文字を "
+"<guilabel>検索フィルター（Search filter）</guilabel> フィールドに入力しま"
+"す。 <keycap>Enter</keycap> を押すか、又は <guibutton>フィルターを適用"
+"（Apply filter）</guibutton> ボタンをクリックします。そうすると選別されたリス"
+"トが表示されます。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:64(para)
+msgid ""
+"To sort the users or groups, click on the column name. The users or groups "
+"are sorted according to the value of that column."
+msgstr ""
+"ユーザーとグループを配列変えするには、カラム名をクリックします。そのカラムの"
+"値に 応じてユーザーとグループが新規配列されます。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:66(para)
+msgid ""
+"User IDs below 500 are reserved for system users. By default, "
+"<application>User and Group Configuration Tool</application> does not "
+"display system users. To view all users, including the system users, go to "
+"<menuchoice><guimenu>Edit</guimenu><guisubmenu>Preferences</guisubmenu></"
+"menuchoice> and uncheck <guimenuitem>Hide system users and groups</"
+"guimenuitem> from the dialog box."
+msgstr ""
+"500 より低いユーザー ID はシステムユーザー用に予約されています。デフォルトで"
+"は、 <application>ユーザーとグループの設定ツール</application> はシステムユー"
+"ザーを 表示しません。システムユーザーを含む全てのユーザーを表示するには、"
+"<menuchoice><guimenu>編集（Edit）</guimenu><guisubmenu>個人設定"
+"（Preferences）</guisubmenu></menuchoice> に移動して、 ダイアログボックスか"
+"ら  <guimenuitem>システムユーザーとグループを隠す （Hide system users and "
+"groups）</guimenuitem> のチェックを外します。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(title)
+msgid "Adding a New User"
+msgstr "新規ユーザーの追加"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(secondary)
+msgid "adding users"
+msgstr "ユーザーの追加"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(para)
+msgid ""
+"To add a new user, click the <guibutton>Add User</guibutton> button. A "
+"window as shown in <xref linkend=\"user-new-fig\"/> appears. Type the "
+"username and full name for the new user in the appropriate fields. Type the "
+"user's password in the <guilabel>Password</guilabel> and <guilabel>Confirm "
+"Password</guilabel> fields. The password must be at least six characters."
+msgstr ""
+"新規のユーザーを追加するには、<guibutton>ユーザーの追加（Add User）</"
+"guibutton> ボタンを クリックします。<xref linkend=\"user-new-fig\"/> に示して"
+"あるウィンドウが出てきます。新規 ユーザーのユーザー名とフルネームを該当する"
+"フィールドに記入します。そして、ユーザーの パスワードを <guilabel>パスワード"
+"（Password）</guilabel> フィールドと <guilabel>パスワードの確認 （Confirm "
+"Password）</guilabel> フィールドに入力します。パスワードは最低でも６文字が必"
+"要です。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:70(title)
+msgid "Tip"
+msgstr "ヒント"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:70(para)
+msgid ""
+"It is advisable to use a much longer password, as this makes it more "
+"difficult for an intruder to guess it and access the account without "
+"permission. It is also recommended that the password not be based on a "
+"dictionary term; use a combination of letters, numbers and special "
+"characters."
+msgstr ""
+"パスワードは６文字よりも長くすることで、侵入者によるパスワードの推定と このア"
+"カウントへの権限の無いアクセスを難しくさせることが推奨されます。 更には、パス"
+"ワードが辞書にある単語に成らないように、文字や数字や特殊 記号の組み合わせにす"
+"ることが推奨されます。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:72(para)
+msgid ""
+"Select a login shell. If you are not sure which shell to select, accept the "
+"default value of <computeroutput>/bin/bash</computeroutput>. The default "
+"home directory is <filename>/home/<replaceable>&lt;username&gt;</"
+"replaceable>/</filename>. You can change the home directory that is created "
+"for the user, or you can choose not to create the home directory by "
+"unselecting <guilabel>Create home directory</guilabel>."
+msgstr ""
+"ログインシェルを選択します。どのシェルを選択すべきか不明な場合は、デフォルト"
+"値である <computeroutput>/bin/bash</computeroutput> を受理します。デフォルト"
+"のホームディレクトリは <filename>/home/<replaceable>&lt;username&gt;</"
+"replaceable>/</filename> となります。 ユーザーの為に作成されたこのホームディ"
+"レクトリは変更することができます。また、<guilabel>ホームディレクトリを 作成"
+"（Create home directory）</guilabel> を選択解除することにより、ホームディレク"
+"トリを作成しないように 選択できます。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:74(para)
+msgid ""
+"If you select to create the home directory, default configuration files are "
+"copied from the <filename>/etc/skel/</filename> directory into the new home "
+"directory."
+msgstr ""
+"ホームディレクトリの作成を選択した場合、<filename>/etc/skel/</filename> ディ"
+"レクトリからデフォルトの設定ファイルが新規のホームディレクトリにコピーされま"
+"す。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:76(para)
+msgid ""
+"By default, a <firstterm>user private group</firstterm> (UPG) scheme is "
+"used. The UPG scheme does not add or change anything in the standard UNIX "
+"way of handling groups; it offers a new convention. Whenever you create a "
+"new user, by default, a unique group with the same name as the user is "
+"created. If you do not want to create this group, unselect <guilabel>Create "
+"a private group for the user</guilabel>."
+msgstr ""
+"デフォルトでは、<firstterm>ユーザーのプライベートグループ（user private "
+"group）</firstterm> (UPG) スキームが使用されます。UPG スキームはグループ処理"
+"に於いて 標準の UNIX 手法に何も追加や 変更はしません。新しい慣習を提供するの"
+"です。新規ユーザーを作成すると、デフォルトで、そのユーザーと 同じ名前の特有な"
+"グループを作成します。このグループを作成したくない場合は、<guilabel>ユーザー"
+"用の プライベートグループを作成（Create a private group for the user）</"
+"guilabel> を選択解除します。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:78(para)
+msgid ""
+"To specify a user ID for the user, select <guibutton>Specify user ID "
+"manually</guibutton>. If the option is not selected, the next available user "
+"ID above 500 is assigned to the new user. Because user IDs below 500 are "
+"reserved for system users, it is not advisable to manually assign user IDs 1-"
+"499."
+msgstr ""
+"ユーザー用にユーザー ID を指定するには、<guibutton>手動でユーザー ID を指定"
+"（Specify user ID manually）</guibutton> を選択します。このオプションが選択さ"
+"れないと、次に利用可能な 500 から上の ユーザー ID が新規のユーザーに割り当て"
+"られます。500 以下のユーザー ID はシステムユーザーに予約されて いますので、"
+"ユーザーに  1 から 499 までの ユーザー ID を手動で割り当てることは推奨できま"
+"せん。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:80(para)
+msgid "Click <guibutton>OK</guibutton> to create the user."
+msgstr "<guibutton>OK</guibutton> をクリックするとユーザーが作成されます。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(title)
+msgid "New User"
+msgstr "新規ユーザー"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(para)
+msgid "Creating a new user"
+msgstr "新規ユーザーの作成"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:84(para)
+msgid ""
+"To configure more advanced user properties, such as password expiration, "
+"modify the user's properties after adding the user. Refer to <xref linkend="
+"\"s2-system-config-users-user-properties\"/> for more information."
+msgstr ""
+"パスワード期限などのより高度なユーザーのプロパティを設定するには、ユーザーを "
+"追加した後に、そのユーザーのプロパティを修正します。その詳細は <xref linkend="
+"\"s2-system-config-users-user-properties\"/> でご覧下さい。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(title)
+msgid "Modifying User Properties"
+msgstr "ユーザープロフィールの修正"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(secondary)
+msgid "modifying users"
+msgstr "ユーザーの修正"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(secondary)
+msgid "modify groups for a user"
+msgstr "１人のユーザー用にグループを修正"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(para)
+msgid ""
+"To view the properties of an existing user, click on the <guilabel>Users</"
+"guilabel> tab, select the user from the user list, and click "
+"<guibutton>Properties</guibutton> from the menu (or choose "
+"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></"
+"menuchoice> from the pulldown menu). A window similar to <xref linkend="
+"\"user-properties-fig\"/> appears."
+msgstr ""
+"既存のユーザーのプロパティを表示するには、<guilabel>ユーザー（Users）</"
+"guilabel> タブをクリックして、ユーザーリストからそのユーザーを選択し、 メ"
+"ニューから <guibutton>プロパティ（Properties） </guibutton> を選択するか、(あ"
+"るいはプルダウンメニューから <menuchoice><guimenu>ファイル（File）</"
+"guimenu><guimenuitem>プロパティ（Properties）</guimenuitem></menuchoice> を選"
+"択します)。そうすると、<xref linkend=\"user-properties-fig\"/> のような画面が"
+"現れます。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(title)
+msgid "User Properties"
+msgstr "ユーザーのプロパティ"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(para)
+msgid "Modifying user properties"
+msgstr "ユーザーのプロパティを修正"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:90(para)
+msgid ""
+"The <guilabel>User Properties</guilabel> window is divided into multiple "
+"tabbed pages:"
+msgstr ""
+"<guilabel>ユーザーのプロパティ（User Properties）</guilabel> ウィンドウは複数"
+"の タブを持つページに分割されています:"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing password"
+msgstr "パスワードの変更"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing login shell"
+msgstr "ログインシェルの変更"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing full name"
+msgstr "フルネームの変更"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing home directory"
+msgstr "ホームディレクトリの変更"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(para)
+msgid ""
+"<guilabel>User Data</guilabel> — Shows the basic user information configured "
+"when you added the user. Use this tab to change the user's full name, "
+"password, home directory, or login shell."
+msgstr ""
+"<guilabel>ユーザーのデータ（User Data）</guilabel> ＝＝ ユーザーを追加した時"
+"に 設定された基本的なユーザー情報を示します。このタブを使用して、ユーザーのフ"
+"ルネーム、パスワード、 ホームディレクトリ、及びログインシェルを変更します。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:94(para)
+msgid ""
+"<guilabel>Account Info</guilabel> — <indexterm significance=\"normal"
+"\"><primary>user configuration</primary><secondary>setting user account "
+"expiration</secondary></indexterm> Select <guibutton>Enable account "
+"expiration</guibutton> if you want the account to expire on a certain date. "
+"Enter the date in the provided fields. <indexterm significance=\"normal"
+"\"><primary>user configuration</primary><secondary>locking user accounts</"
+"secondary></indexterm> Select <guilabel>Local password is locked</guilabel> "
+"to lock the user account and prevent the user from logging into the system."
+msgstr ""
+"<guilabel>アカウントの情報（Account Info）</guilabel>＝＝ <indexterm "
+"significance=\"normal\"><primary>ユーザー設定（user configuration）</"
+"primary><secondary>ユーザーアカウントの設定 （ setting user account "
+"expiration）</secondary></indexterm> 特定の期日にアカウントを満了に したい場"
+"合は、<guibutton>アカウントの満了を有効にする（Enable account expiration）</"
+"guibutton> を 選択します。用意してあるフィールドにその期日を記入します。"
+"<indexterm significance=\"normal\"><primary>ユーザー設定（user "
+"configuration）</primary><secondary>ユーザーアカウントのロック （locking "
+"user accounts）</secondary></indexterm> <guilabel>ローカルパスワードはロック"
+"済み（ Local password is locked）</guilabel> を選択してユーザーアカウントを"
+"ロックし、ユーザーがシステムに ログインすることを阻止します。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(secondary)
+msgid "password expiration"
+msgstr "パスワードの満了"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(para)
+msgid ""
+"<guilabel>Password Info</guilabel> — Displays the date that the user's "
+"password last changed. To force the user to change passwords after a certain "
+"number of days, select <guilabel>Enable password expiration</guilabel> and "
+"enter a desired value in the <guilabel>Days before change required:</"
+"guilabel> field. The number of days before the user's password expires, the "
+"number of days before the user is warned to change passwords, and days "
+"before the account becomes inactive can also be changed."
+msgstr ""
+"<guilabel>パスワードの情報（Password Info）</guilabel>＝＝ ユーザーのパスワー"
+"ドが 最後に変更された期日を表示します。特定の日数が経過した後にパスワードの変"
+"更を強要するには、 <guilabel>パスワード満了を有効にする（Enable password "
+"expiration）</guilabel> を選択して、 <guilabel>変更要求までの日数（Days "
+"before change required）:</guilabel> フィールドに適切な 値を記入します。ユー"
+"ザーのパスワードが満了になるまでの日数、ユーザーがパスワード変更の警告を 受け"
+"るまでの日数、及びアカウントが無効になるまでの日数もここで訂正できます。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:100(para)
+msgid ""
+"<indexterm significance=\"normal\"><primary>user configuration</"
+"primary><secondary>adding users to groups</secondary></"
+"indexterm><guilabel>Groups</guilabel> — Allows you to view and configure the "
+"Primary Group of the user, as well as other groups that you want the user to "
+"be a member of."
+msgstr ""
+"<indexterm significance=\"normal\"><primary>ユーザー設定（user "
+"configuration）</primary><secondary>ユーザーをグループに追加（adding users "
+"to groups）</secondary></indexterm> <guilabel>グループ（Groups）</guilabel>＝"
+"＝ これによりユーザーのプライマリ グループの表示と設定ができるようになりま"
+"す。更にユーザーをメンバーにしたい他のグループに ついても可能です。 "
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(title)
+msgid "Adding a New Group"
+msgstr "新規グループの追加"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(secondary)
+msgid "adding groups"
+msgstr "グループの追加"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(para)
+msgid ""
+"To add a new user group, click the <guibutton>Add Group</guibutton> button. "
+"A window similar to <xref linkend=\"group-new-fig\"/> appears. Type the name "
+"of the new group to create. To specify a group ID for the new group, select "
+"<guibutton>Specify group ID manually</guibutton> and select the GID. Note "
+"that group IDs lower than 500 are reserved for system groups."
+msgstr ""
+"新規のユーザーグループを追加するには、<guibutton>グループを追加（Add Group）"
+"</guibutton> ボタンをクリックします。<xref linkend=\"group-new-fig\"/> に似た"
+"ウィンドウが現れます。 作成する新規グループの名前を記入します。この新規グルー"
+"プにグループ ID を指定するには、 <guibutton>手動でグループ ID を指定"
+"（Specify group ID manually）</guibutton> を選択し、 GID を選択します。500 よ"
+"り低いグループ ID はシステムグループに予約されていることに注意して 下さい。 "
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(title)
+msgid "New Group"
+msgstr "新規グループ"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(para)
+msgid "Creating a new group"
+msgstr "新規グループの作成"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:107(para)
+msgid ""
+"Click <guibutton>OK</guibutton> to create the group. The new group appears "
+"in the group list."
+msgstr ""
+"<guibutton>OK</guibutton> をクリックするとグループが作成されます。新規グルー"
+"プは グループリスト内に出ます。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(title)
+msgid "Modifying Group Properties"
+msgstr "グループのプロパティを修正"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(secondary)
+msgid "modifying group properties"
+msgstr "グループのプロパティを修正"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(para)
+msgid ""
+"To view the properties of an existing group, select the group from the group "
+"list and click <guibutton>Properties</guibutton> from the menu (or choose "
+"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></"
+"menuchoice> from the pulldown menu). A window similar to <xref linkend="
+"\"group-properties-fig\"/> appears."
+msgstr ""
+"既存グループのプロパティを表示するには、グループリストからそのグループを選択"
+"して、 メニューの <guibutton>プロパティ（Properties）</guibutton> をクリック"
+"します。 （又は、プルダウンメニューから <menuchoice><guimenu>ファイル（File）"
+"</guimenu> <guimenuitem>プロパティ（Properties）</guimenuitem></menuchoice> "
+"を選択します。） <xref linkend=\"group-properties-fig\"/> のようなウィンドウ"
+"が現れます。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(title)
+msgid "Group Properties"
+msgstr "グループのプロパティ"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(para)
+msgid "Modifying group properties"
+msgstr "グループのプロパティを修正"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(secondary)
+msgid "modify users in groups"
+msgstr "グループ内のユーザーを修正"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(para)
+msgid ""
+"The <guilabel>Group Users</guilabel> tab displays which users are members of "
+"the group. Use this tab to add or remove users from the group. Click "
+"<guibutton>OK</guibutton> to save your changes."
+msgstr ""
+"<guilabel>グループのユーザー（Group Users）</guilabel> タブはこのグループの "
+"メンバーであるユーザーを表示します。このタブを使用して、グループにユーザーを"
+"追加したり そこから削除したりします。<guibutton>OK</guibutton> をクリックして"
+"変更を保存します。 "
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:0(None)
+msgid "translator-credits"
+msgstr "Kiyoto James Hashida: khashida@redhat.com, 2009"
+

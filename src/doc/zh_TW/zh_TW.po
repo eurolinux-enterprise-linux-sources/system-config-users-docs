@@ -1,0 +1,380 @@
+# translation of system-config-users.docs.po to Traditional Chinese
+# Terry Chuang <tchuang@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: system-config-users.docs\n"
+"POT-Creation-Date: 2010-05-06 17:03+0200\n"
+"PO-Revision-Date: 2009-09-07 13:06+1000\n"
+"Last-Translator: Terry Chuang <tchuang@redhat.com>\n"
+"Language-Team: Traditional Chinese <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(None)
+msgid "@@image: 'images/system-config-users.png'; md5=3ed07ec09bd46b79535a583624b61c6b"
+msgstr "@@image: 'images/system-config-users.png'; md5=3ed07ec09bd46b79535a583624b61c6b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml82(None)
+msgid "@@image: 'images/system-config-users-user-new.png'; md5=52dc41e7b6e97b234edb97675fdd0ab6"
+msgstr "@@image: 'images/system-config-users-user-new.png'; md5=52dc41e7b6e97b234edb97675fdd0ab6"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml88(None)
+msgid "@@image: 'images/system-config-users-user-properties-user-data.png'; md5=ceab8d4b7c0e76942643c69b3a374829"
+msgstr "@@image: 'images/system-config-users-user-properties-user-data.png'; md5=ceab8d4b7c0e76942643c69b3a374829"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml105(None)
+msgid "@@image: 'images/system-config-users-group-new.png'; md5=a8831cbdee41c89768d2a099b3e23f81"
+msgstr "@@image: 'images/system-config-users-user-properties-user-data.png'; md5=ceab8d4b7c0e76942643c69b3a374829"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml111(None)
+msgid "@@image: 'images/system-config-users-group-properties-group-data.png'; md5=3ab34f44acdf639a83dc07a97bb3005c"
+msgstr "@@image: 'images/system-config-users-group-properties-group-data.png'; md5=3ab34f44acdf639a83dc07a97bb3005c"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml49(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(application)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(para)
+msgid "User and Group Configuration Tool"
+msgstr "使用者與群組設定工具"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(date)
+msgid "2008-01-31"
+msgstr "2008-01-31"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(date)
+msgid "2008-03-11"
+msgstr "2008-03-11"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(date)
+msgid "2008-03-12"
+msgstr "2008-03-12"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(para)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml45(para)
+msgid "The <application>User and Group Configuration Tool</application> allows you to view, modify, add, and delete local users and groups."
+msgstr "<application>使用者與群組設定工具</application>能讓您檢視、修改、新增和刪除本機使用者與群組。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml44(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml43(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml48(command)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(command)
+msgid "system-config-users"
+msgstr "system-config-users"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml49(para)
+msgid "You must be running the <application>X</application> Window System and have root privileges to use the User and Group Configuration Tool. There are three ways to start the application:"
+msgstr "您必須執行 <application>X</application> Window System 並且擁有 root 權限才可使用使用者與群組設定工具。您可使用三種方式來啟用該應用程式："
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml51(para)
+msgid "From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the menu with the \"f\" icon)</guimenu><guisubmenu>System</guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Users and Groups</guimenuitem></menuchoice>"
+msgstr "請在桌面上點選<menuchoice><guimenu>面板上的主選單（有個「f」圖示的選單）</guimenu><guisubmenu>系統</guisubmenu><guisubmenu>管理</guisubmenu><guimenuitem>使用者與群組</guimenuitem></menuchoice>"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml53(para)
+msgid "From the desktop, right-click on the fast user switch applet in the toolbar and select <guimenu>Edit Users and Groups</guimenu>."
+msgstr "由桌面上滑鼠右鍵點選工具列中的快速使用者切換 applet 並選擇<guimenu>編輯使用者與群組</guimenu>。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml55(para)
+msgid "Type the command <command>system-config-users</command> at a shell prompt (for example, in an <application>XTerm</application> or a <application>GNOME</application> terminal)."
+msgstr "在一個 shell 提示（比方說在一個 <application>XTerm</application> 或 <application>GNOME</application> 終端機）中輸入 <command>system-config-users</command> 這項指令。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(title)
+msgid "User and Group Configuration"
+msgstr "使用者與群組設定"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(primary)
+msgid "users"
+msgstr "使用者"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml68(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml98(primary)
+msgid "user configuration"
+msgstr "使用者設定"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(primary)
+msgid "groups"
+msgstr "群組"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml103(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml109(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml113(primary)
+msgid "group configuration"
+msgstr "群組設定"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(see)
+msgid "user and group configuration"
+msgstr "使用者與群組設定"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(secondary)
+msgid "viewing list of users"
+msgstr "檢視使用者清單"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(secondary)
+msgid "viewing list of groups"
+msgstr "檢視群組清單"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(secondary)
+msgid "filtering list of users"
+msgstr "過濾使用者清單"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(secondary)
+msgid "filtering list of groups"
+msgstr "過濾群組清單"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(para)
+msgid "To view a list of local users on the system, click the <guilabel>Users</guilabel> tab. To view a list of local groups on the system, click the <guilabel>Groups</guilabel> tab."
+msgstr "若要檢視系統上的本機使用者清單，請點選<guilabel>使用者</guilabel>分頁。若要檢視系統上的本機群組清單，請點選<guilabel>群組</guilabel>分頁。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml62(para)
+msgid "To find a specific user or group, type the first few letters of the name in the <guilabel>Search filter</guilabel> field. Press <keycap>Enter</keycap> or click the <guibutton>Apply filter</guibutton> button. The filtered list is displayed."
+msgstr "若要搜尋某個特定使用者或群組，請在<guilabel>搜尋過濾器</guilabel>欄位中輸入名稱的前幾個字母。請按下 <keycap>Enter</keycap> 鍵或是點選<guibutton>套用過濾器</guibutton>按鈕。接著經過過濾的清單便會出現。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml64(para)
+msgid "To sort the users or groups, click on the column name. The users or groups are sorted according to the value of that column."
+msgstr "若要排序使用者或群組，請點選欄位名稱。使用者或群組會根據該欄位的值來進行排序。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml66(para)
+msgid "User IDs below 500 are reserved for system users. By default, <application>User and Group Configuration Tool</application> does not display system users. To view all users, including the system users, go to <menuchoice><guimenu>Edit</guimenu><guisubmenu>Preferences</guisubmenu></menuchoice> and uncheck <guimenuitem>Hide system users and groups</guimenuitem> from the dialog box."
+msgstr "低於 500 的使用者 ID 會被保留來作為系統用戶。就預設值，<application>使用者與群組設定工具</application>不會顯示系統用戶。若要檢視所有使用者（包括系統用戶），請至<menuchoice><guimenu>編輯</guimenu><guisubmenu>偏好設定</guisubmenu></menuchoice> 然後將對話窗格中的<guimenuitem>隱藏系統用戶和群組</guimenuitem>反選。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml68(title)
+msgid "Adding a New User"
+msgstr "新增使用者"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml68(secondary)
+msgid "adding users"
+msgstr "新增使用者"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml68(para)
+msgid "To add a new user, click the <guibutton>Add User</guibutton> button. A window as shown in <xref linkend=\"user-new-fig\"/> appears. Type the username and full name for the new user in the appropriate fields. Type the user's password in the <guilabel>Password</guilabel> and <guilabel>Confirm Password</guilabel> fields. The password must be at least six characters."
+msgstr "若要新增使用者，請按下<guibutton>新增使用者</guibutton>按鈕。有個如 <xref linkend=\"user-new-fig\"/> 中所示的視窗將會出現。請在適當的欄位中輸入新使用者的使用者名稱和完整名稱。請在<guilabel>密碼</guilabel>與<guilabel>確認密碼</guilabel>欄位中輸入使用者的密碼。密碼不得少於六個字元。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml70(title)
+msgid "Tip"
+msgstr "提示"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml70(para)
+msgid "It is advisable to use a much longer password, as this makes it more difficult for an intruder to guess it and access the account without permission. It is also recommended that the password not be based on a dictionary term; use a combination of letters, numbers and special characters."
+msgstr "建議您使用較長的密碼，這樣會使得入侵者在沒有權限的情況下無法輕易猜到密碼並存取帳號。同時也建議您的密碼勿使用基於字典中的詞彙；請使用字母、數字和特殊字元的組合。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml72(para)
+msgid "Select a login shell. If you are not sure which shell to select, accept the default value of <computeroutput>/bin/bash</computeroutput>. The default home directory is <filename>/home/<replaceable>&lt;username&gt;</replaceable>/</filename>. You can change the home directory that is created for the user, or you can choose not to create the home directory by unselecting <guilabel>Create home directory</guilabel>."
+msgstr "選擇一個登入 shell。若您不確定要選擇哪個 shell，請接受 <computeroutput>/bin/bash</computeroutput> 的預設值。預設家目錄為 <filename>/home/<replaceable>&lt;username&gt;</replaceable>/</filename>。您可更改為使用者所建立的家目錄，或是您亦可藉由反選<guilabel>建立家目錄</guilabel>來選擇不建立家目錄。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml74(para)
+msgid "If you select to create the home directory, default configuration files are copied from the <filename>/etc/skel/</filename> directory into the new home directory."
+msgstr "若您選擇建立家目錄，預設設定檔將會由 <filename>/etc/skel/</filename> 目錄中被複製至新家目錄中。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml76(para)
+msgid "By default, a <firstterm>user private group</firstterm> (UPG) scheme is used. The UPG scheme does not add or change anything in the standard UNIX way of handling groups; it offers a new convention. Whenever you create a new user, by default, a unique group with the same name as the user is created. If you do not want to create this group, unselect <guilabel>Create a private group for the user</guilabel>."
+msgstr "就預設值，<firstterm>使用者私密群組</firstterm>（UPG）這個方案會被使用。UPG 方案不會新增或更改標準 UNIX 處理群組上的方式；它提供了一項新的慣例。就預設值，每當您新建一個使用者時，就會有個擁有和該使用者相同名稱的特殊群組被建立。若您不希望建立此群組，請將<guilabel>為使用者建立私密群組</guilabel>反選。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml78(para)
+msgid "To specify a user ID for the user, select <guibutton>Specify user ID manually</guibutton>. If the option is not selected, the next available user ID above 500 is assigned to the new user. Because user IDs below 500 are reserved for system users, it is not advisable to manually assign user IDs 1-499."
+msgstr "若要為使用者指定一組使用者 ID，請選擇<guibutton>手動式地指定使用者 ID</guibutton>。若此選項沒有被選取的話，下個使用者 ID 高於 500 的可用使用者 ID 便會被分配給這個新使用者。因為低於 500 的使用者 ID 已為系統使用者保留了，因此不建議您手動式地分配 1 至 499 的使用者 ID。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml80(para)
+msgid "Click <guibutton>OK</guibutton> to create the user."
+msgstr "請按下<guibutton>確定</guibutton>來新建使用者。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml82(title)
+msgid "New User"
+msgstr "新使用者"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml82(para)
+msgid "Creating a new user"
+msgstr "建立新使用者"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml84(para)
+msgid "To configure more advanced user properties, such as password expiration, modify the user's properties after adding the user. Refer to <xref linkend=\"s2-system-config-users-user-properties\"/> for more information."
+msgstr "若要設定進階的使用者屬性（例如密碼有效期限），請在新增使用者後修改該使用者的屬性。欲取得更多相關資訊請參閱 <xref linkend=\"s2-system-config-users-user-properties\"/>。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(title)
+msgid "Modifying User Properties"
+msgstr "修改使用者屬性"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(secondary)
+msgid "modifying users"
+msgstr "修改使用者"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(secondary)
+msgid "modify groups for a user"
+msgstr "修改使用者的群組"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(para)
+msgid "To view the properties of an existing user, click on the <guilabel>Users</guilabel> tab, select the user from the user list, and click <guibutton>Properties</guibutton> from the menu (or choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice> from the pulldown menu). A window similar to <xref linkend=\"user-properties-fig\"/> appears."
+msgstr "若要檢視現有用戶的屬性，請點選<guilabel>使用者</guilabel>分頁，由使用者清單中選擇使用者，然後由選單中選取<guibutton>屬性</guibutton>（或由下拉式選單中選取<menuchoice><guimenu>檔案</guimenu><guimenuitem>屬性</guimenuitem></menuchoice>）。一個類似 <xref linkend=\"user-properties-fig\"/> 的視窗便會出現。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml88(title)
+msgid "User Properties"
+msgstr "使用者屬性"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml88(para)
+msgid "Modifying user properties"
+msgstr "修改使用者屬性"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml90(para)
+msgid "The <guilabel>User Properties</guilabel> window is divided into multiple tabbed pages:"
+msgstr "<guilabel>使用者屬性</guilabel>視窗被分為多重分頁："
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(secondary)
+msgid "changing password"
+msgstr "更改密碼"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(secondary)
+msgid "changing login shell"
+msgstr "更改登入的 shell"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(secondary)
+msgid "changing full name"
+msgstr "更改全名"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(secondary)
+msgid "changing home directory"
+msgstr "更改家目錄"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(para)
+msgid "<guilabel>User Data</guilabel> — Shows the basic user information configured when you added the user. Use this tab to change the user's full name, password, home directory, or login shell."
+msgstr "<guilabel>使用者資料</guilabel> — 顯示新增使用者時所設定的基本使用者資訊。請使用此分頁來更改用戶的全名、密碼、家目錄，或登入的 shell。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml94(para)
+msgid "<guilabel>Account Info</guilabel> — <indexterm significance=\"normal\"><primary>user configuration</primary><secondary>setting user account expiration</secondary></indexterm> Select <guibutton>Enable account expiration</guibutton> if you want the account to expire on a certain date. Enter the date in the provided fields. <indexterm significance=\"normal\"><primary>user configuration</primary><secondary>locking user accounts</secondary></indexterm> Select <guilabel>Local password is locked</guilabel> to lock the user account and prevent the user from logging into the system."
+msgstr "<guilabel>帳號資訊</guilabel> — <indexterm significance=\"normal\"><primary>使用者設定</primary><secondary>設定帳號有效期限限制</secondary></indexterm> 若您希望設定帳號的特定有效期限日期，請選擇<guibutton>啟用帳號期限限制</guibutton>。請在欄位中輸入日期。<indexterm significance=\"normal\"><primary>使用者設定</primary><secondary>鎖定使用者帳號</secondary></indexterm> 若您希望鎖定使用者帳號來避免某個使用者登入系統的話，請選擇<guilabel>本機密碼已鎖定</guilabel>。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml98(secondary)
+msgid "password expiration"
+msgstr "密碼有效期限"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml98(para)
+msgid "<guilabel>Password Info</guilabel> — Displays the date that the user's password last changed. To force the user to change passwords after a certain number of days, select <guilabel>Enable password expiration</guilabel> and enter a desired value in the <guilabel>Days before change required:</guilabel> field. The number of days before the user's password expires, the number of days before the user is warned to change passwords, and days before the account becomes inactive can also be changed."
+msgstr "<guilabel>密碼資訊</guilabel> — 顯示使用者上次更改密碼的日期。若要強制使用者在特定天數後更改密碼，請選擇<guilabel>啟用密碼期限限制</guilabel>然後在<guilabel>需要更改前的天數：</guilabel>欄位中輸入一組您想要的值。您亦可修改使用者密碼無效前的天數、更改密碼前的警告天數，以及帳號失效前的天數。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml100(para)
+msgid "<indexterm significance=\"normal\"><primary>user configuration</primary><secondary>adding users to groups</secondary></indexterm><guilabel>Groups</guilabel> — Allows you to view and configure the Primary Group of the user, as well as other groups that you want the user to be a member of."
+msgstr "<indexterm significance=\"normal\"><primary>使用者設定</primary><secondary>會將使用者新增至群組中</secondary></indexterm><guilabel>群組</guilabel> — 能讓您檢視和設定使用者的主要群組，以及您所希望該用戶成為其所屬成員的其它群組。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml103(title)
+msgid "Adding a New Group"
+msgstr "新增群組"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml103(secondary)
+msgid "adding groups"
+msgstr "新增群組"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml103(para)
+msgid "To add a new user group, click the <guibutton>Add Group</guibutton> button. A window similar to <xref linkend=\"group-new-fig\"/> appears. Type the name of the new group to create. To specify a group ID for the new group, select <guibutton>Specify group ID manually</guibutton> and select the GID. Note that group IDs lower than 500 are reserved for system groups."
+msgstr "若要新增群組，請按下<guibutton>新增群組</guibutton>按鈕。一個類似 <xref linkend=\"group-new-fig\"/> 的視窗將會出現。請輸入欲新建之群組的名稱。若要為新群組指定一組新的群組 ID，請選擇<guibutton>手動式指定群組 ID</guibutton> 然後選擇 GID。請注意，低於 500 的群組 ID 已為系統群組保留。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml105(title)
+msgid "New Group"
+msgstr "新增群組"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml105(para)
+msgid "Creating a new group"
+msgstr "建立新群組"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml107(para)
+msgid "Click <guibutton>OK</guibutton> to create the group. The new group appears in the group list."
+msgstr "請按下<guibutton>確定</guibutton>來建立群組。新群組將會出現在群組清單中。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml109(title)
+msgid "Modifying Group Properties"
+msgstr "修改群組屬性"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml109(secondary)
+msgid "modifying group properties"
+msgstr "修改群組屬性"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml109(para)
+msgid "To view the properties of an existing group, select the group from the group list and click <guibutton>Properties</guibutton> from the menu (or choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice> from the pulldown menu). A window similar to <xref linkend=\"group-properties-fig\"/> appears."
+msgstr "若要檢視現有群組的屬性，請由群組清單中選擇群組並按下選單中的<guibutton>屬性</guibutton>（或由下拉式選單中選取<menuchoice><guimenu>檔案</guimenu><guimenuitem>屬性</guimenuitem></menuchoice>）。有個類似 <xref linkend=\"group-properties-fig\"/> 的視窗將會出現。"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml111(title)
+msgid "Group Properties"
+msgstr "群組屬性"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml111(para)
+msgid "Modifying group properties"
+msgstr "修改群組屬性"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml113(secondary)
+msgid "modify users in groups"
+msgstr "修改群組中的使用者"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml113(para)
+msgid "The <guilabel>Group Users</guilabel> tab displays which users are members of the group. Use this tab to add or remove users from the group. Click <guibutton>OK</guibutton> to save your changes."
+msgstr "<guilabel>群組使用者</guilabel>分頁顯示了使用者屬於哪個群組中的成員。請使用此分頁來將使用者新增至或由群組中移除。請按下<guibutton>確定</guibutton>來儲存您的變更。"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml0(None)
+msgid "translator-credits"
+msgstr "譯者姓名：莊佳儒（tchuang@redhat.com，2009）"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml45(year)
+msgid "2010"
+msgstr "2010"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml45(year)
+msgid "2008"
+msgstr "2008"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(revnumber)
+msgid "1.0.9"
+msgstr "1.0.9"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(date)
+msgid "2010-05-06"
+msgstr "2010-05-06"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml45(holder)
+msgid "Red Hat, Inc."
+msgstr "Red Hat, Inc."
+
+#~ msgid "2008 - 2010"
+#~ msgstr "2008-01-31"
+
+#~ msgid "1.0.3"
+#~ msgstr "1.0.1"

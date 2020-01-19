@@ -1,0 +1,611 @@
+# asus, 2010.
+# Fawaz Al-alyan (فواز العليان) <Fawaz_ksu@yahoo.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2010-05-06 17:03+0200\n"
+"PO-Revision-Date: 2010-07-12 10:23+0300\n"
+"Last-Translator: Fawaz Al-alyan <Fawaz_ksu@yahoo.com>\n"
+"Language-Team: Arabic <trans-ar@lists.fedoraproject.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(None)
+msgid ""
+"@@image: 'images/system-config-users.png'; "
+"md5=3ed07ec09bd46b79535a583624b61c6b"
+msgstr ""
+"@@image: 'images/system-config-users.png'; "
+"md5=3ed07ec09bd46b79535a583624b61c6b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(None)
+msgid ""
+"@@image: 'images/system-config-users-user-new.png'; "
+"md5=52dc41e7b6e97b234edb97675fdd0ab6"
+msgstr ""
+"@@image: 'images/system-config-users-user-new.png'; "
+"md5=52dc41e7b6e97b234edb97675fdd0ab6"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(None)
+msgid ""
+"@@image: 'images/system-config-users-user-properties-user-data.png'; "
+"md5=ceab8d4b7c0e76942643c69b3a374829"
+msgstr ""
+"@@image: 'images/system-config-users-user-properties-user-data.png'; "
+"md5=ceab8d4b7c0e76942643c69b3a374829"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(None)
+msgid ""
+"@@image: 'images/system-config-users-group-new.png'; "
+"md5=a8831cbdee41c89768d2a099b3e23f81"
+msgstr ""
+"@@image: 'images/system-config-users-group-new.png'; "
+"md5=a8831cbdee41c89768d2a099b3e23f81"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(None)
+msgid ""
+"@@image: 'images/system-config-users-group-properties-group-data.png'; "
+"md5=3ab34f44acdf639a83dc07a97bb3005c"
+msgstr ""
+"@@image: 'images/system-config-users-group-properties-group-data.png'; "
+"md5=3ab34f44acdf639a83dc07a97bb3005c"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:49(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(application)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(para)
+msgid "User and Group Configuration Tool"
+msgstr "أداة التكوين للمستخدم والمجموعة"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-01-31"
+msgstr "2008-01-31"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-03-11"
+msgstr "2008-03-11"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-03-12"
+msgstr "2008-03-12"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0.9"
+msgstr "1.0.9"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2010-05-06"
+msgstr "1.0.9"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(para)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(para)
+msgid ""
+"The <application>User and Group Configuration Tool</application> allows you "
+"to view, modify, add, and delete local users and groups."
+msgstr ""
+"<application>أداة التكوين للمستخدم والمجموعة</application> تمكنك "
+"من العرض، التعديل، الإضافة وإزالة المستخدمين والمجموعات المحليين."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:44(trademark)
+msgid "Red Hat"
+msgstr "ريد هات"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:43(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>، المتحدة."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(year)
+msgid "2008"
+msgstr "2008"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(year)
+msgid "2010"
+msgstr "2010"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(holder)
+msgid "Red Hat, Inc."
+msgstr "ريد هات، المتحدة."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:48(command)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(command)
+msgid "system-config-users"
+msgstr "system-config-users"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:49(para)
+msgid ""
+"You must be running the <application>X</application> Window System and have "
+"root privileges to use the User and Group Configuration Tool. There are "
+"three ways to start the application:"
+msgstr ""
+"يجب تشغيل <application>X</application> Window System والحصول "
+" على صلاحيات مدير النظام لاستخدام أداة التكوين للمستخدم والمجموعة. هنالك"
+"ثلاثة طرق لبدأ التطبيق:"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:51(para)
+msgid ""
+"From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the "
+"menu with the \"f\" icon)</guimenu><guisubmenu>System</"
+"guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Users and "
+"Groups</guimenuitem></menuchoice>"
+msgstr ""
+"من سطح المكتب، اذهب إلى <menuchoice><guimenu>القائمة الرئيسية على لوحة "
+"(القائمة مع رمز \"f\")</guimenu><guisubmenu>نظام</"
+"guisubmenu><guisubmenu>الإدارة</guisubmenu><guimenuitem>المستخدمين "
+"والمجموعات</guimenuitem></menuchoice>"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:53(para)
+msgid ""
+"From the desktop, right-click on the fast user switch applet in the toolbar "
+"and select <guimenu>Edit Users and Groups</guimenu>."
+msgstr ""
+"من سطح المكتب، انقر بزر الفأرة الأيمن على التطبيق الصغير للتبديل السريع بين "
+"المستخدمين في شريط الأدوات"
+"اختر <guimenu>تحرير المستخدمين والمجموعات</guimenu>."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:55(para)
+msgid ""
+"Type the command <command>system-config-users</command> at a shell prompt "
+"(for example, in an <application>XTerm</application> or a "
+"<application>GNOME</application> terminal)."
+msgstr ""
+"ادخل الامر <command>system-config-users</command> عند القشرة (shell) الفورية "
+"(على سبيل المثال، في  <application>XTerm</application> أو "
+"<application>GNOME</application> terminal)."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(title)
+msgid "User and Group Configuration"
+msgstr "أداة التكوين للمستخدم والمجموعة"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+msgid "users"
+msgstr "مستخدمون"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(primary)
+msgid "user configuration"
+msgstr "تكوين المستخدم"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+msgid "groups"
+msgstr "مجموعات"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(primary)
+msgid "group configuration"
+msgstr "تكوين المجموعة"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+msgid "user and group configuration"
+msgstr "تكوين المستخدم و المجموعة"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(secondary)
+msgid "viewing list of users"
+msgstr "عرض قائمة المستخدمين"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(secondary)
+msgid "viewing list of groups"
+msgstr "عرض قائمة المجموعات"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(secondary)
+msgid "filtering list of users"
+msgstr "تصفية قائمة المستخدمين"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(secondary)
+msgid "filtering list of groups"
+msgstr "تصفية قائمة المجموعات"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(para)
+msgid ""
+"To view a list of local users on the system, click the <guilabel>Users</"
+"guilabel> tab. To view a list of local groups on the system, click the "
+"<guilabel>Groups</guilabel> tab."
+msgstr ""
+"لعرض قائمة من المستخدمين المحليين على النظام، انقر فوق تبويب <guilabel>"
+"المستخدمين</"
+"guilabel>.لعرض قائمة المجموعات المحلية على النظام، انقر فوق تبويب "
+"<guilabel>المجموعات</guilabel>."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:62(para)
+msgid ""
+"To find a specific user or group, type the first few letters of the name in "
+"the <guilabel>Search filter</guilabel> field. Press <keycap>Enter</keycap> "
+"or click the <guibutton>Apply filter</guibutton> button. The filtered list "
+"is displayed."
+msgstr ""
+"للعثور على مستخدم محدد أو مجموعة، اكتب الأحرف الأولى من الاسم في حقل<"
+"guilabel>مصفي البحث</guilabel>. اضغط <keycap>ادخال</keycap> "
+"أو انقر فوق زر <guibutton>تطبيق المصفي</guibutton>. القائمة المصفاة تعرض."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:64(para)
+msgid ""
+"To sort the users or groups, click on the column name. The users or groups "
+"are sorted according to the value of that column."
+msgstr ""
+"لفرز المستخدمين أو المجموعات، انقر على اسم العمود. يتم ترتيب المستخدمين أو "
+"المجموعات وفقا لقيمة هذا العمود."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:66(para)
+msgid ""
+"User IDs below 500 are reserved for system users. By default, "
+"<application>User and Group Configuration Tool</application> does not "
+"display system users. To view all users, including the system users, go to "
+"<menuchoice><guimenu>Edit</guimenu><guisubmenu>Preferences</guisubmenu></"
+"menuchoice> and uncheck <guimenuitem>Hide system users and groups</"
+"guimenuitem> from the dialog box."
+msgstr ""
+"هوية المستخدمين التي أقل من 500 هي محجوزة لمستخدمي النظام. افتراضيا، "
+"<application>أداة تكوين المستخدم والمجموعة</application> لا تعرض  "
+"مستخدمي النظام. لعرض جميع المستخدمين، بما في ذلك مستخدمي النظام، اذهب إلى "
+"<menuchoice><guimenu>تحرير</guimenu><guisubmenu>تفضيلات</guisubmenu></"
+"menuchoice> و أزل <guimenuitem>إخفاء مستخدمي النظام والمجموعات</"
+"guimenuitem> من مربع الحوار."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(title)
+msgid "Adding a New User"
+msgstr "إضافة مستخدم جديد"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(secondary)
+msgid "adding users"
+msgstr "إضافة مستخدمين"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(para)
+msgid ""
+"To add a new user, click the <guibutton>Add User</guibutton> button. A "
+"window as shown in <xref linkend=\"user-new-fig\"/> appears. Type the "
+"username and full name for the new user in the appropriate fields. Type the "
+"user's password in the <guilabel>Password</guilabel> and <guilabel>Confirm "
+"Password</guilabel> fields. The password must be at least six characters."
+msgstr ""
+"لإضافة مستخدم جديد، انقر فوق زر <guibutton>إضافة مستخدم</guibutton>. نافذة "
+"تظهر "
+"كما هو مبين في <xref linkend=\"user-new-fig\"/>. اكتب اسم المستخدم والاسم "
+"الكامل للمستخدم الجديد في الحقول المناسبة. اكتب كلمة المرور الخاصة بالمستخدم "
+"في الحقول التالية <guilabel>كلمة المرور</guilabel> و <guilabel>تأكيد كلمة "
+"المرور</guilabel> . يجب أن تكون كلمة المرور ستة أحرف على الأقل."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:70(title)
+msgid "Tip"
+msgstr "تلميح"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:70(para)
+msgid ""
+"It is advisable to use a much longer password, as this makes it more "
+"difficult for an intruder to guess it and access the account without "
+"permission. It is also recommended that the password not be based on a "
+"dictionary term; use a combination of letters, numbers and special "
+"characters."
+msgstr ""
+"من المستحسن أستخدام كلمة مرور أطول، وهذا يجعله اكثر "
+"صعوبة لمتدخل أن يخمنه وأن يستطيع الدخول على الحساب من دون "
+"تصريح. وأيضا لا ينصح ان تكون كلمة المرور مبنية على "
+"مصطلحات قاموسية؛ استخدم تركيبة من الأحرف، أرقام وأحرف خاصة."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:72(para)
+msgid ""
+"Select a login shell. If you are not sure which shell to select, accept the "
+"default value of <computeroutput>/bin/bash</computeroutput>. The default "
+"home directory is <filename>/home/<replaceable>&lt;username&gt;</"
+"replaceable>/</filename>. You can change the home directory that is created "
+"for the user, or you can choose not to create the home directory by "
+"unselecting <guilabel>Create home directory</guilabel>."
+msgstr ""
+"اختر قشرة الدخول. إذا لم تكن متأكداً أي قشرة تختار، اقبل "
+"القيمة الافتراضية لـ <computeroutput>/bin/bash</computeroutput>. الدليل "
+"الرئيسي الافتراضي هو <filename>/home/<replaceable>&lt;username&gt;</"
+"replaceable>/</filename>. يمكنك تغيير الدليل الرئيسي الذي تم إنشاؤه "
+" للمستخدم، أو يمكنك اختيار عدم إنشاء الدليل الرئيسي عن طريق "
+"عدم اختيار <guilabel>إنشاء الدليل الرئيسي</guilabel>."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:74(para)
+msgid ""
+"If you select to create the home directory, default configuration files are "
+"copied from the <filename>/etc/skel/</filename> directory into the new home "
+"directory."
+msgstr ""
+"إذا اخترت أن تنشئ الدليل الرئيسي، ملفات التكوين الافتراضية "
+"تنسخ من الدليل <filename>/etc/skel/</filename> في الدليل الرئيسي "
+"الجديد."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:76(para)
+msgid ""
+"By default, a <firstterm>user private group</firstterm> (UPG) scheme is "
+"used. The UPG scheme does not add or change anything in the standard UNIX "
+"way of handling groups; it offers a new convention. Whenever you create a "
+"new user, by default, a unique group with the same name as the user is "
+"created. If you do not want to create this group, unselect <guilabel>Create "
+"a private group for the user</guilabel>."
+msgstr ""
+"افتراضيا، <firstterm> المجموعة الخاصة للمستخدم </firstterm> هو المستخدم "
+"(UPG) مخطط "
+". مخطط الـUPG لا يضيف ولا يغير أي شيء في لينكس القياسية"
+"في طريقة التعامل مع المجموعات؛ وهي تقدم اتفاقية جديدة. كلما قمت بإنشاء "
+"مستخدم جديد، بشكل افتراضي، مجموعة فريدة من نوعها مع نفس الاسم الذي إنشاؤه  "
+"المستخدم. إذا كنت لا ترغب في إنشاء هذه المجموعة، لا تختار <guilabel>إنشاء"
+"مجموعة خاصة للمستخدم</guilabel>."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:78(para)
+msgid ""
+"To specify a user ID for the user, select <guibutton>Specify user ID "
+"manually</guibutton>. If the option is not selected, the next available user "
+"ID above 500 is assigned to the new user. Because user IDs below 500 are "
+"reserved for system users, it is not advisable to manually assign user IDs 1-"
+"499."
+msgstr ""
+"لتحديد هوية المستخدم للمستخدم، اختر <guibutton>تحديد هوية المستخدم "
+"يدويا</guibutton>. إذا لم يتم تحديد الخيار، يتم تعيين هوية المستخدم التالة "
+"المتوفرة "
+"التي فوق 500 إلى المستخدم الجديد. لأن هوية المستخدم التي اقل من 500 "
+"محفوظة لمستخدمي النظام، فإنه ليس من المستحسن يدويا تعيين هوية المستخدمين 1- "
+"499."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:80(para)
+msgid "Click <guibutton>OK</guibutton> to create the user."
+msgstr "انقر فوق <guibutton>موافق</guibutton> لإنشاء المستخدم."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(title)
+msgid "New User"
+msgstr "مستخدم جديد"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(para)
+msgid "Creating a new user"
+msgstr "إنشاء مستخدم جديد"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:84(para)
+msgid ""
+"To configure more advanced user properties, such as password expiration, "
+"modify the user's properties after adding the user. Refer to <xref linkend="
+"\"s2-system-config-users-user-properties\"/> for more information."
+msgstr ""
+"لتكوين خصائص أكثر تقدم للمستخدم ، مثل انتهاء صلاحية كلمة المرور, "
+"تعديل خصائص المستخدم بعد إضافة المستخدم. الرجوع إلى <xref linkend="
+"\"s2-system-config-users-user-properties\"/> لمزيد من المعلومات."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(title)
+msgid "Modifying User Properties"
+msgstr "تعديل خصائص المستخدم"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(secondary)
+msgid "modifying users"
+msgstr "تعديل المستخدمين"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(secondary)
+msgid "modify groups for a user"
+msgstr "تعديل مجموعات لمستخدم"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(para)
+msgid ""
+"To view the properties of an existing user, click on the <guilabel>Users</"
+"guilabel> tab, select the user from the user list, and click "
+"<guibutton>Properties</guibutton> from the menu (or choose "
+"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></"
+"menuchoice> from the pulldown menu). A window similar to <xref linkend="
+"\"user-properties-fig\"/> appears."
+msgstr ""
+"لعرض خصائص مستخدم موجود، انقر على تبويب <guilabel>مستخدمون</"
+"guilabel>، حدد المستخدم من قائمة المستخدمين، وانقر "
+"<guibutton>خصائص</guibutton> من القائمة (أو اختر "
+"<menuchoice><guimenu>ملف</guimenu><guimenuitem>خصائص</guimenuitem></"
+"menuchoice> من القائمة المنسدلة). نافذة مماثلة لـ <xref linkend="
+"\"user-properties-fig\"/> تظهر."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(title)
+msgid "User Properties"
+msgstr "خصائص المستخدم"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(para)
+msgid "Modifying user properties"
+msgstr "تعديل خصائص المستخدم"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:90(para)
+msgid ""
+"The <guilabel>User Properties</guilabel> window is divided into multiple "
+"tabbed pages:"
+msgstr "نافذة<guilabel>خصائص المستخدم</guilabel> تقسم إلى عدة صفحات مبوبة:"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing password"
+msgstr "تغيير كلمة المرور"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing login shell"
+msgstr "تغيير قشرة الدخول"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing full name"
+msgstr "تغيير الاسم الكامل"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing home directory"
+msgstr "تغيير الدليل الرئيسي"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(para)
+msgid ""
+"<guilabel>User Data</guilabel> — Shows the basic user information configured "
+"when you added the user. Use this tab to change the user's full name, "
+"password, home directory, or login shell."
+msgstr ""
+"<guilabel>بيانات المستخدم</guilabel> — تعرض معلومات المستخدم الأساسية المكونة"
+"عندما قمت بإضافة المستخدم. استخدم هذا التبويب لتغيير اسم المستخدم الكامل, "
+"كلمة المرور، الدليل الرئيسي، و قشرة الدخول."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:94(para)
+msgid ""
+"<guilabel>Account Info</guilabel> — <indexterm significance=\"normal"
+"\"><primary>user configuration</primary><secondary>setting user account "
+"expiration</secondary></indexterm> Select <guibutton>Enable account "
+"expiration</guibutton> if you want the account to expire on a certain date. "
+"Enter the date in the provided fields. <indexterm significance=\"normal"
+"\"><primary>user configuration</primary><secondary>locking user accounts</"
+"secondary></indexterm> Select <guilabel>Local password is locked</guilabel> "
+"to lock the user account and prevent the user from logging into the system."
+msgstr ""
+"<guilabel>معلومات الحساب</guilabel> — <indexterm significance=\"normal"
+"\"><primary>تكوين المستخدم</primary><secondary>إعداد انتهاء حساب "
+"المستخدم</secondary></indexterm> اختيار <guibutton>تمكين انتهاء "
+"الحساب</guibutton> إذا كنت ترغب في انتهاء الحساب في تاريخ معين. "
+"أدخل التاريخ في الحقول المنصوص عليها. <indexterm significance=\"normal"
+"\"><primary>تكوين المستخدم</primary><secondary>قفل حسابات المستخدمين</"
+"secondary></indexterm> اختيار <guilabel>كلمة المرور المحلية مقفلة</guilabel> "
+"لقفل حساب المستخدم ومنع المستخدم من الدخول الى النظام."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(secondary)
+msgid "password expiration"
+msgstr "انتهاء صلاحية كلمة المرور"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(para)
+msgid ""
+"<guilabel>Password Info</guilabel> — Displays the date that the user's "
+"password last changed. To force the user to change passwords after a certain "
+"number of days, select <guilabel>Enable password expiration</guilabel> and "
+"enter a desired value in the <guilabel>Days before change required:</"
+"guilabel> field. The number of days before the user's password expires, the "
+"number of days before the user is warned to change passwords, and days "
+"before the account becomes inactive can also be changed."
+msgstr ""
+"<guilabel>معلومات عن كلمة المرور</guilabel> — عرض التاريخ لآخر تغير قام به  "
+"المستخدم لكلمة المرور. لإجبار المستخدم لتغيير كلمات السر بعد "
+"عدد معين من الأيام، اختر <guilabel>تمكين انتهاء كلمة المرور</guilabel> "
+"وأدخل القيمة المرغوبة في حقل <guilabel>أيام قبل التغيير المطلوب:</"
+"guilabel>. عدد الأيام قبل انتهاء كلمة المرور للمستخدم، عدد  "
+"الأيام قبل تحذير المستخدم لتغيير كلمة السر، و الأيام قبل  "
+"ان يصبح الحساب غير نشط يمكن أيضا أن يتغير."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:100(para)
+msgid ""
+"<indexterm significance=\"normal\"><primary>user configuration</"
+"primary><secondary>adding users to groups</secondary></"
+"indexterm><guilabel>Groups</guilabel> — Allows you to view and configure the "
+"Primary Group of the user, as well as other groups that you want the user to "
+"be a member of."
+msgstr ""
+"<indexterm significance=\"normal\"><primary>تكوين المسخدم</"
+"primary><secondary>إضافة مستخدمين إلى مجموعات</secondary></"
+"indexterm><guilabel>مجموعات</guilabel> — يسمح لك بعرض وتكوين "
+"المجموعة الأساسية للمستخدم، وكذلك المجموعات الأخرى التي تريد للمستخدم أن "
+"يكون "
+"عضوا فيها."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(title)
+msgid "Adding a New Group"
+msgstr "إضافة مجموعة جديدة"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(secondary)
+msgid "adding groups"
+msgstr "إضافة مجموعات"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(para)
+msgid ""
+"To add a new user group, click the <guibutton>Add Group</guibutton> button. "
+"A window similar to <xref linkend=\"group-new-fig\"/> appears. Type the name "
+"of the new group to create. To specify a group ID for the new group, select "
+"<guibutton>Specify group ID manually</guibutton> and select the GID. Note "
+"that group IDs lower than 500 are reserved for system groups."
+msgstr ""
+"لإضافة مجموعة مستخدم جديدة، انقر الزر <guibutton>إضافة مجموعة</guibutton>. "
+"نافذة مماثلة لـ <xref linkend=\"group-new-fig\"/> تظهر. اكتب اسم "
+"المجموعة الجديدة للإنشاء. لتحديد هوية المجموعة للمجموعة الجديدة، اختر "
+"<guibutton>تحديد هوية المجموعة يدويا</guibutton> ،واختر هوية المجموعة.لاحظ  "
+"أنه يتم حجز هوية المجموعات التي أقل من 500 لمجموعات النظام."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(title)
+msgid "New Group"
+msgstr "مجموعة جديدة"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(para)
+msgid "Creating a new group"
+msgstr "إنشاء مجموعة جديدة"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:107(para)
+msgid ""
+"Click <guibutton>OK</guibutton> to create the group. The new group appears "
+"in the group list."
+msgstr ""
+"انقر فوق <guibutton>موافق</guibutton> لإنشاء المجموعة. المجموعة الجديدة تظهر "
+"في قائمة المجموعات."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(title)
+msgid "Modifying Group Properties"
+msgstr "تعديل خصائص المجموعة"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(secondary)
+msgid "modifying group properties"
+msgstr "تعديل خصائص المجموعة"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(para)
+msgid ""
+"To view the properties of an existing group, select the group from the group "
+"list and click <guibutton>Properties</guibutton> from the menu (or choose "
+"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></"
+"menuchoice> from the pulldown menu). A window similar to <xref linkend="
+"\"group-properties-fig\"/> appears."
+msgstr ""
+"لعرض خصائص مجموعة موجودة، اختر مجموعة من  "
+"قائمة المجموعات وانقر فوق <guibutton>خصائص</guibutton> من القائمة (أو اختر "
+"<menuchoice><guimenu>ملف</guimenu><guimenuitem>خصائص</guimenuitem></"
+"menuchoice>من القائمة المنسدلة). نافذة مماثلة لـ <xref linkend="
+"\"group-properties-fig\"/> تظهر."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(title)
+msgid "Group Properties"
+msgstr "خصائص المجموعة"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(para)
+msgid "Modifying group properties"
+msgstr "تعديل خصائص المجموعة"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(secondary)
+msgid "modify users in groups"
+msgstr "تعديل المستخدمين في مجموعات"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(para)
+msgid ""
+"The <guilabel>Group Users</guilabel> tab displays which users are members of "
+"the group. Use this tab to add or remove users from the group. Click "
+"<guibutton>OK</guibutton> to save your changes."
+msgstr ""
+"التبويب <guilabel>مجموعة المستخدمين</guilabel> يعرض أي المستخدمين هم أعضاء "
+" في المجموعة. استخدام هذا التبويب لإضافة أو إزالة المستخدمين من المجموعة. "
+"انقر فوق "
+"<guibutton>موافق</guibutton> لحفظ التغيرات."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:0(None)
+msgid "translator-credits"
+msgstr "حقوق المترجم "
+
+

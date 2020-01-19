@@ -1,0 +1,520 @@
+# translation of system-config-users.docs.or.po to Oriya
+# Manoj Kumar Giri <mgiri@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: system-config-users.docs.or\n"
+"POT-Creation-Date: 2010-05-06 17:03+0200\n"
+"PO-Revision-Date: 2009-09-26 04:12+0530\n"
+"Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
+"Language-Team: Oriya <oriya-it@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=2; plural=(n!=1);\n"
+"\n"
+"\n"
+"\n"
+"\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(None)
+msgid ""
+"@@image: 'images/system-config-users.png'; "
+"md5=3ed07ec09bd46b79535a583624b61c6b"
+msgstr ""
+"@@image: 'images/system-config-users.png'; "
+"md5=3ed07ec09bd46b79535a583624b61c6b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(None)
+msgid ""
+"@@image: 'images/system-config-users-user-new.png'; "
+"md5=52dc41e7b6e97b234edb97675fdd0ab6"
+msgstr ""
+"@@image: 'images/system-config-users-user-new.png'; "
+"md5=52dc41e7b6e97b234edb97675fdd0ab6"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(None)
+msgid ""
+"@@image: 'images/system-config-users-user-properties-user-data.png'; "
+"md5=ceab8d4b7c0e76942643c69b3a374829"
+msgstr ""
+"@@image: 'images/system-config-users-user-properties-user-data.png'; "
+"md5=ceab8d4b7c0e76942643c69b3a374829"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(None)
+msgid ""
+"@@image: 'images/system-config-users-group-new.png'; "
+"md5=a8831cbdee41c89768d2a099b3e23f81"
+msgstr ""
+"@@image: 'images/system-config-users-group-new.png'; "
+"md5=a8831cbdee41c89768d2a099b3e23f81"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(None)
+msgid ""
+"@@image: 'images/system-config-users-group-properties-group-data.png'; "
+"md5=3ab34f44acdf639a83dc07a97bb3005c"
+msgstr ""
+"@@image: 'images/system-config-users-group-properties-group-data.png'; "
+"md5=3ab34f44acdf639a83dc07a97bb3005c"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:49(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(application)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(para)
+msgid "User and Group Configuration Tool"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-01-31"
+msgstr "2008-01-31"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-03-11"
+msgstr "2008-03-11"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-03-12"
+msgstr "2008-03-12"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+#, fuzzy
+msgid "1.0.9"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+#, fuzzy
+msgid "2010-05-06"
+msgstr "2008-01-31"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(para)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(para)
+msgid ""
+"The <application>User and Group Configuration Tool</application> allows you "
+"to view, modify, add, and delete local users and groups."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:44(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:43(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(year)
+msgid "2008"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(year)
+msgid "2010"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(holder)
+#, fuzzy
+msgid "Red Hat, Inc."
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:48(command)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(command)
+msgid "system-config-users"
+msgstr "system-config-users"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:49(para)
+msgid ""
+"You must be running the <application>X</application> Window System and have "
+"root privileges to use the User and Group Configuration Tool. There are "
+"three ways to start the application:"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:51(para)
+msgid ""
+"From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the "
+"menu with the \"f\" icon)</guimenu><guisubmenu>System</"
+"guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Users and "
+"Groups</guimenuitem></menuchoice>"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:53(para)
+msgid ""
+"From the desktop, right-click on the fast user switch applet in the toolbar "
+"and select <guimenu>Edit Users and Groups</guimenu>."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:55(para)
+msgid ""
+"Type the command <command>system-config-users</command> at a shell prompt "
+"(for example, in an <application>XTerm</application> or a "
+"<application>GNOME</application> terminal)."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(title)
+msgid "User and Group Configuration"
+msgstr "ଚାଳକ ଏବଂ ଶ୍ରେଣୀ ସଂରଚନା"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+msgid "users"
+msgstr "ଚାଳକମାନେ"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(primary)
+msgid "user configuration"
+msgstr "ଚାଳକ ସଂରଚନା"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+msgid "groups"
+msgstr "ଶ୍ରେଣୀ"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(primary)
+msgid "group configuration"
+msgstr "ଶ୍ରେଣୀ ସଂରଚନା"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+msgid "user and group configuration"
+msgstr "ଚାଳକ ଏବଂ ଶ୍ରେଣୀ ସଂରଚନା"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(secondary)
+msgid "viewing list of users"
+msgstr "ଚାଳକ ତାଲିକା ଦେଖୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(secondary)
+msgid "viewing list of groups"
+msgstr "ଶ୍ରେଣୀ ତାଲିକା ଦେଖୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(secondary)
+msgid "filtering list of users"
+msgstr "ଚାଳକ ତାଲିକା ଛାଣୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(secondary)
+msgid "filtering list of groups"
+msgstr "ଶ୍ରେଣୀ ତାଲିକା ଛାଣୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(para)
+msgid ""
+"To view a list of local users on the system, click the <guilabel>Users</"
+"guilabel> tab. To view a list of local groups on the system, click the "
+"<guilabel>Groups</guilabel> tab."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:62(para)
+msgid ""
+"To find a specific user or group, type the first few letters of the name in "
+"the <guilabel>Search filter</guilabel> field. Press <keycap>Enter</keycap> "
+"or click the <guibutton>Apply filter</guibutton> button. The filtered list "
+"is displayed."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:64(para)
+msgid ""
+"To sort the users or groups, click on the column name. The users or groups "
+"are sorted according to the value of that column."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:66(para)
+msgid ""
+"User IDs below 500 are reserved for system users. By default, "
+"<application>User and Group Configuration Tool</application> does not "
+"display system users. To view all users, including the system users, go to "
+"<menuchoice><guimenu>Edit</guimenu><guisubmenu>Preferences</guisubmenu></"
+"menuchoice> and uncheck <guimenuitem>Hide system users and groups</"
+"guimenuitem> from the dialog box."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(title)
+msgid "Adding a New User"
+msgstr "ଗୋଟିଏ ନୂତନ ଚାଳକ ଯୋଗକରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(secondary)
+msgid "adding users"
+msgstr "ଚାଳକ ଯୋଗକରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(para)
+msgid ""
+"To add a new user, click the <guibutton>Add User</guibutton> button. A "
+"window as shown in <xref linkend=\"user-new-fig\"/> appears. Type the "
+"username and full name for the new user in the appropriate fields. Type the "
+"user's password in the <guilabel>Password</guilabel> and <guilabel>Confirm "
+"Password</guilabel> fields. The password must be at least six characters."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:70(title)
+msgid "Tip"
+msgstr "ପରାମର୍ଶ"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:70(para)
+msgid ""
+"It is advisable to use a much longer password, as this makes it more "
+"difficult for an intruder to guess it and access the account without "
+"permission. It is also recommended that the password not be based on a "
+"dictionary term; use a combination of letters, numbers and special "
+"characters."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:72(para)
+msgid ""
+"Select a login shell. If you are not sure which shell to select, accept the "
+"default value of <computeroutput>/bin/bash</computeroutput>. The default "
+"home directory is <filename>/home/<replaceable>&lt;username&gt;</"
+"replaceable>/</filename>. You can change the home directory that is created "
+"for the user, or you can choose not to create the home directory by "
+"unselecting <guilabel>Create home directory</guilabel>."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:74(para)
+msgid ""
+"If you select to create the home directory, default configuration files are "
+"copied from the <filename>/etc/skel/</filename> directory into the new home "
+"directory."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:76(para)
+msgid ""
+"By default, a <firstterm>user private group</firstterm> (UPG) scheme is "
+"used. The UPG scheme does not add or change anything in the standard UNIX "
+"way of handling groups; it offers a new convention. Whenever you create a "
+"new user, by default, a unique group with the same name as the user is "
+"created. If you do not want to create this group, unselect <guilabel>Create "
+"a private group for the user</guilabel>."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:78(para)
+msgid ""
+"To specify a user ID for the user, select <guibutton>Specify user ID "
+"manually</guibutton>. If the option is not selected, the next available user "
+"ID above 500 is assigned to the new user. Because user IDs below 500 are "
+"reserved for system users, it is not advisable to manually assign user IDs 1-"
+"499."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:80(para)
+msgid "Click <guibutton>OK</guibutton> to create the user."
+msgstr "ଚାଳକ ନିର୍ମାଣ କରିବା ପାଇଁ <guibutton>OK</guibutton> କ୍ଲିକ କରନ୍ତୁ।"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(title)
+msgid "New User"
+msgstr "ନୂତନ ଚାଳକ"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(para)
+msgid "Creating a new user"
+msgstr "ଗୋଟିଏ ନୂତନ ଚାଳକ ସୃଷ୍ଟିକରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:84(para)
+msgid ""
+"To configure more advanced user properties, such as password expiration, "
+"modify the user's properties after adding the user. Refer to <xref linkend="
+"\"s2-system-config-users-user-properties\"/> for more information."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(title)
+msgid "Modifying User Properties"
+msgstr "ଚାଳକ ଗୁଣଧର୍ମ ପରିବର୍ତ୍ତନ କରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(secondary)
+msgid "modifying users"
+msgstr "ଚାଳକମାନଙ୍କୁ ପରିବର୍ତ୍ତନ କରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(secondary)
+msgid "modify groups for a user"
+msgstr "ଗୋଟିଏ ଚାଳକର ଶ୍ରେଣୀକୁ ପରିବର୍ତ୍ତନ କରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(para)
+msgid ""
+"To view the properties of an existing user, click on the <guilabel>Users</"
+"guilabel> tab, select the user from the user list, and click "
+"<guibutton>Properties</guibutton> from the menu (or choose "
+"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></"
+"menuchoice> from the pulldown menu). A window similar to <xref linkend="
+"\"user-properties-fig\"/> appears."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(title)
+msgid "User Properties"
+msgstr "ଚାଳକର ଗୁଣଧର୍ମ"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(para)
+msgid "Modifying user properties"
+msgstr "ଚାଳକ ଗୁଣଧର୍ମଗୁଡ଼ିକୁ ପରିବର୍ତ୍ତନ କରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:90(para)
+msgid ""
+"The <guilabel>User Properties</guilabel> window is divided into multiple "
+"tabbed pages:"
+msgstr ""
+"The <guilabel>User Properties</guilabel> window is divided into multiple "
+"tabbed pages:"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing password"
+msgstr "ପ୍ରବେଶ ସଂକେତ ପରିବର୍ତ୍ତନ କରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing login shell"
+msgstr "ଲଗିନ ସେଲ ପରିବର୍ତ୍ତନ କରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing full name"
+msgstr "ସମ୍ପୂର୍ଣ୍ଣ ନାମ ପରିବର୍ତ୍ତନ କରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing home directory"
+msgstr "ମୂଖ୍ୟ ଚାଳକ ଡିରେକ୍ଟୋରୀକୁ ପରିବର୍ତ୍ତନ କରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(para)
+msgid ""
+"<guilabel>User Data</guilabel> — Shows the basic user information configured "
+"when you added the user. Use this tab to change the user's full name, "
+"password, home directory, or login shell."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:94(para)
+msgid ""
+"<guilabel>Account Info</guilabel> — <indexterm significance=\"normal"
+"\"><primary>user configuration</primary><secondary>setting user account "
+"expiration</secondary></indexterm> Select <guibutton>Enable account "
+"expiration</guibutton> if you want the account to expire on a certain date. "
+"Enter the date in the provided fields. <indexterm significance=\"normal"
+"\"><primary>user configuration</primary><secondary>locking user accounts</"
+"secondary></indexterm> Select <guilabel>Local password is locked</guilabel> "
+"to lock the user account and prevent the user from logging into the system."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(secondary)
+msgid "password expiration"
+msgstr "ପ୍ରବେଶ ସଂକେତ ସମୟ ସମାପ୍ତ"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(para)
+msgid ""
+"<guilabel>Password Info</guilabel> — Displays the date that the user's "
+"password last changed. To force the user to change passwords after a certain "
+"number of days, select <guilabel>Enable password expiration</guilabel> and "
+"enter a desired value in the <guilabel>Days before change required:</"
+"guilabel> field. The number of days before the user's password expires, the "
+"number of days before the user is warned to change passwords, and days "
+"before the account becomes inactive can also be changed."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:100(para)
+msgid ""
+"<indexterm significance=\"normal\"><primary>user configuration</"
+"primary><secondary>adding users to groups</secondary></"
+"indexterm><guilabel>Groups</guilabel> — Allows you to view and configure the "
+"Primary Group of the user, as well as other groups that you want the user to "
+"be a member of."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(title)
+msgid "Adding a New Group"
+msgstr "ଗୋଟିଏ ନୂତନ ଶ୍ରେଣୀ ଯୋଗକରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(secondary)
+msgid "adding groups"
+msgstr "ଶ୍ରେଣୀ ଯୋଗକରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(para)
+msgid ""
+"To add a new user group, click the <guibutton>Add Group</guibutton> button. "
+"A window similar to <xref linkend=\"group-new-fig\"/> appears. Type the name "
+"of the new group to create. To specify a group ID for the new group, select "
+"<guibutton>Specify group ID manually</guibutton> and select the GID. Note "
+"that group IDs lower than 500 are reserved for system groups."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(title)
+msgid "New Group"
+msgstr "ନୂତନ ଶ୍ରେଣୀ"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(para)
+msgid "Creating a new group"
+msgstr "ଗୋଟିଏ ନୂତନ ଶ୍ରେଣୀ ସୃଷ୍ଟିକରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:107(para)
+msgid ""
+"Click <guibutton>OK</guibutton> to create the group. The new group appears "
+"in the group list."
+msgstr ""
+"ସେହି ଶ୍ରେଣୀକୁ ସୃଷ୍ଟିକରିବା ପାଇଁ <guibutton>OK</guibutton> କ୍ଲିକ କରନ୍ତୁ। ସେହି ନୂତନ ଶ୍ରେଣୀଟି "
+"ଶ୍ରେଣୀ ତାଲିକାରେ ଦର୍ଶାଯାଇଥାଏ।"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(title)
+msgid "Modifying Group Properties"
+msgstr "ଶ୍ରେଣୀ ଗୁଣଧର୍ମଗୁଡ଼ିକୁ ପରିବର୍ତ୍ତନ କରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(secondary)
+msgid "modifying group properties"
+msgstr "ଶ୍ରେଣୀ ଗୁଣଧର୍ମଗୁଡ଼ିକୁ ପରିବର୍ତ୍ତନ କରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(para)
+msgid ""
+"To view the properties of an existing group, select the group from the group "
+"list and click <guibutton>Properties</guibutton> from the menu (or choose "
+"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></"
+"menuchoice> from the pulldown menu). A window similar to <xref linkend="
+"\"group-properties-fig\"/> appears."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(title)
+msgid "Group Properties"
+msgstr "ଶ୍ରେଣୀ ଗୁଣଧର୍ମଗୁଡ଼ିକୁ"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(para)
+msgid "Modifying group properties"
+msgstr "ଶ୍ରେଣୀ ଗୁଣଧର୍ମଗୁଡ଼ିକୁ ପରିବର୍ତ୍ତନ କରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(secondary)
+msgid "modify users in groups"
+msgstr "ଶ୍ରେଣୀରେ ଚାଳକମାନଙ୍କୁ ପରିବର୍ତ୍ତନ କରୁଅଛି"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(para)
+msgid ""
+"The <guilabel>Group Users</guilabel> tab displays which users are members of "
+"the group. Use this tab to add or remove users from the group. Click "
+"<guibutton>OK</guibutton> to save your changes."
+msgstr ""
+"<guilabel>Group Users</guilabel> ଟ୍ୟାବ କେଉଁ ଚାଳକମାନେ ଏହି ଶ୍ରେଣୀର ତାହା ଦର୍ଶାଇଥାଏ। "
+"ସେହି ଶ୍ରେଣୀରୁ ଚାଳକମାନଙ୍କୁ ଯୋଗ କରିବା ଅଥବା କାଢିବା ପାଇଁ ଏହି ଟ୍ୟାବକୁ ବ୍ୟବହାର କରନ୍ତୁ। ଆପଣଙ୍କର "
+"ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ କରିବା ପାଇଁ <guibutton>OK</guibutton> କ୍ଲିକ କରନ୍ତୁ।"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:0(None)
+msgid "translator-credits"
+msgstr "ମନୋଜ କୁମାର ଗିରି <mgiri@redhat.com>"
+
+#, fuzzy
+#~ msgid "2008 - 2010"
+#~ msgstr "2008-01-31"
+
+#, fuzzy
+#~ msgid "1.0.3"
+#~ msgstr "1.0.1"

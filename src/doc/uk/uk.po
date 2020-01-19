@@ -1,0 +1,380 @@
+# Ukrainian translation of system-confi-users docs.
+# Copyright (C) Free Software Foundation
+# Maxim Dziumanenko <dziumanenko@gmail.com>, 2009
+msgid ""
+msgstr ""
+"Project-Id-Version: system-confi-users.docs\n"
+"POT-Creation-Date: 2010-05-06 17:03+0200\n"
+"PO-Revision-Date: 2009-10-06 11:34+0300\n"
+"Last-Translator: Maxim Dziumanenko <dziumanenko@gmail.com>\n"
+"Language-Team: Ukrainian <translate@linux.org.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(None)
+msgid "@@image: 'images/system-config-users.png'; md5=3ed07ec09bd46b79535a583624b61c6b"
+msgstr "@@image: 'images/system-config-users.png'; md5=3ed07ec09bd46b79535a583624b61c6b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml82(None)
+msgid "@@image: 'images/system-config-users-user-new.png'; md5=52dc41e7b6e97b234edb97675fdd0ab6"
+msgstr "@@image: 'images/system-config-users-user-new.png'; md5=52dc41e7b6e97b234edb97675fdd0ab6"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml88(None)
+msgid "@@image: 'images/system-config-users-user-properties-user-data.png'; md5=ceab8d4b7c0e76942643c69b3a374829"
+msgstr "@@image: 'images/system-config-users-user-properties-user-data.png'; md5=ceab8d4b7c0e76942643c69b3a374829"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml105(None)
+msgid "@@image: 'images/system-config-users-group-new.png'; md5=a8831cbdee41c89768d2a099b3e23f81"
+msgstr "@@image: 'images/system-config-users-group-new.png'; md5=a8831cbdee41c89768d2a099b3e23f81"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml111(None)
+msgid "@@image: 'images/system-config-users-group-properties-group-data.png'; md5=3ab34f44acdf639a83dc07a97bb3005c"
+msgstr "@@image: 'images/system-config-users-group-properties-group-data.png'; md5=3ab34f44acdf639a83dc07a97bb3005c"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml49(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(application)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(para)
+msgid "User and Group Configuration Tool"
+msgstr "Менеджер користувачів та груп"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(date)
+msgid "2008-01-31"
+msgstr "2008-01-31"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(date)
+msgid "2008-03-11"
+msgstr "2008-03-11"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(date)
+msgid "2008-03-12"
+msgstr "2008-03-12"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(para)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml45(para)
+msgid "The <application>User and Group Configuration Tool</application> allows you to view, modify, add, and delete local users and groups."
+msgstr "<application>Менеджер користувачів та груп</application> дозволяє переглядати, змінювати, додавати та видаляти локальних користувачів та групи."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml44(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml43(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml48(command)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(command)
+msgid "system-config-users"
+msgstr "system-config-users"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml49(para)
+msgid "You must be running the <application>X</application> Window System and have root privileges to use the User and Group Configuration Tool. There are three ways to start the application:"
+msgstr "Для використання Менеджера користувачів та груп треба запустити <application>X</application> Window System та мати права root. Є три способи запустити програму:"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml51(para)
+msgid "From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the menu with the \"f\" icon)</guimenu><guisubmenu>System</guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Users and Groups</guimenuitem></menuchoice>"
+msgstr "На робочому столі виберіть <menuchoice><guimenu>головне меню на панелі (меню із зображенням символу \"f\")</guimenu><guisubmenu>Система</guisubmenu><guisubmenu>Адміністрування</guisubmenu><guimenuitem>Користувачі та групи</guimenuitem></menuchoice>"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml53(para)
+msgid "From the desktop, right-click on the fast user switch applet in the toolbar and select <guimenu>Edit Users and Groups</guimenu>."
+msgstr "На панелі робочого столу стола клацніть правою клавішею миші на аплеті швидкого перемикання користувачів та виберіть <guimenu>Зміна користувачів та груп</guimenu>."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml55(para)
+msgid "Type the command <command>system-config-users</command> at a shell prompt (for example, in an <application>XTerm</application> or a <application>GNOME</application> terminal)."
+msgstr "Виконайте команду <command>system-config-users</command> у командному рядку (наприклад, у вікні терміналу <application>XTerm</application> чи <application>GNOME</application>)."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(title)
+msgid "User and Group Configuration"
+msgstr "Конфігурація користувачів та груп"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(primary)
+msgid "users"
+msgstr "користувачі"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml68(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml98(primary)
+msgid "user configuration"
+msgstr "конфігурація користувача"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(primary)
+msgid "groups"
+msgstr "групи"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml103(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml109(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml113(primary)
+msgid "group configuration"
+msgstr "конфігурація групи"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(see)
+msgid "user and group configuration"
+msgstr "конфігурація користувача та групи"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(secondary)
+msgid "viewing list of users"
+msgstr "Перегляд списку користувачів"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(secondary)
+msgid "viewing list of groups"
+msgstr "Перегляд списку груп"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(secondary)
+msgid "filtering list of users"
+msgstr "Фільтр списку користувачів"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(secondary)
+msgid "filtering list of groups"
+msgstr "Фільтр списку груп"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(para)
+msgid "To view a list of local users on the system, click the <guilabel>Users</guilabel> tab. To view a list of local groups on the system, click the <guilabel>Groups</guilabel> tab."
+msgstr "Для перегляду списку локальних користувачів системи перейдіть на вкладку <guilabel>Користувачі</guilabel>. Для перегляду локальних груп системи перейдіть на вкладку <guilabel>Групи</guilabel>"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml62(para)
+msgid "To find a specific user or group, type the first few letters of the name in the <guilabel>Search filter</guilabel> field. Press <keycap>Enter</keycap> or click the <guibutton>Apply filter</guibutton> button. The filtered list is displayed."
+msgstr "Для пошуку певного користувача чи групи наберіть декілька перших символів імені у полі <guilabel>Фільтр пошуку</guilabel>. Натисніть <keycap>Enter</keycap> або натисніть кнопку <guibutton>Застосувати фільтр</guibutton>, щоб побачити результат."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml64(para)
+msgid "To sort the users or groups, click on the column name. The users or groups are sorted according to the value of that column."
+msgstr "Для сортування імен користувачів чи груп клацніть на заголовку стовпчика. Імена користувачів чи груп будуть впорядковані."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml66(para)
+msgid "User IDs below 500 are reserved for system users. By default, <application>User and Group Configuration Tool</application> does not display system users. To view all users, including the system users, go to <menuchoice><guimenu>Edit</guimenu><guisubmenu>Preferences</guisubmenu></menuchoice> and uncheck <guimenuitem>Hide system users and groups</guimenuitem> from the dialog box."
+msgstr "Ідентифікатори користувачів менші за 500 зарезервовані для системних користувачів. Типово, <application>Менеджер користувачів та груп</application> не показує системних користувачів. Щоб побачити усіх користувачів, перейдіть до пункту <menuchoice><guimenu>Правка</guimenu><guisubmenu>Параметри</guisubmenu></menuchoice> та у вікні, що відкриється зніміть позначку з пункту <guimenuitem>Сховати системні групи та користувачів</guimenuitem>"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml68(title)
+msgid "Adding a New User"
+msgstr "Додавання нових користувачів"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml68(secondary)
+msgid "adding users"
+msgstr "додавання користувачів"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml68(para)
+msgid "To add a new user, click the <guibutton>Add User</guibutton> button. A window as shown in <xref linkend=\"user-new-fig\"/> appears. Type the username and full name for the new user in the appropriate fields. Type the user's password in the <guilabel>Password</guilabel> and <guilabel>Confirm Password</guilabel> fields. The password must be at least six characters."
+msgstr "Щоб додати нового користувача, натисніть на кнопці <guibutton>Додати користувача</guibutton>. У вікні, що відкриється (<xref linkend=\"user-new-fig\"/>) введіть ім'я користувача та повне ім'я нового користувача у відповідні поля. Вкажіть пароль користувача в поля <guilabel>Пароль</guilabel> та <guilabel>Підтвердження паролю пароль</guilabel>. Пароль має складатися принаймні з шести символів."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml70(title)
+msgid "Tip"
+msgstr "Підказка"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml70(para)
+msgid "It is advisable to use a much longer password, as this makes it more difficult for an intruder to guess it and access the account without permission. It is also recommended that the password not be based on a dictionary term; use a combination of letters, numbers and special characters."
+msgstr "Бажано використовувати досить довгі паролі, тоді його буде складніше підібрати та отримати доступ до облікового запису без вашого відома. Також рекомендується не використовувати паролі, основані на простих словах. Використовуйте комбінації букв, цифр та спеціальних символів."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml72(para)
+msgid "Select a login shell. If you are not sure which shell to select, accept the default value of <computeroutput>/bin/bash</computeroutput>. The default home directory is <filename>/home/<replaceable>&lt;username&gt;</replaceable>/</filename>. You can change the home directory that is created for the user, or you can choose not to create the home directory by unselecting <guilabel>Create home directory</guilabel>."
+msgstr "Виберіть оболонку. Якщо ви не впевнені, яка оболонка потрібна, залиште значення <computeroutput>/bin/bash</computeroutput>. Типово домашній каталог буде розташований у <filename>/home/<replaceable>&lt;username&gt;</replaceable>/</filename>. Ви можете це змінити або взагалі не створювати домашній каталог, знявши позначку з пункту меню <guilabel>Створити домашній каталог</guilabel>."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml74(para)
+msgid "If you select to create the home directory, default configuration files are copied from the <filename>/etc/skel/</filename> directory into the new home directory."
+msgstr "Якщо ви вибрали створення домашнього каталогу, тоді типово туди копіюватимуться конфігураційні файли із <filename>/etc/skel/</filename>."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml76(para)
+msgid "By default, a <firstterm>user private group</firstterm> (UPG) scheme is used. The UPG scheme does not add or change anything in the standard UNIX way of handling groups; it offers a new convention. Whenever you create a new user, by default, a unique group with the same name as the user is created. If you do not want to create this group, unselect <guilabel>Create a private group for the user</guilabel>."
+msgstr "Типово використовується схема <firstterm>user private group</firstterm>(UPG). Схема UPG не додає чи не змінює будь-що у стандартній схемі керування групами UNIX, ця схема пропонує нову домовленість. Щоразу при створенні нового користувача, створюється нова група з тим самим іменем. Якщо ви не хочете створювати цю групу, зніміть галочку з <guilabel>Створювати особисту групу для користувача</guilabel>."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml78(para)
+msgid "To specify a user ID for the user, select <guibutton>Specify user ID manually</guibutton>. If the option is not selected, the next available user ID above 500 is assigned to the new user. Because user IDs below 500 are reserved for system users, it is not advisable to manually assign user IDs 1-499."
+msgstr "Щоб вказати спеціальне значення ID для користувача, відмітьте пункт <guibutton>Вказати ID користувача власноруч</guibutton>. Якщо параметр не вибрано, для користувача буде встановлено наступний доступний ID користувача, що більший за 500. Ідентифікатори користувачів менші за 500 зарезервовані для системних користувачів, тому не рекомендується вручну призначати ID від 1 до 499."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml80(para)
+msgid "Click <guibutton>OK</guibutton> to create the user."
+msgstr "Натисніть кнопку <guibutton>OK</guibutton>, щоб створити користувача."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml82(title)
+msgid "New User"
+msgstr "Новий користувача"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml82(para)
+msgid "Creating a new user"
+msgstr "Створення нового користувача"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml84(para)
+msgid "To configure more advanced user properties, such as password expiration, modify the user's properties after adding the user. Refer to <xref linkend=\"s2-system-config-users-user-properties\"/> for more information."
+msgstr "Додаткові параметри облікового запису, такі як термін дії паролю, можна змінити після додавання користувача. <xref linkend=\"s2-system-config-users-user-properties\"/> містить докладну інформацію."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(title)
+msgid "Modifying User Properties"
+msgstr "Зміна властивостей користувача"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(secondary)
+msgid "modifying users"
+msgstr "змінена користувача"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(secondary)
+msgid "modify groups for a user"
+msgstr "зміна групи користувача"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(para)
+msgid "To view the properties of an existing user, click on the <guilabel>Users</guilabel> tab, select the user from the user list, and click <guibutton>Properties</guibutton> from the menu (or choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice> from the pulldown menu). A window similar to <xref linkend=\"user-properties-fig\"/> appears."
+msgstr "Для перегляду властивостей існуючих користувачів перейдіть на вкладку <guilabel>Користувачі</guilabel>, виберіть користувача у списку та натисніть кнопку <guibutton>Властивості</guibutton> у основному меню (або виберіть <menuchoice><guimenu>Файл</guimenu><guimenuitem>Властивості</guimenuitem></menuchoice> з меню). Відкриється вікно (<xref linkend=\"user-properties-fig\"/>)."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml88(title)
+msgid "User Properties"
+msgstr "Властивості користувача"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml88(para)
+msgid "Modifying user properties"
+msgstr "Зміна властивостей користувача"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml90(para)
+msgid "The <guilabel>User Properties</guilabel> window is divided into multiple tabbed pages:"
+msgstr "Вікно <guilabel>Властивості користувача</guilabel> розділено на декілька вкладок:"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(secondary)
+msgid "changing password"
+msgstr "зміна паролю"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(secondary)
+msgid "changing login shell"
+msgstr "зміна оболонки"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(secondary)
+msgid "changing full name"
+msgstr "зміна повного імені"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(secondary)
+msgid "changing home directory"
+msgstr "зміна домашнього каталогу"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(para)
+msgid "<guilabel>User Data</guilabel> — Shows the basic user information configured when you added the user. Use this tab to change the user's full name, password, home directory, or login shell."
+msgstr "Закладка <guilabel>Дані користувача</guilabel> показує основну інформацію про параметри користувача, вказану при його додаванні. Використовуйте цю закладку для зміни повного імені користувача, паролю, домашнього каталогу або оболонку."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml94(para)
+msgid "<guilabel>Account Info</guilabel> — <indexterm significance=\"normal\"><primary>user configuration</primary><secondary>setting user account expiration</secondary></indexterm> Select <guibutton>Enable account expiration</guibutton> if you want the account to expire on a certain date. Enter the date in the provided fields. <indexterm significance=\"normal\"><primary>user configuration</primary><secondary>locking user accounts</secondary></indexterm> Select <guilabel>Local password is locked</guilabel> to lock the user account and prevent the user from logging into the system."
+msgstr "Закладка <guilabel>Інформаці</guilabel> — <indexterm significance=\"normal\"><primary>конфігурація користувача</primary><secondary>термін дії облікового запису</secondary></indexterm> Виберіть <guibutton>Увімкнути закінчення терміну дії рахунку</guibutton>, якщо треба, що обліковий запис існував до певної дати. Введіть дату у відповідні поля. <indexterm significance=\"normal\"><primary>Конфігурація користувача</primary><secondary>Локальний пароль заблоковано</secondary></indexterm> Виберіть <guilabel>Локальний пароль заблоковано</guilabel> для блокування облікового запису користувача та заборону входу користувача у систему."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml98(secondary)
+msgid "password expiration"
+msgstr "термін дії паролю"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml98(para)
+msgid "<guilabel>Password Info</guilabel> — Displays the date that the user's password last changed. To force the user to change passwords after a certain number of days, select <guilabel>Enable password expiration</guilabel> and enter a desired value in the <guilabel>Days before change required:</guilabel> field. The number of days before the user's password expires, the number of days before the user is warned to change passwords, and days before the account becomes inactive can also be changed."
+msgstr "Закладка <guilabel>Інформація про пароль</guilabel> показує дату останньої зміни паролю. Для примусової зміни паролю користувача по закінченню певного періоду часу виберіть <guilabel>Обмежити термін дії паролю</guilabel> та введіть потрібні значення у полі <guilabel>Вимагати зміну паролю через (днів):</guilabel>. Також можна вказати число днів до закінчення терміну дії паролю, число днів, перш ніж користувач отримає попередження про зміну паролю, та днів, по закінченню яких пароль буде заблоковано."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml100(para)
+msgid "<indexterm significance=\"normal\"><primary>user configuration</primary><secondary>adding users to groups</secondary></indexterm><guilabel>Groups</guilabel> — Allows you to view and configure the Primary Group of the user, as well as other groups that you want the user to be a member of."
+msgstr "<indexterm significance=\"normal\"><primary>Конфігурація користувача</primary><secondary>додавання користувача до групи</secondary></indexterm><guilabel>Закладка Групи</guilabel> дозволяє переглядати та налаштовувати основну групу користувача, а також вказувати членом яких груп має бути вказаний користувач."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml103(title)
+msgid "Adding a New Group"
+msgstr "Додавання нової групи"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml103(secondary)
+msgid "adding groups"
+msgstr "додавання групи"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml103(para)
+msgid "To add a new user group, click the <guibutton>Add Group</guibutton> button. A window similar to <xref linkend=\"group-new-fig\"/> appears. Type the name of the new group to create. To specify a group ID for the new group, select <guibutton>Specify group ID manually</guibutton> and select the GID. Note that group IDs lower than 500 are reserved for system groups."
+msgstr "Щоб додати нову групу, клацніть на кнопку <guibutton>Додати групу</guibutton>. Відкриється наступне вікно (<xref linkend=\"group-new-fig\"/>). Введіть назву нової групи. Щоб вказати особливий ID для нової групи, позначте пункт <guibutton>Вкажіть ID групи вручну</guibutton> та виберіть GID. Зверніть увагу, що GID менше 500 зарезервовані для системних груп."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml105(title)
+msgid "New Group"
+msgstr "Нова група"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml105(para)
+msgid "Creating a new group"
+msgstr "Створення нової групи"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml107(para)
+msgid "Click <guibutton>OK</guibutton> to create the group. The new group appears in the group list."
+msgstr "Натисніть на кнопку <guibutton>OK</guibutton> для створення групи. Нову групу буде додано до списку груп."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml109(title)
+msgid "Modifying Group Properties"
+msgstr "Зміна властивостей групи"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml109(secondary)
+msgid "modifying group properties"
+msgstr "зміна властивостей групи"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml109(para)
+msgid "To view the properties of an existing group, select the group from the group list and click <guibutton>Properties</guibutton> from the menu (or choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice> from the pulldown menu). A window similar to <xref linkend=\"group-properties-fig\"/> appears."
+msgstr "Для перегляду властивостей існуючої групи виберіть потрібну групу зі списку та натисніть кнопку <guibutton>Властивості</guibutton> або виберіть <menuchoice><guimenu>Файл</guimenu><guimenuitem>Властивості</guimenuitem></menuchoice> з меню. Див. <xref linkend=\"group-properties-fig\"/>."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml111(title)
+msgid "Group Properties"
+msgstr "Властивості груп"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml111(para)
+msgid "Modifying group properties"
+msgstr "Зміна властивостей групи"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml113(secondary)
+msgid "modify users in groups"
+msgstr "зміна користувачів у групах"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml113(para)
+msgid "The <guilabel>Group Users</guilabel> tab displays which users are members of the group. Use this tab to add or remove users from the group. Click <guibutton>OK</guibutton> to save your changes."
+msgstr "У закладці <guilabel>Користувачі групи</guilabel> показуються користувачі та члени групи. Використовуєте цю закладку, щоб додати або видалити користувача з групи. Натисніть <guibutton>OK</guibutton> для збереження змін."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml0(None)
+msgid "translator-credits"
+msgstr "Максим Дзюманенко"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml45(year)
+msgid "2010"
+msgstr "2010"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml45(year)
+msgid "2008"
+msgstr "2008"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(revnumber)
+msgid "1.0.9"
+msgstr "1.0.9"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(date)
+msgid "2010-05-06"
+msgstr "2010-05-06"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml45(holder)
+msgid "Red Hat, Inc."
+msgstr "корпорація Red Hat"
+
+#~ msgid "2008 - 2010"
+#~ msgstr "2008-01-31"
+
+#~ msgid "1.0.3"
+#~ msgstr "1.0.1"

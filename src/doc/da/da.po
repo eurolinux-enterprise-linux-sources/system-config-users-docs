@@ -1,0 +1,392 @@
+# Danish translation of docs for system-config-users
+# Peter N. Andreasen <noesgaard@gmail.com>, 2009
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: system-config-user\n"
+"POT-Creation-Date: 2010-05-06 17:03+0200\n"
+"PO-Revision-Date: 2009-04-14 02:11+0200\n"
+"Last-Translator: Peter N. Andreasen <noesgaard@gmail.com>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(None)
+msgid "@@image: 'images/system-config-users.png'; md5=3ed07ec09bd46b79535a583624b61c6b"
+msgstr "@@image: 'images/system-config-users.png'; md5=3ed07ec09bd46b79535a583624b61c6b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml82(None)
+msgid "@@image: 'images/system-config-users-user-new.png'; md5=52dc41e7b6e97b234edb97675fdd0ab6"
+msgstr "@@image: 'images/system-config-users-user-new.png'; md5=52dc41e7b6e97b234edb97675fdd0ab6"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml88(None)
+msgid "@@image: 'images/system-config-users-user-properties-user-data.png'; md5=ceab8d4b7c0e76942643c69b3a374829"
+msgstr "@@image: 'images/system-config-users-user-properties-user-data.png'; md5=ceab8d4b7c0e76942643c69b3a374829"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml105(None)
+msgid "@@image: 'images/system-config-users-group-new.png'; md5=a8831cbdee41c89768d2a099b3e23f81"
+msgstr "@@image: 'images/system-config-users-group-new.png'; md5=a8831cbdee41c89768d2a099b3e23f81"
+
+#. When image changes, this message will be marked fuzzy or untranslated for
+#. you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml111(None)
+msgid "@@image: 'images/system-config-users-group-properties-group-data.png'; md5=3ab34f44acdf639a83dc07a97bb3005c"
+msgstr "@@image: 'images/system-config-users-group-properties-group-data.png'; md5=3ab34f44acdf639a83dc07a97bb3005c"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml49(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(application)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(para)
+msgid "User and Group Configuration Tool"
+msgstr "Værktøj til bruger- og gruppekonfiguration"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(date)
+msgid "2008-01-31"
+msgstr "31. januar, 2008"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(date)
+msgid "2008-03-11"
+msgstr "11. marts, 2008"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(date)
+msgid "2008-03-12"
+msgstr "12. marts, 2008"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(para)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml45(para)
+msgid "The <application>User and Group Configuration Tool</application> allows you to view, modify, add, and delete local users and groups."
+msgstr "<application>Værktøj til bruger- og gruppekonfiguration</application> bruges til at gennemse, ændre, tilføje og slette lokale brugere og grupper."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml44(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml43(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml48(command)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(command)
+msgid "system-config-users"
+msgstr "system-config-users"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml49(para)
+msgid "You must be running the <application>X</application> Window System and have root privileges to use the User and Group Configuration Tool. There are three ways to start the application:"
+msgstr "Du skal køre vinduessystemet <application>X</application> og have administratorrettigheder for at bruge \"Værktøj til bruger- og gruppehåndtering\". Der er tre måder at starte programmet:"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml51(para)
+msgid "From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the menu with the \"f\" icon)</guimenu><guisubmenu>System</guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Users and Groups</guimenuitem></menuchoice>"
+msgstr "Fra skrivebordet, vælg <menuchoice><guimenu>hovedmenuen i panelet (menuen med \"f\"-ikonet)</guimenu><guisubmenu>System</guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Brugere og grupper</guimenuitem></menuchoice>"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml53(para)
+msgid "From the desktop, right-click on the fast user switch applet in the toolbar and select <guimenu>Edit Users and Groups</guimenu>."
+msgstr "Fra skrivebordet, højreklik på hurtig brugerskift-punktet i værktøjslinjen og vælg <guimenu>Redigér brugere og grupper</guimenu>."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml55(para)
+msgid "Type the command <command>system-config-users</command> at a shell prompt (for example, in an <application>XTerm</application> or a <application>GNOME</application> terminal)."
+msgstr "Skriv kommandoen <command>system-config-users</command> i en kommandoprompt (for eksempel i en <application>XTerm</application> eller en <application>GNOME</application> terminal)."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(title)
+msgid "User and Group Configuration"
+msgstr "Konfiguration af brugere og grupper"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(primary)
+msgid "users"
+msgstr "brugere"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml68(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml98(primary)
+msgid "user configuration"
+msgstr "brugerkonfiguration"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(primary)
+msgid "groups"
+msgstr "grupper"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml103(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml109(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml113(primary)
+msgid "group configuration"
+msgstr "gruppekonfiguration"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(see)
+msgid "user and group configuration"
+msgstr "bruger- og gruppekonfiguration"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(secondary)
+msgid "viewing list of users"
+msgstr "vis liste over brugere"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml58(secondary)
+msgid "viewing list of groups"
+msgstr "vis liste over grupper"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(secondary)
+msgid "filtering list of users"
+msgstr "filtrer liste over brugere"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(secondary)
+msgid "filtering list of groups"
+msgstr "filtrer liste over grupper"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml60(para)
+msgid "To view a list of local users on the system, click the <guilabel>Users</guilabel> tab. To view a list of local groups on the system, click the <guilabel>Groups</guilabel> tab."
+msgstr "For at se en liste af lokale brugere på systemet, klik på <guilabel>Brugere</guilabel>-fanen. For at se en liste af lokale grupper på systemet, klik på <guilabel>Grupper</guilabel>-fanen."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml62(para)
+msgid "To find a specific user or group, type the first few letters of the name in the <guilabel>Search filter</guilabel> field. Press <keycap>Enter</keycap> or click the <guibutton>Apply filter</guibutton> button. The filtered list is displayed."
+msgstr "For at finde en bestemt bruger eller gruppe, skriv de første bogstaver af navnet i <guilabel>Søgefilter</guilabel>-feltet. Tryk <keycap>Enter</keycap> eller klik på <guibutton>Anvend filter</guibutton>-knappen. Den filtrerede liste vises."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml64(para)
+msgid "To sort the users or groups, click on the column name. The users or groups are sorted according to the value of that column."
+msgstr "For at sortere brugere eller grupper, klik på kolonnenavnet. Brugerne eller grupperne sorteres efter værdien i den pågældende kolonne."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml66(para)
+msgid "User IDs below 500 are reserved for system users. By default, <application>User and Group Configuration Tool</application> does not display system users. To view all users, including the system users, go to <menuchoice><guimenu>Edit</guimenu><guisubmenu>Preferences</guisubmenu></menuchoice> and uncheck <guimenuitem>Hide system users and groups</guimenuitem> from the dialog box."
+msgstr "Bruger-id under 500 er reserveret til systembrugere. Som standard viser <application>Konfiguration af brugere og grupper</application> ikke systembrugere. For at vise alle brugere, inklusiv systembrugere, vælg <menuchoice><guimenu>Rediger</guimenu><guisubmenu>Indstillinger</guisubmenu></menuchoice> og fjern afkrydsningen af <guimenuitem>Skjul systembrugere og grupper</guimenuitem> i dialogen."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml68(title)
+msgid "Adding a New User"
+msgstr "Tilføjer en af ny bruger"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml68(secondary)
+msgid "adding users"
+msgstr "tilføjer brugere"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml68(para)
+msgid "To add a new user, click the <guibutton>Add User</guibutton> button. A window as shown in <xref linkend=\"user-new-fig\"/> appears. Type the username and full name for the new user in the appropriate fields. Type the user's password in the <guilabel>Password</guilabel> and <guilabel>Confirm Password</guilabel> fields. The password must be at least six characters."
+msgstr "For at tilføje en bruger, klik på <guibutton>Ny bruger</guibutton>-knappen. Et vindue som vist i <xref linkend=\"user-new-fig\"/> vises. Skriv brugernavnet og det fulde navn for den nye bruger i felterne. Skriv brugerens adgangskode i <guilabel>Adgangskode</guilabel>- og <guilabel>Bekræft adgangskode</guilabel>-felterne. Adgangskoden skal være på mindst seks tegn."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml70(title)
+msgid "Tip"
+msgstr "Tip"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml70(para)
+msgid "It is advisable to use a much longer password, as this makes it more difficult for an intruder to guess it and access the account without permission. It is also recommended that the password not be based on a dictionary term; use a combination of letters, numbers and special characters."
+msgstr "Det anbefales at bruge en meget længere adgangskode, da det gør det sværere for en fremmed at gætte den og tilgå brugerens konto uden tilladelse. Det anbefales også, at adgangskoden ikke baseres på ord, der findes i en ordbog - brug en kombination af bogstaver, cifre og tegnsætning."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml72(para)
+msgid "Select a login shell. If you are not sure which shell to select, accept the default value of <computeroutput>/bin/bash</computeroutput>. The default home directory is <filename>/home/<replaceable>&lt;username&gt;</replaceable>/</filename>. You can change the home directory that is created for the user, or you can choose not to create the home directory by unselecting <guilabel>Create home directory</guilabel>."
+msgstr "Vælg en logindskal. Hvis du ikke er sikker på, hvilken skal du skal vælge, så brug standardværdien <computeroutput>/bin/bash</computeroutput>. Standard hjemmekatalog er <filename>/home/<replaceable>&lt;brugernavn&gt;</replaceable>/</filename>. Du kan ændre hjemmekataloget, som oprettes for brugeren, eller du kan vælge ikke at oprette et hjemmekatalog ved at fjerne afkrydsningen i <guilabel>Opret hjemmekatalog</guilabel>."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml74(para)
+msgid "If you select to create the home directory, default configuration files are copied from the <filename>/etc/skel/</filename> directory into the new home directory."
+msgstr "Hvis du vælger at oprette hjemmekataloget, så kopieres standard konfigurationsfiler fra <filename>/etc/skel/</filename>-kataloget til det nye hjemmekatalog."
+
+# Skal UPG oversættes?
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml76(para)
+msgid "By default, a <firstterm>user private group</firstterm> (UPG) scheme is used. The UPG scheme does not add or change anything in the standard UNIX way of handling groups; it offers a new convention. Whenever you create a new user, by default, a unique group with the same name as the user is created. If you do not want to create this group, unselect <guilabel>Create a private group for the user</guilabel>."
+msgstr "Som standard benyttes et <firstterm>user private group</firstterm> (UPG) metodik. UPG-metodikken tilføjer eller ændrer ikke noget ved den gængse UNIX måde at håndtere grupper; den tilbyder en ny praksis. Når du opretter en ny bruger, så oprettes som standard en unik gruppe med samme navn som brugeren. Hvis du ikke ønsker at oprette denne gruppe, så fjern afkrydsningen i <guilabel>Opret en privat gruppe for brugeren</guilabel>."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml78(para)
+msgid "To specify a user ID for the user, select <guibutton>Specify user ID manually</guibutton>. If the option is not selected, the next available user ID above 500 is assigned to the new user. Because user IDs below 500 are reserved for system users, it is not advisable to manually assign user IDs 1-499."
+msgstr "For at angive et bruger-id for brugeren, afkryds <guibutton>Angiv bruger-id manuelt</guibutton>. Hvis dette ikke er valgt, så får brugeren det næste ledige bruger-id over 500. Eftersom alle bruger-id under 500 er reserverede til systembrugere, frarådes det manuelt at tildele bruger-id 1 - 499."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml80(para)
+msgid "Click <guibutton>OK</guibutton> to create the user."
+msgstr "Tryk <guibutton>O.k.</guibutton> for at oprette brugeren."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml82(title)
+msgid "New User"
+msgstr "Ny bruger"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml82(para)
+msgid "Creating a new user"
+msgstr "Opretter en ny bruger"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml84(para)
+msgid "To configure more advanced user properties, such as password expiration, modify the user's properties after adding the user. Refer to <xref linkend=\"s2-system-config-users-user-properties\"/> for more information."
+msgstr "For at konfigurere avancerede brugerindstillinger, så som udløb for adgangskoden, indstil brugerens egenskaber efter at have tilføjet brugeren. Se <xref linkend=\"s2-system-config-users-user-properties\"/> for yderligere information."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(title)
+msgid "Modifying User Properties"
+msgstr "Ændrer egenskaber for bruger"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(secondary)
+msgid "modifying users"
+msgstr "ændrer brugere"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(secondary)
+msgid "modify groups for a user"
+msgstr "ændre brugerens grupper"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml86(para)
+msgid "To view the properties of an existing user, click on the <guilabel>Users</guilabel> tab, select the user from the user list, and click <guibutton>Properties</guibutton> from the menu (or choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice> from the pulldown menu). A window similar to <xref linkend=\"user-properties-fig\"/> appears."
+msgstr "For at vise egenskaberne for en eksisterende bruger, tryk på <guilabel>Brugere</guilabel>-fanen, vælg brugeren fra brugerlisten og tryk <guibutton>Egenskaber</guibutton> i menuen (eller vælg <menuchoice><guimenu>Filer</guimenu><guimenuitem>Egenskaber</guimenuitem></menuchoice> fra hovedmenuen). Et vindue som <xref linkend=\"user-properties-fig\"/> bliver vist."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml88(title)
+msgid "User Properties"
+msgstr "Brugeregenskaber"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml88(para)
+msgid "Modifying user properties"
+msgstr "Ændrer egenskaber for bruger"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml90(para)
+msgid "The <guilabel>User Properties</guilabel> window is divided into multiple tabbed pages:"
+msgstr "Vinduet <guilabel>Egenskaber for bruger</guilabel> er opdelt i flere faner:"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(secondary)
+msgid "changing password"
+msgstr "skifter adgangskode"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(secondary)
+msgid "changing login shell"
+msgstr "ændrer logind-skal"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(secondary)
+msgid "changing full name"
+msgstr "ændrer det fulde navn"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(secondary)
+msgid "changing home directory"
+msgstr "ændrer hjemmekatalog"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml92(para)
+msgid "<guilabel>User Data</guilabel> — Shows the basic user information configured when you added the user. Use this tab to change the user's full name, password, home directory, or login shell."
+msgstr "<guilabel>Brugerdata</guilabel> — Viser basal information, som blev angivet da du tilføjede brugeren. Brug denne fane til at ændre brugerens fulde navn, adgangskode, hjemmekatalog eller logind-skal."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml94(para)
+msgid "<guilabel>Account Info</guilabel> — <indexterm significance=\"normal\"><primary>user configuration</primary><secondary>setting user account expiration</secondary></indexterm> Select <guibutton>Enable account expiration</guibutton> if you want the account to expire on a certain date. Enter the date in the provided fields. <indexterm significance=\"normal\"><primary>user configuration</primary><secondary>locking user accounts</secondary></indexterm> Select <guilabel>Local password is locked</guilabel> to lock the user account and prevent the user from logging into the system."
+msgstr "<guilabel>Kontoinformation</guilabel> — <indexterm significance=\"normal\"><primary>brugerkonfiguration</primary><secondary>indstilling for udløbsdato for brugerkonto</secondary></indexterm> Vælg <guibutton>Anvend kontoudløb</guibutton> hvis du ønsker at kontoen skal udløbe på en bestemt dato. Angiv datoen i felterne. <indexterm significance=\"normal\"><primary>brugerkonfiguration</primary><secondary>låser brugerkonto</secondary></indexterm> Vælg <guilabel>Lokal adgangskode er låst</guilabel> for at låse brugerkontoen og forhindre brugeren i at logge ind på systemet."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml98(secondary)
+msgid "password expiration"
+msgstr "udløbsdato for adgangskode"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml98(para)
+msgid "<guilabel>Password Info</guilabel> — Displays the date that the user's password last changed. To force the user to change passwords after a certain number of days, select <guilabel>Enable password expiration</guilabel> and enter a desired value in the <guilabel>Days before change required:</guilabel> field. The number of days before the user's password expires, the number of days before the user is warned to change passwords, and days before the account becomes inactive can also be changed."
+msgstr "<guilabel>Info om adgangskode</guilabel> — Viser datoen hvor brugerens adgangskode sidst blev ændret. For at tvinge brugeren til at ændre adgangskode efter et bestemt antal dage, vælg <guilabel>Anvend adgangskodeudløb</guilabel> og indtast den ønskede værdi i <guilabel>Antal dage før ændring er påkrævet:</guilabel>-feltet. Antallet af dage før brugerens adgangskode udløber, antal dage før brugeren bliver advaret om at skifte adgangskode, og antal dage før kontoen bliver inaktiv kan også ændres."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml100(para)
+msgid "<indexterm significance=\"normal\"><primary>user configuration</primary><secondary>adding users to groups</secondary></indexterm><guilabel>Groups</guilabel> — Allows you to view and configure the Primary Group of the user, as well as other groups that you want the user to be a member of."
+msgstr "<indexterm significance=\"normal\"><primary>brugerkonfiguration</primary><secondary>tilføj til grupper</secondary></indexterm><guilabel>Grupper</guilabel> — Giver dig mulighed for at vise og konfigurere den primære gruppe for brugeren samt andre grupper som du ønsker brugeren skal være medlem af."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml103(title)
+msgid "Adding a New Group"
+msgstr "Tilføjer en ny gruppe"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml103(secondary)
+msgid "adding groups"
+msgstr "tilføjer grupper"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml103(para)
+msgid "To add a new user group, click the <guibutton>Add Group</guibutton> button. A window similar to <xref linkend=\"group-new-fig\"/> appears. Type the name of the new group to create. To specify a group ID for the new group, select <guibutton>Specify group ID manually</guibutton> and select the GID. Note that group IDs lower than 500 are reserved for system groups."
+msgstr "For at tilføje en ny brugergruppe, klik <guibutton>Tilføj gruppe</guibutton> knappen. Et vindue som <xref linkend=\"group-new-fig\"/> bliver vist. Skriv navnet på gruppen som skal oprettes. For at angive et gruppe ID for den nye gruppe, vælg <guibutton>Angiv gruppe ID manuelt</guibutton> og vælg GID. Bemærk at gruppe ID mindre end 500 er reserveret til systemgrupper."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml105(title)
+msgid "New Group"
+msgstr "Ny gruppe"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml105(para)
+msgid "Creating a new group"
+msgstr "Oprette ny gruppe"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml107(para)
+msgid "Click <guibutton>OK</guibutton> to create the group. The new group appears in the group list."
+msgstr "Klik <guibutton>OK</guibutton> for at oprette gruppen. Den nye gruppe vises i gruppelisten."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml109(title)
+msgid "Modifying Group Properties"
+msgstr "Ændrer egenskaber for gruppe"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml109(secondary)
+msgid "modifying group properties"
+msgstr "ændrer egenskaber for gruppe"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml109(para)
+msgid "To view the properties of an existing group, select the group from the group list and click <guibutton>Properties</guibutton> from the menu (or choose <menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></menuchoice> from the pulldown menu). A window similar to <xref linkend=\"group-properties-fig\"/> appears."
+msgstr "For at vise egenskaber for en eksisterende gruppe, vælg gruppen fra gruppelisten og tryk <guibutton>Egenskaber</guibutton> fra menuen (eller vælg <menuchoice><guimenu>Filer</guimenu><guimenuitem>Egenskaber</guimenuitem></menuchoice> fra hovedmenuen). Et vindue som <xref linkend=\"group-properties-fig\"/> bliver vist."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml111(title)
+msgid "Group Properties"
+msgstr "Gruppeegenskaber"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml111(para)
+msgid "Modifying group properties"
+msgstr "Ændrer egenskaber for gruppe"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml113(secondary)
+msgid "modify users in groups"
+msgstr "redigér brugere i grupper"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml113(para)
+msgid "The <guilabel>Group Users</guilabel> tab displays which users are members of the group. Use this tab to add or remove users from the group. Click <guibutton>OK</guibutton> to save your changes."
+msgstr "Fanen <guilabel>Gruppebrugere</guilabel> viser hvilke brugere der er medlem af gruppen. Brug denne fane til at tilføje eller fjerne brugere fra gruppen. Tryk <guibutton>O.k.</guibutton> for at gemme dine ændringer."
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml0(None)
+msgid "translator-credits"
+msgstr ""
+"Birger Langkjer\n"
+"David Nielsen\n"
+"Keld Simonsen\n"
+"Kenneth Christiansen\n"
+"Martin Willemoes Hansen\n"
+"Ole Laursen\n"
+"Peter Bach\n"
+"Peter N. Andreasen\n"
+"\n"
+"Dansk-gruppen <dansk@dansk-gruppen.dk>\n"
+"Mere info: http://www.dansk-gruppen.dk"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml45(year)
+msgid "2010"
+msgstr "2010"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml45(year)
+msgid "2008"
+msgstr "2008"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(revnumber)
+msgid "1.0.9"
+msgstr "1.0.9"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml40(date)
+msgid "2010-05-06"
+msgstr "6. maj, 2010"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml45(holder)
+msgid "Red Hat, Inc."
+msgstr "Red Hat, Inc."
+
+#~ msgid "2008 - 2010"
+#~ msgstr "31. januar, 2008"
+
+#~ msgid "1.0.3"
+#~ msgstr "1.0.1"

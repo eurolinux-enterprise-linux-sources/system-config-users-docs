@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+
+<!ENTITY % DISTRO_SPECIFICS SYSTEM "distro-specifics.ent">
+%DISTRO_SPECIFICS;
+
+<!ENTITY % SYSTEM_CONFIG_USERS_DISTRO_SPECIFICS SYSTEM "system-config-users-distro-specifics.ent">
+%SYSTEM_CONFIG_USERS_DISTRO_SPECIFICS;
+
+<!ENTITY SYSTEM_CONFIG_USERS_ABSTRACT SYSTEM "system-config-users-abstract.xml">
+<!ENTITY SYSTEM_CONFIG_USERS_CONTENT SYSTEM "system-config-users-content.xml">
+]>
+
+<article>
+    <title>&SYSTEM_CONFIG_USERS_TOOL;</title>
+
+    <articleinfo>
+
+        <revhistory>
+            <revision>
+                <revnumber>1.0</revnumber>
+                <date>2008-01-31</date>
+            </revision>
+            <revision>
+                <revnumber>1.0.1</revnumber>
+                <date>2008-03-11</date>
+            </revision>
+            <revision>
+                <revnumber>1.0.2</revnumber>
+                <date>2008-03-12</date>
+            </revision>
+            <revision>
+                <revnumber>1.0.9</revnumber>
+                <date>2010-05-06</date>
+            </revision>
+        </revhistory>
+
+        <abstract role="description">
+&SYSTEM_CONFIG_USERS_ABSTRACT;
+        </abstract>
+
+        <authorgroup>
+            <corpauthor role="maintainer">
+                <trademark class="registered">Red Hat</trademark>, Inc.
+            </corpauthor>
+        </authorgroup>
+        <copyright>
+            <year>2008</year>
+            <year>2010</year>
+            <holder>Red Hat, Inc.</holder>
+        </copyright>
+
+    </articleinfo>
+
+&SYSTEM_CONFIG_USERS_ABSTRACT;
+&SYSTEM_CONFIG_USERS_INVOCATION;
+&SYSTEM_CONFIG_USERS_CONTENT;
+
+</article>

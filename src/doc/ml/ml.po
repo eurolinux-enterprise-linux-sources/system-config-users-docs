@@ -1,0 +1,618 @@
+# translation of system-config-users.docs.ml.po to
+# Ani Peter|അനി പീറ്റര്‍ <apeter@redhat.com>, 2009
+msgid ""
+msgstr ""
+"Project-Id-Version: system-config-users.docs.ml\n"
+"POT-Creation-Date: 2010-05-06 17:03+0200\n"
+"PO-Revision-Date: 2009-09-27 14:44+0530\n"
+"Last-Translator: Ani Peter <apeter@redhat.com>\n"
+"Language-Team:  Swathantra Malayalam Computing|സ്വതന്ത്ര മലയാളം കമ്പ്യൂട്ടിങ് <smc-"
+"discuss@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(None)
+msgid ""
+"@@image: 'images/system-config-users.png'; "
+"md5=3ed07ec09bd46b79535a583624b61c6b"
+msgstr ""
+"@@image: 'images/system-config-users.png'; "
+"md5=3ed07ec09bd46b79535a583624b61c6b"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(None)
+msgid ""
+"@@image: 'images/system-config-users-user-new.png'; "
+"md5=52dc41e7b6e97b234edb97675fdd0ab6"
+msgstr ""
+"@@image: 'images/system-config-users-user-new.png'; "
+"md5=52dc41e7b6e97b234edb97675fdd0ab6"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(None)
+msgid ""
+"@@image: 'images/system-config-users-user-properties-user-data.png'; "
+"md5=ceab8d4b7c0e76942643c69b3a374829"
+msgstr ""
+"@@image: 'images/system-config-users-user-properties-user-data.png'; "
+"md5=ceab8d4b7c0e76942643c69b3a374829"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(None)
+msgid ""
+"@@image: 'images/system-config-users-group-new.png'; "
+"md5=a8831cbdee41c89768d2a099b3e23f81"
+msgstr ""
+"@@image: 'images/system-config-users-group-new.png'; "
+"md5=a8831cbdee41c89768d2a099b3e23f81"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(None)
+msgid ""
+"@@image: 'images/system-config-users-group-properties-group-data.png'; "
+"md5=3ab34f44acdf639a83dc07a97bb3005c"
+msgstr ""
+"@@image: 'images/system-config-users-group-properties-group-data.png'; "
+"md5=3ab34f44acdf639a83dc07a97bb3005c"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:49(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(application)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(para)
+msgid "User and Group Configuration Tool"
+msgstr "ഉപയോക്താക്കളും ഗ്രൂപ്പുകളും - ക്രമീകരണ പ്രയോഗം"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0"
+msgstr "1.0"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-01-31"
+msgstr "2008-01-31"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0.1"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-03-11"
+msgstr "2008-03-11"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0.2"
+msgstr "1.0.2"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-03-12"
+msgstr "2008-03-12"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+#, fuzzy
+msgid "1.0.9"
+msgstr "1.0.1"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+#, fuzzy
+msgid "2010-05-06"
+msgstr "2008-01-31"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(para)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(para)
+msgid ""
+"The <application>User and Group Configuration Tool</application> allows you "
+"to view, modify, add, and delete local users and groups."
+msgstr ""
+"ലോക്കല്‍ ഉപയോക്താക്കളേയും ഗ്രൂപ്പുകളേയും കാണുക, മാറ്റം വരുത്തുക, ചേര്‍ക്കുക, വെട്ടി നീക്കുക എന്നിവ "
+"ചെയ്യുന്നതിനായി <application>ഉപയോക്താക്കളും ഗ്രൂപ്പുകളും - ക്രമീകരണ പ്രയോഗം</application> "
+"അനുവദിക്കുന്നു."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:44(trademark)
+msgid "Red Hat"
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:43(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr "<placeholder-1/>, Inc."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(year)
+msgid "2008"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(year)
+msgid "2010"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(holder)
+#, fuzzy
+msgid "Red Hat, Inc."
+msgstr "Red Hat"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:48(command)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(command)
+msgid "system-config-users"
+msgstr "system-config-users"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:49(para)
+msgid ""
+"You must be running the <application>X</application> Window System and have "
+"root privileges to use the User and Group Configuration Tool. There are "
+"three ways to start the application:"
+msgstr ""
+"ഉപയോക്താക്കളും ഗ്രൂപ്പുകളും - ക്രമീകരണ പ്രയോഗം ഉപയോഗിക്കുന്നതിനു് <application>X</"
+"application> വിന്‍ഡോ സിസ്റ്റം പ്രവര്‍ത്തിപ്പിക്കുകയും നിങ്ങള്‍ക്കു് റൂട്ടിനുള്ള ആനുകൂല്യങ്ങള്‍ "
+"ഉണ്ടായിരിക്കുകയും ചെയ്യേണ്ടതാണു്. പ്രയോഗം തുടങ്ങുന്നതിനായി മൂന്നു് മാര്‍ഗ്ഗങ്ങളുണ്ടു്:"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:51(para)
+msgid ""
+"From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the "
+"menu with the \"f\" icon)</guimenu><guisubmenu>System</"
+"guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Users and "
+"Groups</guimenuitem></menuchoice>"
+msgstr ""
+"പണിയിടത്തില്‍ നിന്നും <menuchoice><guimenu>പാനലിലുള്ള പ്രധാന മെനുവിലുള്ള (\"f\" ചിഹ്നമുള്ള "
+"മെനു)</guimenu><guisubmenu>സിസ്റ്റം</guisubmenu><guisubmenu>അഡ്മിനിസ്ട്രേഷന്‍</"
+"guisubmenu><guimenuitem>ഉപയോക്താക്കളും ഗ്രൂപ്പുകളും</guimenuitem></menuchoice> "
+"എന്നതിലേക്ക് പോകുക."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:53(para)
+msgid ""
+"From the desktop, right-click on the fast user switch applet in the toolbar "
+"and select <guimenu>Edit Users and Groups</guimenu>."
+msgstr ""
+"പണിയിടത്തില്‍ നിന്നും, ടൂള്‍ബാറിലുള്ള ഫാസ്റ്റ് യൂസര്‍ സ്വിച്ച് ആപ്ലെറ്റില്‍ റൈറ്റ്-ക്ലിക്ക് ചെെയ്തു് "
+"<guimenu>ഉപയോക്താക്കളും ഗ്രൂപ്പുകളും ചിട്ടപ്പെടുത്തുക</guimenu> എന്നതു് തെരഞ്ഞെടുക്കുക."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:55(para)
+msgid ""
+"Type the command <command>system-config-users</command> at a shell prompt "
+"(for example, in an <application>XTerm</application> or a "
+"<application>GNOME</application> terminal)."
+msgstr ""
+"<command>system-config-users</command> കമാന്‍ഡ് ഒരു ഷെല്‍ പ്രോംപ്റ്റില്‍ ടൈപ്പ് ചെയ്യുക "
+"(ഉദാരഹണത്തിനു്, <application>XTerm</application> അല്ലെങ്കില്‍ ഒരു<application>ഗ്നോം</"
+"application> ടെര്‍മിനല്‍)."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(title)
+msgid "User and Group Configuration"
+msgstr "ഉപയോക്താക്കളും ഗ്രൂപ്പുകളും - ക്രമീകരണം"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+msgid "users"
+msgstr "ഉപയോക്താക്കള്‍"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(primary)
+msgid "user configuration"
+msgstr "ഉപയോക്താവിനുള്ള ക്രമീകരണം"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+msgid "groups"
+msgstr "ഗ്രൂപ്പുകള്‍"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(primary)
+msgid "group configuration"
+msgstr "ഗ്രൂപ്പിനുള്ള ക്രമീകരണം"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+msgid "user and group configuration"
+msgstr "ഉപയോക്താക്കളും ഗ്രൂപ്പുകളും - ക്രമീകരണം"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(secondary)
+msgid "viewing list of users"
+msgstr "ഉപയോക്താക്കളുടെ പട്ടിക കാണുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(secondary)
+msgid "viewing list of groups"
+msgstr "ഗ്രൂപ്പുകളുടെ പട്ടിക കാണുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(secondary)
+msgid "filtering list of users"
+msgstr "ഉപയോക്താക്കളുടെ പട്ടിക ഫില്‍‌റ്റര്‍ ചെയ്യുന്നു"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(secondary)
+msgid "filtering list of groups"
+msgstr "ഗ്രൂപ്പുകളുടെ പട്ടിക ഫില്‍‌റ്റര്‍ ചെയ്യുന്നു"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(para)
+msgid ""
+"To view a list of local users on the system, click the <guilabel>Users</"
+"guilabel> tab. To view a list of local groups on the system, click the "
+"<guilabel>Groups</guilabel> tab."
+msgstr ""
+"സിസ്റ്റത്തിലുള്ള ഉപയോക്താക്കളുടെ പട്ടിക കാണുന്നതിനായി <guilabel>ഉപയോക്താക്കള്‍</guilabel> "
+"എന്ന റ്റാബ് ക്ലിക്ക് ചെയ്യുക. <guilabel>ഗ്രൂപ്പുകള്‍</guilabel> റ്റാബ് ക്ലിക്ക് ചെയ്തു് ഗ്രൂപ്പുകളുടെ "
+"പട്ടിക കാണാം."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:62(para)
+msgid ""
+"To find a specific user or group, type the first few letters of the name in "
+"the <guilabel>Search filter</guilabel> field. Press <keycap>Enter</keycap> "
+"or click the <guibutton>Apply filter</guibutton> button. The filtered list "
+"is displayed."
+msgstr ""
+"ഏതെങ്കിലുമൊരു ഉപയോക്താവു് അല്ലെങ്കില്‍ ഗ്രൂപ്പിനെ കണ്ടുപിടിക്കുന്നതിനായി, "
+"<guilabel>തെരച്ചിലിനുള്ള ഫില്‍‌റ്റര്‍</guilabel> ഫീള്‍ഡില്‍ പേരിന്റെ ആദ്യത്തെ കുറച്ചു് അക്ഷരങ്ങള്‍ "
+"ടൈപ്പ് ചെയ്യുക. <keycap>Enter</keycap> അമര്‍ത്തി <guibutton>ഫില്‍‌റ്റര്‍ സ്വീകാര്യമാക്കുക</"
+"guibutton> ബട്ടണില്‍ ക്ലിക്ക് ചെയ്യുക. ഫില്‍‌റ്റര്‍ ചെയ്ത പട്ടിക ലഭിക്കുന്നു."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:64(para)
+msgid ""
+"To sort the users or groups, click on the column name. The users or groups "
+"are sorted according to the value of that column."
+msgstr ""
+"ഉപയോക്താക്കളും ഗ്രൂപ്പുകളും ക്രമത്തിലാക്കുന്നതിനായി, നിര‌യുടെ നാമത്തില്‍ ക്ലിക്ക് ചെയ്യുക. ഈ നിരയുടെ "
+"മൂല്ല്യമനുസരിച്ചു് ഉപയോക്താക്കളും ഗ്രൂപ്പുകളും ക്രമീകരിക്കപ്പെടുന്നു. "
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:66(para)
+msgid ""
+"User IDs below 500 are reserved for system users. By default, "
+"<application>User and Group Configuration Tool</application> does not "
+"display system users. To view all users, including the system users, go to "
+"<menuchoice><guimenu>Edit</guimenu><guisubmenu>Preferences</guisubmenu></"
+"menuchoice> and uncheck <guimenuitem>Hide system users and groups</"
+"guimenuitem> from the dialog box."
+msgstr ""
+"500-ല്‍ താഴെയുള്ള ഉപയോക്താക്കള്‍ക്കുള്ള ID സിസ്റ്റത്തിലുള്ള ഉപയോക്താക്കള്‍ക്കായി കരുതിയിരിക്കുന്നു. "
+"സ്വതവേ, <application>ഉപയോക്താക്കളും ഗ്രൂപ്പുകളും - ക്രമീകരണ പ്രയോഗം</application> "
+"സിസ്റ്റത്തിലുള്ള ഉപയോക്താക്കളെ ലഭ്യമാക്കുന്നില്ല. ഇതുള്‍പ്പടെയുള്ള എല്ലാ ഉപയോക്താക്കളേയും "
+"കാണുന്നതിനായി, <menuchoice><guimenu>ചിട്ടപ്പെടുത്തുക</guimenu><guisubmenu>മുന്‍ഗണനകള്‍</"
+"guisubmenu></menuchoice> എന്നതില്‍ പോയി, ഡയലോഗ് ബോക്സിലുള്ള <guimenuitem>സിസ്റ്റം "
+"ഉപയോക്താക്കളേയും ഗ്രൂപ്പുകളേയും അദൃശ്യമാക്കുക</guimenuitem> എന്നതു് അണ്‍ചെക്ക് ചെയ്യുക."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(title)
+msgid "Adding a New User"
+msgstr "ഒരു പുതിയ ഉപയോക്താവിനെ ചേര്‍ക്കുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(secondary)
+msgid "adding users"
+msgstr "ഉപയോക്താക്കളെ ചേര്‍ക്കുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(para)
+msgid ""
+"To add a new user, click the <guibutton>Add User</guibutton> button. A "
+"window as shown in <xref linkend=\"user-new-fig\"/> appears. Type the "
+"username and full name for the new user in the appropriate fields. Type the "
+"user's password in the <guilabel>Password</guilabel> and <guilabel>Confirm "
+"Password</guilabel> fields. The password must be at least six characters."
+msgstr ""
+"പുതിയ ഒരു ഉപയോക്താവിനെ ചേര്‍ക്കുന്നതിനായി <guibutton>ഉപയോക്താവിനെ ചേര്‍ക്കുക</guibutton> "
+"ബട്ടണില്‍ ക്ലിക്ക് ചെയ്യുക. <xref linkend=\"user-new-fig\"/>-ല്‍ കാണിച്ചിരിക്കുന്നതുപോലൊരു "
+"ജാലകം ലഭിക്കുന്നു. ചേര്‍ക്കേണ്ട ഉപയോക്താവിനുള്ള ഉപയോക്തൃനാമവും പൂര്‍ണ്ണനാമവും അതതു് ഫീള്‍ഡുകളില്‍ "
+"നല്‍കുക. ഉപയോക്താവിനുള്ള രഹസ്യവാക്ക് <guilabel>രഹസ്യവാക്ക്</guilabel> , "
+"<guilabel>രഹസ്യവാക്ക് ഉറപ്പാക്കുക</guilabel> ഫീള്‍ഡുകളിലും നല്‍കുക. ഇതില്‍ കുറഞ്ഞതു് 6 അക്ഷരങ്ങള്‍ "
+"എങ്കിലുമുണ്ടായിരിക്കണം."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:70(title)
+msgid "Tip"
+msgstr "സൂചന"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:70(para)
+msgid ""
+"It is advisable to use a much longer password, as this makes it more "
+"difficult for an intruder to guess it and access the account without "
+"permission. It is also recommended that the password not be based on a "
+"dictionary term; use a combination of letters, numbers and special "
+"characters."
+msgstr ""
+"രഹസ്യവാക്കു് എപ്പോഴും വലുതായിരിക്കുന്നതാണു് നല്ലതു്. പുറത്തു് നിന്നൊരാള്‍ക്കു് ഇതു് കണ്ടുപിടിക്കുവാനും "
+"നിങ്ങളുടെ അനുവാദമില്ലാതെ അക്കൌണ്ടിലേക്ക് പ്രവേശിക്കുന്നതു് തടയുവാനും ഇതു് സഹായിക്കുന്നു. കൂടാതെ, "
+"രഹസ്യവാക്ക് നിഘണ്ടുവിലുള്ളൊരു പദമാകെതിരിക്കുവാനും പ്രത്യേകം ശ്രദ്ധിക്കുക; അക്ഷരങ്ങള്‍, അക്കങ്ങള്‍, "
+"പ്രത്യേക അക്ഷരങ്ങള്‍ ഇവയെല്ലാം കൂട്ടിചേര്‍ത്തൊരൊരു വാക്കുണ്ടാക്കുവാന്‍ ശ്രമിക്കുക."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:72(para)
+msgid ""
+"Select a login shell. If you are not sure which shell to select, accept the "
+"default value of <computeroutput>/bin/bash</computeroutput>. The default "
+"home directory is <filename>/home/<replaceable>&lt;username&gt;</"
+"replaceable>/</filename>. You can change the home directory that is created "
+"for the user, or you can choose not to create the home directory by "
+"unselecting <guilabel>Create home directory</guilabel>."
+msgstr ""
+"ഒരു ലോഗിന്‍ ഷെല്‍ തെരഞ്ഞെടുക്കുക. ഏതു് തെരഞ്ഞെടുക്കണമെന്നു് നിങ്ങള്‍ക്കുറപ്പില്ലെങ്കില്‍, "
+"<computeroutput>/bin/bash</computeroutput>-ന്റെ സ്വതവേയുള്ള മൂല്ല്യം സ്വീകരിക്കുക. "
+"<filename>/home/<replaceable>&lt;username&gt;</replaceable>/</filename> ആണു് "
+"സ്വതവേയുള്ള ഹോം ഡയറക്ടറി. ഉപയോക്താവിനുള്ള ഹോം ഡയറക്ടറി നിങ്ങള്‍ക്കു് വേണമെങ്കില്‍ മാറ്റാം "
+"അല്ലെങ്കില്‍ <guilabel>ഹോം ഡയറക്ടറി ഉണ്ടാക്കുക</guilabel> എന്നതു് വേണ്ടെന്നു് വച്ചു് ഹോം "
+"ഡയറക്ടറി ഉണ്ടാക്കേണ്ട എന്നു് തീരുമാനിക്കാം."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:74(para)
+msgid ""
+"If you select to create the home directory, default configuration files are "
+"copied from the <filename>/etc/skel/</filename> directory into the new home "
+"directory."
+msgstr ""
+"ഹോം ഡയറക്ടറി ഉണ്ടാക്കുവാന്‍ നിങ്ങള്‍ തെരഞ്ഞെടുത്താല്‍, <filename>/etc/skel/</filename> "
+"ഡയറക്ടറിയില്‍ സ്വതവേയുള്ള ക്രമീകരണ ഫയലുകള്‍ പുതിയ ഹോം ഡയറക്ടറിയിലേക്ക് പകര്‍ത്തുന്നു."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:76(para)
+msgid ""
+"By default, a <firstterm>user private group</firstterm> (UPG) scheme is "
+"used. The UPG scheme does not add or change anything in the standard UNIX "
+"way of handling groups; it offers a new convention. Whenever you create a "
+"new user, by default, a unique group with the same name as the user is "
+"created. If you do not want to create this group, unselect <guilabel>Create "
+"a private group for the user</guilabel>."
+msgstr ""
+"സ്വതവേ, ഒരു <firstterm>ഉപയോക്താവിനുള്ള സ്വകാര്യ ഗ്രൂപ്പ്</firstterm> (UPG) "
+"സ്കീമാണുപയോഗിക്കുന്നതു്. നിലവില്‍ ഗ്രൂപ്പുകള്‍ കൈകാര്യം ചെയ്യുന്ന യുണിക്സ് രീതിയില്‍ UPG സ്കീം ഒരു "
+"മാറ്റവും വരുത്തുന്നില്ല; പുതിയ ഒരു രീതിയാണു് ലഭ്യമാക്കുന്നതു്. നിങ്ങള്‍ പുതിയൊരു ഉപയോക്താവിനെ "
+"ഉണ്ടാക്കുമ്പോള്‍, സ്വതവേ, അതേപേരില്‍ തന്നെ ഒരു ഗ്രൂപ്പ് ഉണ്ടാക്കപ്പെടുന്നു. നിങ്ങള്‍ക്കു് ഇങ്ങനെയൊരു ഗ്രൂപ്പ് "
+"ആവശ്യമില്ലെങ്കില്‍, <guilabel>ഉപയോക്താവിനു് ഒരു സ്വകാര്യ ഗ്രൂപ്പുണ്ടാക്കുക</guilabel> "
+"തെരഞ്ഞെടുക്കാതിരിക്കുക."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:78(para)
+msgid ""
+"To specify a user ID for the user, select <guibutton>Specify user ID "
+"manually</guibutton>. If the option is not selected, the next available user "
+"ID above 500 is assigned to the new user. Because user IDs below 500 are "
+"reserved for system users, it is not advisable to manually assign user IDs 1-"
+"499."
+msgstr ""
+"ഉപയോക്താവിനു് ഒരു ID നല്‍കുന്നതിനായി, <guibutton>ഉപയോക്താവിനുള്ള ID സ്വയം നല്‍കുക</"
+"guibutton> തെരഞ്ഞെടുക്കുക. ഈ ഉപാധി തെരഞ്ഞെടുത്തിട്ടില്ലെങ്കില്‍, 500-ല്‍ കൂടുതലുള്ള ലഭ്യമായ "
+"അടുത്ത ID ഉപയോക്താവിനു് നല്‍കുന്നു. 500-ല്‍ കുറവായ ഉപയോക്താവു് ID സിസ്റ്റത്തിന്റെ "
+"ഉപയോക്താക്കള്‍ക്കായി കരുതിയിരിക്കുന്നതിനാല്‍, 1-499 വരെയുള്ള ID നിങ്ങള്‍ സ്വയം നല്‍കുന്നതു് ശരിയല്ല."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:80(para)
+msgid "Click <guibutton>OK</guibutton> to create the user."
+msgstr "ഉപയോക്താവിനെ ഉണ്ടാക്കുന്നതിനായി <guibutton>ശരി</guibutton> ക്ലിക്ക് ചെയ്യുക."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(title)
+msgid "New User"
+msgstr "പുതിയ ഉപയോക്താവു്"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(para)
+msgid "Creating a new user"
+msgstr "ഒരു പുതിയ ഉപയോക്താവിനെ ഉണ്ടാക്കുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:84(para)
+msgid ""
+"To configure more advanced user properties, such as password expiration, "
+"modify the user's properties after adding the user. Refer to <xref linkend="
+"\"s2-system-config-users-user-properties\"/> for more information."
+msgstr ""
+"രഹസ്യവാക്കിന്റെ കാലാവധി പോലുള്ള, ഉപയോക്താവിന്റെ അധികമായ വിശേഷതകള്‍ ക്രമീകരിക്കുന്നതിനായി, "
+"ഉപയോക്താവിനെ ചേര്‍ത്ത ശേഷം, അതിന്റെ വിശേഷതകള്‍ മാറ്റുക. കൂടുതല്‍ വിവരങ്ങള്‍ക്കായി <xref "
+"linkend=\"s2-system-config-users-user-properties\"/> കാണുക."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(title)
+msgid "Modifying User Properties"
+msgstr "ഉപയോക്താവിന്റെ വിശേഷതകള്‍ മാറ്റുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(secondary)
+msgid "modifying users"
+msgstr "ഉപയോക്താക്കളില്‍ മാറ്റം വരുത്തുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(secondary)
+msgid "modify groups for a user"
+msgstr "ഒരു ഉപയോയക്താവിനുള്ള ഗ്രൂപ്പുകളില്‍ മാറ്റം വരുത്തുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(para)
+msgid ""
+"To view the properties of an existing user, click on the <guilabel>Users</"
+"guilabel> tab, select the user from the user list, and click "
+"<guibutton>Properties</guibutton> from the menu (or choose "
+"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></"
+"menuchoice> from the pulldown menu). A window similar to <xref linkend="
+"\"user-properties-fig\"/> appears."
+msgstr ""
+"നിലവിലുള്ളൊരു ഉപയോക്താവിന്റെ വിശേഷതകള്‍ കാണുന്നതിനായി, <guilabel>ഉപയോക്താക്കള്‍</"
+"guilabel> എന്ന റ്റാബില്‍ ക്ലിക്ക് ചെയ്തു്, ഉപയോക്താക്കളുടെ പട്ടികയില്‍ നിന്നും ഉപയോക്താവിനെ "
+"തെരഞ്ഞെടുത്തു്, മെനുവില്‍ നിന്നും <guibutton>വിശേഷതകള്‍</guibutton> ക്ലിക്ക് ചെയ്യുക "
+"(അല്ലെങ്കില്‍, പുള്‍ഡൌണ്‍ മെനുവില്‍ നിന്നും <menuchoice><guimenu>ഫയല്‍</"
+"guimenu><guimenuitem>വിശേഷതകള്‍ </guimenuitem></menuchoice> തെരഞ്ഞെടുക്കുക). <xref "
+"linkend=\"user-properties-fig\"/> പോലൊരു ജാലകം ലഭിക്കുന്നു."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(title)
+msgid "User Properties"
+msgstr "ഉപയോക്താവിന്റെ വിശേഷതകള്‍"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(para)
+msgid "Modifying user properties"
+msgstr "ഉപയോക്താവിന്റെ വിശേഷതകള്‍ മാറ്റുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:90(para)
+msgid ""
+"The <guilabel>User Properties</guilabel> window is divided into multiple "
+"tabbed pages:"
+msgstr ""
+"<guilabel>ഉപയോക്താവിന്റെ വിശേഷതകള്‍</guilabel> എന്ന ജാലകം നാലു് റ്റാബുകളായി "
+"വേര്‍തിരിച്ചിരിക്കുന്നു:"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing password"
+msgstr "രഹസ്യവാക്ക് മാറ്റുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing login shell"
+msgstr "ലോഗിന്‍ ഷെല്‍ മാറ്റുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing full name"
+msgstr "പൂര്‍ണ്ണ നാമം മാറ്റുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing home directory"
+msgstr "ഹോം ഡയറക്ടറി മാറ്റുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(para)
+msgid ""
+"<guilabel>User Data</guilabel> — Shows the basic user information configured "
+"when you added the user. Use this tab to change the user's full name, "
+"password, home directory, or login shell."
+msgstr ""
+"<guilabel>ഉപയോക്താവിനുള്ള ഡേറ്റാ</guilabel> — നിങ്ങള്‍ ഉപയോക്താവിനെ ചേര്‍ക്കുമ്പോള്‍ "
+"ക്രമീകരിക്കുന്ന അടിസ്ഥാനപരമായ വിവരങ്ങള്‍ കാണിക്കുന്നു. ഉപയോക്താവിന്റെ പൂര്‍ണ്ണ നാമം, രഹസ്യവാക്ക്, "
+"ഹോം ഡയറക്ടറി, അല്ലെങ്കില്‍ ലോഗിന്‍ ഷെല്‍ എന്നിവ മാറ്റുന്നതിനായി ഈ റ്റാബ് ഉപയോഗിക്കുക."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:94(para)
+msgid ""
+"<guilabel>Account Info</guilabel> — <indexterm significance=\"normal"
+"\"><primary>user configuration</primary><secondary>setting user account "
+"expiration</secondary></indexterm> Select <guibutton>Enable account "
+"expiration</guibutton> if you want the account to expire on a certain date. "
+"Enter the date in the provided fields. <indexterm significance=\"normal"
+"\"><primary>user configuration</primary><secondary>locking user accounts</"
+"secondary></indexterm> Select <guilabel>Local password is locked</guilabel> "
+"to lock the user account and prevent the user from logging into the system."
+msgstr ""
+"<guilabel>അക്കൌണ്ട് വിവരങ്ങള്‍</guilabel> — <indexterm significance=\"normal"
+"\"><primary>ഉപയോക്താവിനുള്ള ക്രമീകരണം</primary><secondary>ഉപയോക്താവിന്റെ "
+"അക്കൌണ്ടിന്റെ കാലാവധി ക്രമീകരിക്കുക</secondary></indexterm> ഏതെങ്കിലും ഒരു തീയതില്‍ "
+"അക്കൌണ്ടിന്റെ കാലാവധി തീരണമെങ്കില്‍ <guibutton>അക്കൌണ്ടിന്റെ കാലാവധി സജ്ജമാക്കുക</"
+"guibutton> തെരഞ്ഞെടുക്കുക. ലഭ്യമാക്കുന്ന ഫീള്‍ഡുകളില്‍ തീയതി നല്‍കുക. <indexterm "
+"significance=\"normal\"><primary>ഉപയോക്താവിനുള്ള ക്രമീകരണം</"
+"primary><secondary>ഉപയോക്താവിന്റെ അക്കൌണ്ട് പൂട്ടുക</secondary></indexterm> "
+"ഉപയോക്താവിന്റെ അക്കൌണ്ട് പൂട്ടി, സിസ്റ്റത്തിലേക്കുള്ള പ്രവേശനം ഉപയോക്താവിനെ "
+"അനുവദിക്കാതിരിക്കുന്നതിനായി <guilabel>ലോക്കല്‍ രഹസ്യവാക്ക് പൂട്ടിയിരിക്കുന്നു</guilabel> "
+"തെരഞ്ഞെടുക്കുക."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(secondary)
+msgid "password expiration"
+msgstr "രഹസ്യവാക്കിന്റെ കാലാവധി"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(para)
+msgid ""
+"<guilabel>Password Info</guilabel> — Displays the date that the user's "
+"password last changed. To force the user to change passwords after a certain "
+"number of days, select <guilabel>Enable password expiration</guilabel> and "
+"enter a desired value in the <guilabel>Days before change required:</"
+"guilabel> field. The number of days before the user's password expires, the "
+"number of days before the user is warned to change passwords, and days "
+"before the account becomes inactive can also be changed."
+msgstr ""
+"<guilabel>രഹസ്യവാക്കിനുള്ള വിവരങ്ങള്‍</guilabel> — ഉപയോക്താവിന്റെ രഹസ്യവാക്കില്‍ "
+"അവസാനമായി മാറ്റം വരുത്തിയ തീയതി കാണിക്കുന്നു. കുറച്ചു് ദിവസങ്ങള്‍ക്കു് ശേഷം ഉപയോക്താവിനെ "
+"നിര്‍ബന്ധിച്ചു് രഹസ്യവാക്കു് മാറ്റുന്നതിനായി <guilabel>രഹസ്യവാക്കിന്റെ കാലാവധി സജ്ജമാക്കുക</"
+"guilabel> തെരഞ്ഞെടുത്തു്, <guilabel>മാറ്റങ്ങള്‍ ആവശ്യമുളളതിന് മുമ്പുളള ദിവസങ്ങള്‍:</guilabel> "
+"ഫീള്‍ഡില്‍ ആവശ്യമായ മൂല്ല്യം നല്‍കുക. ഉപയോക്താവിന്റെ രഹസ്യവാക്കിന്റെ കാലാവധി തീരുന്നതിനു് മുമ്പുള്ള "
+"ദിവസങ്ങള്‍, രഹസ്യവാക്കുകള്‍ മാറ്റുന്നതിനായി ഉപയോക്താവിനു് മുന്നറിയിപ്പു് നല്‍കുന്നതിനു് മുമ്പുള്ള "
+"ദിവസങ്ങള്‍, അക്കൌണ്ട് നിര്‍ജ്ജീവമാകുന്നതിനു് മുമ്പുള്ള ദിവസങ്ങള്‍ എന്നിവയെല്ലാം മാറ്റുവാന്‍ സാധിക്കുന്നു."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:100(para)
+msgid ""
+"<indexterm significance=\"normal\"><primary>user configuration</"
+"primary><secondary>adding users to groups</secondary></"
+"indexterm><guilabel>Groups</guilabel> — Allows you to view and configure the "
+"Primary Group of the user, as well as other groups that you want the user to "
+"be a member of."
+msgstr ""
+"<indexterm significance=\"normal\"><primary>ഉപയോക്താവിനുള്ള ക്രമീകരണം</"
+"primary><secondary>ഗ്രൂപ്പുകളിലേക്ക് ഉപയോക്താക്കളെ ചേര്‍ക്കുക</secondary></"
+"indexterm><guilabel>ഗ്രൂപ്പുകള്‍</guilabel> — ഉപയോക്താവിനുള്ള പ്രൈമറി ഗ്രൂപ്പും, അംഗമാകുവാന്‍ "
+"ആഗ്രഹിക്കുന്ന മറ്റു് ഗ്രൂപ്പുകളും കാണുകയും അതു് ക്രമീകരിക്കുന്നതിനും അനുവദിക്കുന്നു."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(title)
+msgid "Adding a New Group"
+msgstr "ഒരു പുതിയ ഗ്രൂപ്പ് ചേര്‍ക്കുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(secondary)
+msgid "adding groups"
+msgstr "ഗ്രൂപ്പുകള്‍ ചേര്‍‍ക്കുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(para)
+msgid ""
+"To add a new user group, click the <guibutton>Add Group</guibutton> button. "
+"A window similar to <xref linkend=\"group-new-fig\"/> appears. Type the name "
+"of the new group to create. To specify a group ID for the new group, select "
+"<guibutton>Specify group ID manually</guibutton> and select the GID. Note "
+"that group IDs lower than 500 are reserved for system groups."
+msgstr ""
+"പുതിയ ഒരു ഗ്രൂപ്പ് ചേര്‍ക്കുന്നതിനായി <guibutton>ഗ്രൂപ്പ് ചേര്‍ക്കുക</guibutton> ബട്ടണില്‍ ക്ലിക്ക് "
+"ചെയ്യുക. <xref linkend=\"group-new-fig\"/> പോലൊരു ജാലകം നിങ്ങള്‍ക്കു് ലഭിക്കുന്നു. "
+"ഉണ്ടാക്കുന്നപുതിയ ഗ്രൂപ്പിന്റെ പേരു് ടൈപ്പ് ചെയ്യുക. ഇതിനുള്ള ഗ്രൂപ്പ് ID വ്യക്തമാക്കുന്നതിനായി, "
+"<guibutton>ഗ്രൂപ്പ് ID നിങ്ങള്‍ സ്വയം നല്‍കുക</guibutton> തെരഞ്ഞെടുത്തു് GID നല്‍കുക. കുറിപ്പു്: "
+"500-ല്‍ താഴെയുള്ള ഗ്രൂപ്പ് ID സിസ്റ്റം ഗ്രൂപ്പുകള്‍ക്കായി കരുത്തിയിരിക്കുന്നു."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(title)
+msgid "New Group"
+msgstr "പുതിയ ഗ്രൂപ്പ്"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(para)
+msgid "Creating a new group"
+msgstr "ഒരു പുതിയ ഗ്രൂപ്പ് ഉണ്ടാക്കുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:107(para)
+msgid ""
+"Click <guibutton>OK</guibutton> to create the group. The new group appears "
+"in the group list."
+msgstr ""
+"ഗ്രൂപ്പ് ഉണ്ടാക്കുന്നതിനായി <guibutton>ശരി</guibutton> അമര്‍ത്തുക. ഗ്രൂപ്പുകളുടെ പട്ടികയില്‍ ഈ "
+"പുതിയ ഗ്രൂപ്പ് ലഭ്യമാകുന്നു."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(title)
+msgid "Modifying Group Properties"
+msgstr "ഗ്രൂപ്പിന്റെ വിശേഷതകള്‍ മാറ്റുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(secondary)
+msgid "modifying group properties"
+msgstr "ഗ്രൂപ്പിന്റെ വിശേഷതകള്‍ മാറ്റുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(para)
+msgid ""
+"To view the properties of an existing group, select the group from the group "
+"list and click <guibutton>Properties</guibutton> from the menu (or choose "
+"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></"
+"menuchoice> from the pulldown menu). A window similar to <xref linkend="
+"\"group-properties-fig\"/> appears."
+msgstr ""
+"നിലവിലുള്ള ഒരു ഗ്രൂപ്പിന്റെ വിശേഷതകള്‍ കാണുന്നതിനായി, ഗ്രൂപ്പിന്റെ പട്ടികയില്‍ നിന്നും ഒരു "
+"ഗ്രൂപ്പിനെ തെരഞ്ഞെടുത്തു്, മെനുവിലുള്ള <guibutton>വിശേഷതകള്‍</guibutton> ക്ലിക്ക് ചെയ്യുക "
+"(അല്ലെങ്കില്‍ പുള്‍ഡൌണ്‍ മെനുവില്‍ നിന്നും <menuchoice><guimenu>ഫയല്‍</guimenu><guimenuitem> "
+"വിശേഷതകള്‍</guimenuitem></menuchoice> തെരഞ്ഞെടുക്കുക). <xref linkend=\"group-"
+"properties-fig\"/> പോലൊരു ജാലകം ലഭ്യമാകുന്നു."
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(title)
+msgid "Group Properties"
+msgstr "ഗ്രൂപ്പിന്റെ വിശേഷതകള്‍"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(para)
+msgid "Modifying group properties"
+msgstr "ഗ്രൂപ്പിന്റെ വിശേഷതകള്‍ മാറ്റുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(secondary)
+msgid "modify users in groups"
+msgstr "ഗ്രൂപ്പുകളിലുള്ള ഉപയോക്താക്കളെ മാറ്റുക"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(para)
+msgid ""
+"The <guilabel>Group Users</guilabel> tab displays which users are members of "
+"the group. Use this tab to add or remove users from the group. Click "
+"<guibutton>OK</guibutton> to save your changes."
+msgstr ""
+"<guilabel>ഗ്രൂപ്പ് ഉപയോക്താക്കള്‍</guilabel> റ്റാബ് ഒരു ഗ്രൂപ്പിലുള്ള അംഗങ്ങളായ ഉപയോക്താക്കളെ "
+"കാണിക്കുന്നു. ഗ്രൂപ്പില്‍ നിന്നും ഉപയോക്താക്കളെ ചേര്‍ക്കുന്നതിനോ നീക്കം ചെയ്യുന്നതിനോ ഈ റ്റാബ് "
+"ഉപയോഗിക്കുക. നിങ്ങള്‍ വരുത്തിയ മാറ്റങ്ങള്‍ സൂക്ഷിക്കുന്നതിനായി  <guibutton>ശരി</guibutton> "
+"ക്ലിക്ക് ചെയ്യുക"
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:0(None)
+msgid "translator-credits"
+msgstr "Ani Peter|അനി പീറ്റര്‍ <apeter@redhat.com>"
+
+#, fuzzy
+#~ msgid "2008 - 2010"
+#~ msgstr "2008-01-31"
+
+#, fuzzy
+#~ msgid "1.0.3"
+#~ msgstr "1.0.1"

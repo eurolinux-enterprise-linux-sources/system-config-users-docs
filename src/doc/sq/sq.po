@@ -1,0 +1,1173 @@
+# Albanian translations for PACKAGE package.
+# Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the system-config-users package.
+# Automatically generated, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-06 17:03+0200\n"
+"PO-Revision-Date: 2008-09-13 16:18+0200\n"
+"Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(None)
+msgid ""
+"@@image: 'images/system-config-users.png'; "
+"md5=3ed07ec09bd46b79535a583624b61c6b"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(None)
+msgid ""
+"@@image: 'images/system-config-users-user-new.png'; "
+"md5=52dc41e7b6e97b234edb97675fdd0ab6"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(None)
+msgid ""
+"@@image: 'images/system-config-users-user-properties-user-data.png'; "
+"md5=ceab8d4b7c0e76942643c69b3a374829"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(None)
+msgid ""
+"@@image: 'images/system-config-users-group-new.png'; "
+"md5=a8831cbdee41c89768d2a099b3e23f81"
+msgstr ""
+
+#. When image changes, this message will be marked fuzzy or untranslated for you.
+#. It doesn't matter what you translate it to: it's not used at all.
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(None)
+msgid ""
+"@@image: 'images/system-config-users-group-properties-group-data.png'; "
+"md5=3ab34f44acdf639a83dc07a97bb3005c"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:49(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(application)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(title)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(para)
+msgid "User and Group Configuration Tool"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-01-31"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0.1"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-03-11"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0.2"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2008-03-12"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(revnumber)
+msgid "1.0.9"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(date)
+msgid "2010-05-06"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:40(para)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(para)
+msgid ""
+"The <application>User and Group Configuration Tool</application> allows you "
+"to view, modify, add, and delete local users and groups."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:44(trademark)
+msgid "Red Hat"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:43(corpauthor)
+msgid "<placeholder-1/>, Inc."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(year)
+msgid "2008"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(year)
+msgid "2010"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:45(holder)
+msgid "Red Hat, Inc."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:48(command)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(command)
+msgid "system-config-users"
+msgstr "system-config-users"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:49(para)
+msgid ""
+"You must be running the <application>X</application> Window System and have "
+"root privileges to use the User and Group Configuration Tool. There are "
+"three ways to start the application:"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:51(para)
+msgid ""
+"From the desktop, go to <menuchoice><guimenu>the main menu on the panel (the "
+"menu with the \"f\" icon)</guimenu><guisubmenu>System</"
+"guisubmenu><guisubmenu>Administration</guisubmenu><guimenuitem>Users and "
+"Groups</guimenuitem></menuchoice>"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:53(para)
+msgid ""
+"From the desktop, right-click on the fast user switch applet in the toolbar "
+"and select <guimenu>Edit Users and Groups</guimenu>."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:55(para)
+msgid ""
+"Type the command <command>system-config-users</command> at a shell prompt "
+"(for example, in an <application>XTerm</application> or a "
+"<application>GNOME</application> terminal)."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(title)
+#, fuzzy
+msgid "User and Group Configuration"
+msgstr "Përdoruesa dhe Grupe"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+#, fuzzy
+msgid "users"
+msgstr "_Përdoruesa"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(primary)
+msgid "user configuration"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+#, fuzzy
+msgid "groups"
+msgstr "_Grupe"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(primary)
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(primary)
+msgid "group configuration"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(see)
+msgid "user and group configuration"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(secondary)
+msgid "viewing list of users"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:58(secondary)
+msgid "viewing list of groups"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(secondary)
+msgid "filtering list of users"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(secondary)
+msgid "filtering list of groups"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:60(para)
+msgid ""
+"To view a list of local users on the system, click the <guilabel>Users</"
+"guilabel> tab. To view a list of local groups on the system, click the "
+"<guilabel>Groups</guilabel> tab."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:62(para)
+msgid ""
+"To find a specific user or group, type the first few letters of the name in "
+"the <guilabel>Search filter</guilabel> field. Press <keycap>Enter</keycap> "
+"or click the <guibutton>Apply filter</guibutton> button. The filtered list "
+"is displayed."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:64(para)
+msgid ""
+"To sort the users or groups, click on the column name. The users or groups "
+"are sorted according to the value of that column."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:66(para)
+msgid ""
+"User IDs below 500 are reserved for system users. By default, "
+"<application>User and Group Configuration Tool</application> does not "
+"display system users. To view all users, including the system users, go to "
+"<menuchoice><guimenu>Edit</guimenu><guisubmenu>Preferences</guisubmenu></"
+"menuchoice> and uncheck <guimenuitem>Hide system users and groups</"
+"guimenuitem> from the dialog box."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(title)
+#, fuzzy
+msgid "Adding a New User"
+msgstr "Përdorues i Ri"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(secondary)
+msgid "adding users"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:68(para)
+msgid ""
+"To add a new user, click the <guibutton>Add User</guibutton> button. A "
+"window as shown in <xref linkend=\"user-new-fig\"/> appears. Type the "
+"username and full name for the new user in the appropriate fields. Type the "
+"user's password in the <guilabel>Password</guilabel> and <guilabel>Confirm "
+"Password</guilabel> fields. The password must be at least six characters."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:70(title)
+msgid "Tip"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:70(para)
+msgid ""
+"It is advisable to use a much longer password, as this makes it more "
+"difficult for an intruder to guess it and access the account without "
+"permission. It is also recommended that the password not be based on a "
+"dictionary term; use a combination of letters, numbers and special "
+"characters."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:72(para)
+msgid ""
+"Select a login shell. If you are not sure which shell to select, accept the "
+"default value of <computeroutput>/bin/bash</computeroutput>. The default "
+"home directory is <filename>/home/<replaceable>&lt;username&gt;</"
+"replaceable>/</filename>. You can change the home directory that is created "
+"for the user, or you can choose not to create the home directory by "
+"unselecting <guilabel>Create home directory</guilabel>."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:74(para)
+msgid ""
+"If you select to create the home directory, default configuration files are "
+"copied from the <filename>/etc/skel/</filename> directory into the new home "
+"directory."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:76(para)
+msgid ""
+"By default, a <firstterm>user private group</firstterm> (UPG) scheme is "
+"used. The UPG scheme does not add or change anything in the standard UNIX "
+"way of handling groups; it offers a new convention. Whenever you create a "
+"new user, by default, a unique group with the same name as the user is "
+"created. If you do not want to create this group, unselect <guilabel>Create "
+"a private group for the user</guilabel>."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:78(para)
+msgid ""
+"To specify a user ID for the user, select <guibutton>Specify user ID "
+"manually</guibutton>. If the option is not selected, the next available user "
+"ID above 500 is assigned to the new user. Because user IDs below 500 are "
+"reserved for system users, it is not advisable to manually assign user IDs 1-"
+"499."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:80(para)
+msgid "Click <guibutton>OK</guibutton> to create the user."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(title)
+msgid "New User"
+msgstr "Përdorues i Ri"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:82(para)
+#, fuzzy
+msgid "Creating a new user"
+msgstr "Krijo Përdorues të Ri"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:84(para)
+msgid ""
+"To configure more advanced user properties, such as password expiration, "
+"modify the user's properties after adding the user. Refer to <xref linkend="
+"\"s2-system-config-users-user-properties\"/> for more information."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(title)
+#, fuzzy
+msgid "Modifying User Properties"
+msgstr "Veti Përdoruesi"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(secondary)
+msgid "modifying users"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(secondary)
+msgid "modify groups for a user"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:86(para)
+msgid ""
+"To view the properties of an existing user, click on the <guilabel>Users</"
+"guilabel> tab, select the user from the user list, and click "
+"<guibutton>Properties</guibutton> from the menu (or choose "
+"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></"
+"menuchoice> from the pulldown menu). A window similar to <xref linkend="
+"\"user-properties-fig\"/> appears."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(title)
+msgid "User Properties"
+msgstr "Veti Përdoruesi"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:88(para)
+#, fuzzy
+msgid "Modifying user properties"
+msgstr "Veti Përdoruesi"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:90(para)
+msgid ""
+"The <guilabel>User Properties</guilabel> window is divided into multiple "
+"tabbed pages:"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing password"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing login shell"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+msgid "changing full name"
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(secondary)
+#, fuzzy
+msgid "changing home directory"
+msgstr "Krijo drejtorinë _shtëpi"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:92(para)
+msgid ""
+"<guilabel>User Data</guilabel> — Shows the basic user information configured "
+"when you added the user. Use this tab to change the user's full name, "
+"password, home directory, or login shell."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:94(para)
+msgid ""
+"<guilabel>Account Info</guilabel> — <indexterm significance=\"normal"
+"\"><primary>user configuration</primary><secondary>setting user account "
+"expiration</secondary></indexterm> Select <guibutton>Enable account "
+"expiration</guibutton> if you want the account to expire on a certain date. "
+"Enter the date in the provided fields. <indexterm significance=\"normal"
+"\"><primary>user configuration</primary><secondary>locking user accounts</"
+"secondary></indexterm> Select <guilabel>Local password is locked</guilabel> "
+"to lock the user account and prevent the user from logging into the system."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(secondary)
+#, fuzzy
+msgid "password expiration"
+msgstr "_Aktivizo skadim fjalëkalimesh"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:98(para)
+msgid ""
+"<guilabel>Password Info</guilabel> — Displays the date that the user's "
+"password last changed. To force the user to change passwords after a certain "
+"number of days, select <guilabel>Enable password expiration</guilabel> and "
+"enter a desired value in the <guilabel>Days before change required:</"
+"guilabel> field. The number of days before the user's password expires, the "
+"number of days before the user is warned to change passwords, and days "
+"before the account becomes inactive can also be changed."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:100(para)
+msgid ""
+"<indexterm significance=\"normal\"><primary>user configuration</"
+"primary><secondary>adding users to groups</secondary></"
+"indexterm><guilabel>Groups</guilabel> — Allows you to view and configure the "
+"Primary Group of the user, as well as other groups that you want the user to "
+"be a member of."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(title)
+#, fuzzy
+msgid "Adding a New Group"
+msgstr "Grup i Ri"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(secondary)
+#, fuzzy
+msgid "adding groups"
+msgstr "Shto _Grup"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:103(para)
+msgid ""
+"To add a new user group, click the <guibutton>Add Group</guibutton> button. "
+"A window similar to <xref linkend=\"group-new-fig\"/> appears. Type the name "
+"of the new group to create. To specify a group ID for the new group, select "
+"<guibutton>Specify group ID manually</guibutton> and select the GID. Note "
+"that group IDs lower than 500 are reserved for system groups."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(title)
+msgid "New Group"
+msgstr "Grup i Ri"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:105(para)
+#, fuzzy
+msgid "Creating a new group"
+msgstr "Krijo Grup të Ri"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:107(para)
+msgid ""
+"Click <guibutton>OK</guibutton> to create the group. The new group appears "
+"in the group list."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(title)
+#, fuzzy
+msgid "Modifying Group Properties"
+msgstr "Veti Grupi"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(secondary)
+#, fuzzy
+msgid "modifying group properties"
+msgstr "Veti Grupi"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:109(para)
+msgid ""
+"To view the properties of an existing group, select the group from the group "
+"list and click <guibutton>Properties</guibutton> from the menu (or choose "
+"<menuchoice><guimenu>File</guimenu><guimenuitem>Properties</guimenuitem></"
+"menuchoice> from the pulldown menu). A window similar to <xref linkend="
+"\"group-properties-fig\"/> appears."
+msgstr ""
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(title)
+msgid "Group Properties"
+msgstr "Veti Grupi"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:111(para)
+#, fuzzy
+msgid "Modifying group properties"
+msgstr "Veti Grupi"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(secondary)
+#, fuzzy
+msgid "modify users in groups"
+msgstr "_Fshih përdoruesa dhe grupe sistemi"
+
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:113(para)
+msgid ""
+"The <guilabel>Group Users</guilabel> tab displays which users are members of "
+"the group. Use this tab to add or remove users from the group. Click "
+"<guibutton>OK</guibutton> to save your changes."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: /home/nils/src/docs/system-config-users-docs/doc/C/system-config-users-complete.xml:0(None)
+msgid "translator-credits"
+msgstr "kredite përkthyesish"
+
+#~ msgid "Please enter a group name."
+#~ msgstr "Ju lutem jepni emër grupi."
+
+#~ msgid "The group '%s' already exists. Please choose a different name."
+#~ msgstr "Ka tashmë një grup '%s'. Ju lutem zgjidhni një emër tjetër."
+
+#~ msgid "You cannot remove user '%s' from their primary group."
+#~ msgstr "Nuk mund të hiqni përdoruesin '%s' prej grupit të vet parësor."
+
+#~ msgid "A group with name '%s' already exists."
+#~ msgstr "Ka tashmë një grup me emrin '%s'."
+
+#~ msgid "The gid %s is already in use."
+#~ msgstr "Gid-ja %s është në përdorim tashmë."
+
+#~ msgid ""
+#~ "Creating a group with a GID less than 500 is not recommended.  Are you "
+#~ "sure you want to do this?"
+#~ msgstr ""
+#~ "Nuk këshillohet krijimi i një grupi me GID më të vogël se 500.  Jeni të "
+#~ "sigurt se doni ta bëni këtë?"
+
+#~ msgid ""
+#~ "The help viewer could not be found. To be able to view help you need to "
+#~ "install the 'yelp' package."
+#~ msgstr ""
+#~ "Nuk u gjet dot parës ndihme. Për të qenë në gjendje të shihni ndihmën "
+#~ "lypset të instaloni paketën 'yelp'."
+
+#~ msgid "No helper application for the URL '%(url)s can be found."
+#~ msgstr "Nuk u gjet dot zbatim ndihmës për URL-në '%(url)s."
+
+#~ msgid "Error saving settings to %s"
+#~ msgstr "Gabim gjatë ruajtjes te %s"
+
+#~ msgid "Add or remove users and groups"
+#~ msgstr "Shtoni ose hiqni përdoruesa dhe grupe"
+
+#~ msgid "Logon Information Required"
+#~ msgstr "Lypsen Të dhëna Hyrjeje"
+
+#~ msgid "User Name"
+#~ msgstr "Emër Përdoruesi"
+
+#~ msgid "User ID"
+#~ msgstr "ID Përdoruesi"
+
+#~ msgid "Primary Group"
+#~ msgstr "Grup Parësor"
+
+#~ msgid "Full Name"
+#~ msgstr "Emër i Plotë"
+
+#~ msgid "Login Shell"
+#~ msgstr "Shell Hyrjesh"
+
+#~ msgid "Home Directory"
+#~ msgstr "Drejtori Hyrje"
+
+#~ msgid "Group Name"
+#~ msgstr "Emër Grupi"
+
+#~ msgid "Group ID"
+#~ msgstr "ID-i Grupi"
+
+#~ msgid "Group Members"
+#~ msgstr "Anëtarë Grupi"
+
+#~ msgid ""
+#~ "I couldn't find the numerical ID of the user '%(user)s'.\n"
+#~ "\n"
+#~ msgstr ""
+#~ "Nuk gjeta dot ID numerike të përdoruesit '%(user)s'.\n"
+#~ "\n"
+
+#~ msgid ""
+#~ "I couldn't find the numerical IDs of these users:\n"
+#~ "%(users)s\n"
+#~ "\n"
+#~ msgstr ""
+#~ "Nuk gjeta dot ID-të numerike të këtyre përdoruesve:\n"
+#~ "%(users)s\n"
+#~ "\n"
+
+#~ msgid ""
+#~ "I couldn't find the numerical ID of the group '%(group)s'.\n"
+#~ "\n"
+#~ msgstr ""
+#~ "Nuk gjeta dot ID numerike të grupit '%(group)s'.\n"
+#~ "\n"
+
+#~ msgid ""
+#~ "I couldn't find the numerical IDs of these groups:\n"
+#~ "%(groups)s\n"
+#~ "\n"
+#~ msgstr ""
+#~ "Nuk gjeta dot ID-të numerike të këtyre grupeve:\n"
+#~ "%(groups)s\n"
+#~ "\n"
+
+#~ msgid ""
+#~ "%(msg_users)s%(msg_groups)s\n"
+#~ "In most cases this is caused by inconsistencies in the user or group "
+#~ "database, e.g. between the files /etc/passwd, /etc/group and their "
+#~ "respective shadow files /etc/shadow and /etc/gshadow. I will try to "
+#~ "ignore these entries and continue for now, but please fix these "
+#~ "inconsistencies as soon as possible."
+#~ msgstr ""
+#~ "%(msg_users)s%(msg_groups)s\n"
+#~ "Në shumicën e rasteve kjo shkaktohet nga mospërputhje te baza e të "
+#~ "dhënave të përdoruesve ose grupeve, p.sh. ndërmjet kartelave /etc/"
+#~ "passwd, /etc/group dhe kartelave hije të tyre përkatëse /etc/shadow dhe /"
+#~ "etc/gshadow. Do të provoj t'i shpërfill dhe të vazhdoj tani, por ju lutem "
+#~ "ndreqini këto mospërputhje sa më shpejt të jetë e mundur."
+
+#~ msgid "Copyright © %(years)s %(holder)s <%(email)s>"
+#~ msgstr "Të drejta kopjimi © %(viti)s %(mbajtësi)s <%(email)s>"
+
+#~ msgid "Copyright © %(years)s %(holder)s"
+#~ msgstr "Të drejta kopjimi © %(years)s %(holder)s"
+
+#~ msgid "%(author)s <%(email)s>"
+#~ msgstr "%(autor)s <%(email)s>"
+
+#~ msgid "%(author)s"
+#~ msgstr "%(autor)s"
+
+#~ msgid "Deleting the root user is not allowed."
+#~ msgstr "Nuk lejohet fshirja e përdoruesit rrënjë ."
+
+#~ msgid "- An installed software package contains this directory."
+#~ msgstr "- Kjo drejtori përmbahet në një paketë software-i të instaluar."
+
+#~ msgid ""
+#~ "- A system user owns this directory and removing it may impair the "
+#~ "system's integrity."
+#~ msgstr ""
+#~ "- Kjo drejtori është pronë e një përdoruesi sistem dhe heqja mund të "
+#~ "cënojë integritetin e sistemit."
+
+#~ msgid "- This directory doesn't exist or isn't writable."
+#~ msgstr "- Kjo drejtori nuk ekziston ose nuk është e shkruajtshme."
+
+#~ msgid "- The user '%s' doesn't own this directory."
+#~ msgstr "- Përdoruesi '%s' nuk e ka të vetën këtë drejtori."
+
+#~ msgid ""
+#~ "<b>There are currently processes running that are owned by '%s'!</b>  "
+#~ "This user is probably still logged in.  "
+#~ msgstr ""
+#~ "<b>Ka procese të tanishëm në xhirim e sipër, e që janë pronë e '%s'!</b>  "
+#~ "Ka gjasa që ky përdorues të jetë ende brenda.  "
+
+#~ msgid "Do you really want to remove the user '%s'?"
+#~ msgstr "Doni vërtet të hiqni përdoruesin '%s'?"
+
+#~ msgid ""
+#~ "Delete %(user)s's home directory ('%(homedir)s') and temporary files."
+#~ msgstr ""
+#~ "Fshi drejtorinë shtëpi ('%(homedir)s') për %(user)s dhe kartela të "
+#~ "përkohshme."
+
+#~ msgid ""
+#~ "Delete %(user)s's home directory ('%(homedir)s'), mail spool ('%"
+#~ "(mailspool)s') and temporary files."
+#~ msgstr ""
+#~ "Fshi drejtorinë shtëpi ('%(homedir)s') për %(user)s, pjesën e postës për "
+#~ "të ('%(mailspool)s') dhe kartela të përkohshme."
+
+#~ msgid ""
+#~ "I won't delete %(user)s's home directory ('%(homedir)s') for this "
+#~ "reason:\n"
+#~ "%(reason)s"
+#~ msgstr ""
+#~ "Nuk do ta fshij drejtorinë shtëpi ('%(homedir)s') për %(user)s për këtë "
+#~ "arsye:\n"
+#~ "%(reason)s"
+
+#~ msgid ""
+#~ "I won't delete %(user)s's home directory ('%(homedir)s') for these "
+#~ "reasons:\n"
+#~ "%(reason)s"
+#~ msgstr ""
+#~ "Nuk do ta fshij drejtorinë shtëpi ('%(homedir)s') për %(user)s për këto "
+#~ "arsye:\n"
+#~ "%(reason)s"
+
+#~ msgid "Are you sure you want to delete the group '%s'?"
+#~ msgstr "Jeni të sigurt se doni të fshihet grupi '%s'?"
+
+#~ msgid "system-config-users requires a currently running X server."
+#~ msgstr "system-config-users lyp një shërbyes X në xhirim e sipër."
+
+#~ msgid "Please enter a user name."
+#~ msgstr "Ju lutem jepni një emër përdoruesi."
+
+#~ msgid "The user name must not exceed %d characters."
+#~ msgstr "Emri i përdoruesit nuk duhet të jetë më i gjatë se %d shenja."
+
+#~ msgid ""
+#~ "The user name '%s' contains whitespace. Please do not include whitespace "
+#~ "in the user name."
+#~ msgstr ""
+#~ "Emri i përdoruesit '%s' përmban hapësira bosh. Ju lutem mos përdorni "
+#~ "hapësira boshe te emri i përdoruesit."
+
+#~ msgid ""
+#~ "The user name '%s' contains a dollar sign which is not at the end. Please "
+#~ "use dollar signs only at the end of user names to indicate Samba machine "
+#~ "accounts."
+#~ msgstr ""
+#~ "Emri i përdoruesit '%s' përmban një shenjë dollari e cila nuk gjendet në "
+#~ "fund. Ju lutem përdorni shenja dollari vetëm në fund të të emrave të "
+#~ "përdoruesve, për të treguar llogarira Samba makine."
+
+#~ msgid ""
+#~ "The user name '%(name)s' contains an invalid character at position %"
+#~ "(position)d."
+#~ msgstr ""
+#~ "Emri i përdoruesit '%(name)s' përmban te pozicioni %(position)d një "
+#~ "shenjë të pavlefshme."
+
+#~ msgid ""
+#~ "Using all numbers as the user name can cause confusion about whether the "
+#~ "user name or numerical user id is meant. Do you really want to use a "
+#~ "numerical-only user name?"
+#~ msgstr ""
+#~ "Përdorimi vetëm i numrave si emër përdoruesi mund të shkaktojë paqartësi "
+#~ "rreth faktit nëse bëhet fjalë për emrin e përdoruesit apo për id-në e tij "
+#~ "numerike. Doni vërtet të përdorni emër përdoruesi vetëm me shifra?"
+
+#~ msgid "The group name must not exceed %d characters."
+#~ msgstr "Emri i grupit nuk duhet të jetë më i gjatë se %d shenja."
+
+#~ msgid ""
+#~ "The group name '%s' contains whitespace. Please do not include whitespace "
+#~ "in the group name."
+#~ msgstr ""
+#~ "Emri i grupit '%s' përmban hapësira bosh. Ju lutem mos përdorni hapësira "
+#~ "boshe te emri i grupit."
+
+#~ msgid ""
+#~ "The group name '%(name)s' contains an invalid character at position %"
+#~ "(position)d."
+#~ msgstr ""
+#~ "Emri i grupit '%(name)s' përmban te pozicioni %(position)d një shenjë të "
+#~ "pavlefshme."
+
+#~ msgid ""
+#~ "Using all numbers as the group name can cause confusion about whether the "
+#~ "group name or numerical group id is meant. Do you really want to use a "
+#~ "numerical-only group name?"
+#~ msgstr ""
+#~ "Përdorimi vetëm i numrave si emër grupi mund të shkaktojë paqartësi rreth "
+#~ "faktit nëse bëhet fjalë për emrin e grupit apo për id-në e tij numerike. "
+#~ "Doni vërtet të përdorni emër grupi vetëm me shifra?"
+
+#~ msgid ""
+#~ "The password contains invalid characters.  Please use only ASCII "
+#~ "characters."
+#~ msgstr ""
+#~ "Fjakëkalimi përmban shenja të pavlefshme.  Ju lutem përdorni vetëm shenja "
+#~ "ASCII."
+
+#~ msgid "The chosen password is too weak: %s. Do you want to use it anyway?"
+#~ msgstr ""
+#~ "Fjalëkalimi i zgjedhur është shumë i dobët: %s. Doni të përdoret, sido që "
+#~ "të jetë?"
+
+#~ msgid ""
+#~ "The name '%s' contains invalid characters.  Please use only UTF-8 "
+#~ "characters."
+#~ msgstr ""
+#~ "Emri '%s' përmban shenja të pavlefshme.  Ju lutem përdorni vetëm shenja "
+#~ "UTF-8."
+
+#~ msgid ""
+#~ "The name '%s' contains a colon.  Please do not use colons in the name."
+#~ msgstr ""
+#~ "Emri '%s' përmban shenjën dy pika.  Ju lutem mos e përdorni shenjën dy "
+#~ "pika në emra."
+
+#~ msgid "Please enter a home directory."
+#~ msgstr "Ju lutem jepni një drejtori hyrje."
+
+#~ msgid ""
+#~ "The directory name '%s' contains a colon.  Please do not use colons in "
+#~ "the directory name."
+#~ msgstr ""
+#~ "Emri '%s' i drejtorisë përmban shenjën dy pika.  Ju lutem mos e përdorni "
+#~ "shenjën dy pika në emra drejtorish."
+
+#~ msgid ""
+#~ "The directory name '%s' doesn't begin with a '/'. Please specify an "
+#~ "absolute path for the home directory."
+#~ msgstr ""
+#~ "Emri i drejtorisë '%s' s'fillon me një '/'. Ju lutem tregoni një shteg "
+#~ "absolut për drejtorinë shtëpi."
+
+#~ msgid ""
+#~ "The directory name '%s' has path components which are too long. Please "
+#~ "use shorter path components for the home directory."
+#~ msgstr ""
+#~ "Emri i drejtorisë '%s' ka përbërëse shtegu të cilat janë shumë të gjata. "
+#~ "Ju lutem përdorni për drejtorinë shtëpi përbërëse shtegu më të shkurtra."
+
+#~ msgid ""
+#~ "The directory name '%s' contains empty path components. Please specify a "
+#~ "home directory name without empty path components."
+#~ msgstr ""
+#~ "Emri i drejtorisë '%s' përmban përbërëse shtegu bosh. Ju lutem jepni emër "
+#~ "drejtorie shtëpi pa përbërëse shtegu bosh."
+
+#~ msgid ""
+#~ "The directory name '%s' contains illegal path components. Please don't "
+#~ "use '.' or '..' as path components for the home directory."
+#~ msgstr ""
+#~ "Emri i drejtorisë '%s' përmban përbërëse të jashtëligjshme shtegu. Ju "
+#~ "lutem mos përdorni '.' or '..' si përbërëse shtegu për drejtorinë shtëpi."
+
+#~ msgid "User"
+#~ msgstr "Përdorues"
+
+#~ msgid "Staff"
+#~ msgstr "Stafi"
+
+#~ msgid "System Administrator"
+#~ msgstr "Administrues Sistemi"
+
+#~ msgid "Primary Group:"
+#~ msgstr "Grup Parësor:"
+
+#~ msgid "The user '%s' already exists. Please choose a different name."
+#~ msgstr "Ka tashmë një përdorues '%s'. Ju lutem zgjidhni një emër tjetër."
+
+#~ msgid "Please enter a password for the user."
+#~ msgstr "Ju lutem jepni një fjalëkalim për përdoruesin."
+
+#~ msgid "The password is too short.  Please use at least 6 characters."
+#~ msgstr ""
+#~ "Fjalëkalimi është shumë i shkurtër.  Ju lutem përdorni të paktën 6 shenja."
+
+#~ msgid "Passwords do not match."
+#~ msgstr "Fjalëkalimet nuk përputhen."
+
+#~ msgid "Please select at least one group for the user."
+#~ msgstr "Ju lutem përzgjidhni të paktën një grup për përdoruesin."
+
+#~ msgid "Please specify the month that the password will expire."
+#~ msgstr "Ju lutem përcaktoni muajin kur do të skadojë fjalëkalimi."
+
+#~ msgid "Please specify the day that the password will expire."
+#~ msgstr "Ju lutem përcaktoni ditën kur do të skadojë fjalëkalimi."
+
+#~ msgid "Please specify the year that the password will expire."
+#~ msgstr "Ju lutem përcaktoni vitin kur do të skadojë fjalëkalimi."
+
+#~ msgid "The year is out of range.  Please select a different year."
+#~ msgstr "Viti është jashtë intervalit. Ju lutem përzgjidhni një vit tjetër."
+
+#~ msgid ""
+#~ "Please specify the number of days before changing the password is allowed."
+#~ msgstr ""
+#~ "Ju lutem përcaktoni numrin e ditëve para se të lejohet ndryshimi i "
+#~ "fjalëkalimit."
+
+#~ msgid ""
+#~ "The number of days before changing the password is allowed must be "
+#~ "between %(min)d and %(max)d."
+#~ msgstr ""
+#~ "Numri i ditëve para se të lejohet ndryshimi i fjalëkalimit duhet të jetë "
+#~ "mes %(min)d dhe %(max)d."
+
+#~ msgid ""
+#~ "Please specify the number of days before changing the password is "
+#~ "required."
+#~ msgstr ""
+#~ "Ju lutem përcaktoni numrin e ditëve para se të kërkohet ndryshimi i "
+#~ "fjalëkalimit."
+
+#~ msgid ""
+#~ "The number of days before changing the password is required must be "
+#~ "between %(min)d and %(max)d."
+#~ msgstr ""
+#~ "Numri i ditëve para se të kërkohet ndryshimi i fjalëkalimit duhet të jetë "
+#~ "mes %(min)d dhe %(max)d."
+
+#~ msgid ""
+#~ "Please specify the number of days to warn the user before changing the "
+#~ "password is required."
+#~ msgstr ""
+#~ "Ju lutem përcaktoni numrin e ditëve për sinjalizim përdoruesi para se të "
+#~ "kërkohet ndryshimi i fjalëkalimit."
+
+#~ msgid ""
+#~ "The number of days to warn the user before changing the password is "
+#~ "required must be between %(min)d and %(max)d."
+#~ msgstr ""
+#~ "Numri i ditëve për sinjalizim përdoruesi para se të kërkohet ndryshimi i "
+#~ "fjalëkalimit duhet të jetë mes %(min)d dhe %(max)d."
+
+#~ msgid ""
+#~ "Please specify the number of days until the user account becomes inactive "
+#~ "after password has expired."
+#~ msgstr ""
+#~ "Ju lutem përcaktoni numrin e ditëve përpara se llogaria e përdoruesit të "
+#~ "bëhet jovepruese pasi të ketë skaduar fjalëkalimi."
+
+#~ msgid ""
+#~ "The number of days until the user account becomes inactive after the "
+#~ "password has expired must be between %(min)d and %(max)d. Setting it to -"
+#~ "1 means the account won't become inactive."
+#~ msgstr ""
+#~ "Numri i ditëve përpara se llogaria e përdoruesit të bëhet jovepruese pasi "
+#~ "të ketë skaduar fjalëkalimi duhet të jetë mes %(min)d dhe %(max)d. "
+#~ "Caktimi i tij -1 do të thotë që llogaria nuk do të bëhet jovepruese."
+
+#~ msgid "The passwords do not match."
+#~ msgstr "Fjalëkalimet nuk përputhen."
+
+#~ msgid "Please specify a user name"
+#~ msgstr "Ju lutem jepni një emër përdoruesi"
+
+#~ msgid "An account with username '%s' already exists."
+#~ msgstr "Ka tashmë një llogari me emër përdoruesi '%s'."
+
+#~ msgid "The uid %s is already in use."
+#~ msgstr "Uid-ja %s është në përdorim tashmë."
+
+#~ msgid ""
+#~ "Creating a user with a UID less than 500 is not recommended.  Are you "
+#~ "sure you want to do this?"
+#~ msgstr ""
+#~ "Nuk këshillohet krijimi i një UID-je më të vogël se 500.  Jeni të sigurt "
+#~ "se doni ta bëni këtë?"
+
+#~ msgid "A group with this gid already exists.  What would you like to do?"
+#~ msgstr "Ka tashmë një grup me këtë gid. Ç'doni të bëhet?"
+
+#~ msgid "A group with this name already exists.  What would you like to do?"
+#~ msgstr "Ka tashmë një grup me këtë emër. Ç'doni të bëhet?"
+
+#~ msgid "Add to the existing group"
+#~ msgstr "Shtoje te grupi ekzistues"
+
+#~ msgid "Add to the 'users' group"
+#~ msgstr "Shtoje te grupi 'përdorues'"
+
+#~ msgid ""
+#~ "The system group database cannot be read.  This problem is most likely "
+#~ "caused by a mismatch in /etc/group and /etc/gshadow.  The program will "
+#~ "exit now."
+#~ msgstr ""
+#~ "Nuk u lexua dot baza e të dhënave për grupin e sistemit.  Ka shumë të "
+#~ "ngjarë që ky problem të jetë shkaktuar nga keqpërputhje te /etc/group "
+#~ "dhe /etc/gshadow.  Programi tani do të mbyllet."
+
+#~ msgid "_Group Name:"
+#~ msgstr "_Emër Grupi:"
+
+#~ msgid "Specify g_roup ID manually:"
+#~ msgstr "Tregoni ID _grupi dorazi:"
+
+#~ msgid "User _Name:"
+#~ msgstr "_Emër Përdoruesi:"
+
+#~ msgid "_Full Name:"
+#~ msgstr "Emër i _Plotë:"
+
+#~ msgid "_Password:"
+#~ msgstr "_Fjalëkalim:"
+
+#~ msgid "C_onfirm Password:"
+#~ msgstr "_Ripohoni Fjalëkalimin:"
+
+#~ msgid "_Login Shell:"
+#~ msgstr "Shell _Hyrjesh:"
+
+#~ msgid "_Home Directory:"
+#~ msgstr "_Drejtori Hyrje:"
+
+#~ msgid "S_ELinux role:"
+#~ msgstr "Rol S_ELinux:"
+
+#~ msgid "_User Data"
+#~ msgstr "_Të dhëna Përdoruesi"
+
+#~ msgid "_Enable account expiration"
+#~ msgstr "_Aktivizo skadim llogarie"
+
+#~ msgid "Account _expires (YYYY-MM-DD):"
+#~ msgstr "Llogaria _skadon (VVVV-MM-DD):"
+
+#~ msgid "     "
+#~ msgstr "     "
+
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgid "_Local password is locked"
+#~ msgstr "Fjalëkalimi _vendor është i kyçur"
+
+#~ msgid "_Account Info"
+#~ msgstr "Të dhëna _Llogarie "
+
+#~ msgid "User last changed password on:"
+#~ msgstr "Përdoruesi e ndryshoi fjalëkalimin së fundi më:"
+
+#~ msgid "Unknown"
+#~ msgstr "E panjohur"
+
+#~ msgid "_Password Info"
+#~ msgstr "Të dhëna _Fjalëkalimi"
+
+#~ msgid "Select the groups that the user will be a member of:"
+#~ msgstr "Përzgjidhni grupet anëtar i të cilëve do të jetë përdoruesi:"
+
+#~ msgid "Group _Data"
+#~ msgstr "Të _dhëna Grupi"
+
+#~ msgid "Select the users to join this group:"
+#~ msgstr "Përzgjidhni përdoruesit që do t'i bashkohen këtij grupi:"
+
+#~ msgid "Group _Users"
+#~ msgstr "_Përdoruesa Grupi"
+
+#~ msgid "User Manager"
+#~ msgstr "Përgjegjës Përdoruesish"
+
+#~ msgid "_File"
+#~ msgstr "_Kartelë"
+
+#~ msgid "Add _User"
+#~ msgstr "Shto _Përdorues"
+
+#~ msgid "_Edit"
+#~ msgstr "_Përpunoni"
+
+#~ msgid "_Help"
+#~ msgstr "_Ndihmë"
+
+#~ msgid "_Contents"
+#~ msgstr "_Përmbajtje"
+
+#~ msgid "Edit properties"
+#~ msgstr "Përpunoni veti"
+
+#~ msgid "Proper_ties"
+#~ msgstr "_Veti"
+
+#~ msgid "Delete"
+#~ msgstr "Fshije"
+
+#~ msgid "_Delete"
+#~ msgstr "_Fshije"
+
+#~ msgid "Reload"
+#~ msgstr "Ringarkoje"
+
+#~ msgid "_Refresh"
+#~ msgstr "_Freskoje"
+
+#~ msgid "Help"
+#~ msgstr "Ndihmë"
+
+#~ msgid "Gr_oups"
+#~ msgstr "_Grupe"
+
+#~ msgid "_User Name:"
+#~ msgstr "_Emër Përdoruesi:"
+
+#, fuzzy
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid "Home _Directory:"
+#~ msgstr "_Drejtori Hyrjeje"
+
+#~ msgid "Create a private _group for the user"
+#~ msgstr "Krijo _grup vetjak për përdoruesin"
+
+#~ msgid "Specify u_ser ID manually:"
+#~ msgstr "Tregoni ID _përdoruesi dorazi:"
+
+#~ msgid "About system-config-users"
+#~ msgstr "Rreth system-config-users"
+
+#~ msgid "<b>system-config-users</b>"
+#~ msgstr "<b>system-config-users</b>"
+
+#~ msgid "Version @VERSION@"
+#~ msgstr "Version @VERSION@"
+
+#~ msgid "Copyright (c) 2001 - 2005 Red Hat, Inc."
+#~ msgstr "Të drejta Kopjimi (c) 2001 - 2005 Red Hat, Inc."
+
+#~ msgid "This software is distributed under the GNU General Public License."
+#~ msgstr "Ky software qarkullon sipas Licensës së Përgjithshme Publike GNU."
+
+#~ msgid "Preferences"
+#~ msgstr "Parapëlqime"
+
+#~ msgid "<b>User and Group List</b>"
+#~ msgstr "<b>Listë Përdoruesish dhe Grupesh</b>"
+
+#~ msgid ""
+#~ "Ensure that a new user gets a higher UID than all existing users, if not "
+#~ "set manually."
+#~ msgstr ""
+#~ "Sigurohuni që një përdoruesi të ri i caktohet një UID më e lartë se tërë "
+#~ "përdoruesit ekzistues, në të kundërt caktojani dorazi.  "
+
+#~ msgid "Automatically assigned _UID must be highest"
+#~ msgstr "_UID e caktuar vetvetiu duhet të jetë më e larta"
+
+#~ msgid ""
+#~ "Ensure that a new group gets a higher GID than all existing groups, if "
+#~ "not set manually."
+#~ msgstr ""
+#~ "Sigurohuni që një grupi të ri i caktohet një GID më e lartë se tërë "
+#~ "grupet ekzistuese, në të kundërt caktojani dorazi.  "
+
+#~ msgid "Automatically assigned _GID must be highest"
+#~ msgstr "_GID e caktuar vetvetiu duhet të jetë më e larta"
+
+#~ msgid "Prefer that private group GID is the _same as UID"
+#~ msgstr "Parapëlqe që GID-ja për grup vetjak të jetë e _njëjtë me UID"
+
+#~ msgid "<b>New Users</b>"
+#~ msgstr "<b>Përdorues të Rinj</b>"
+
+#~ msgid "Copyright © 2001-2007 Red Hat, Inc."
+#~ msgstr "Të drejta Kopjimi © 2001-2007 Red Hat, Inc."
+
+#~ msgid "Manages users and groups on your system."
+#~ msgstr "Administron përdoruesa dhe grupe te sistemi juaj."
+
+#~ msgid ""
+#~ "system-config-users is free software; you can redistribute it and/or "
+#~ "modify it under the terms of the GNU General Public License as published "
+#~ "by the Free Software Foundation; either version 2 of the License, or (at "
+#~ "your option) any later version.\n"
+#~ "\n"
+#~ "system-config-users is distributed in the hope that it will be useful, "
+#~ "but WITHOUT ANY WARRANTY; without even the implied warranty of "
+#~ "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General "
+#~ "Public License for more details.\n"
+#~ "\n"
+#~ "You should have received a copy of the GNU General Public License along "
+#~ "with system-config-users; if not, write to the Free Software Foundation, "
+#~ "Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-130159 USA"
+#~ msgstr ""
+#~ "system-config-users është software i lirë; mund ta rishpërndani dhe/ose "
+#~ "ndryshoni sipas kushteve të Licensës së Përgjithshme Publike GNU të "
+#~ "botuar nga Free Software Foundation; ose në versionin 2 të Licensës, ose "
+#~ "(vendosni vetë) cilindo version të më vonshëm.\n"
+#~ "\n"
+#~ "system-config-users shpërndahet me shpresën se do të jetë i dobishëm, por "
+#~ "PA ASNJË GARANCI; madje pa as garanci të nënkuptuar TREGTUESHMËRIE ose  "
+#~ "TË QENËT I PËRSHTATSHËM PËR NJË QËLLIM TË CAKTUAR.  Për më tepër hollësi "
+#~ "shihni Licensën e Përgjithshme Publike GNU.\n"
+#~ "\n"
+#~ "Bashkë me system-config-users, duhej t'ju kish ardhur një kopje të "
+#~ "Licensës së Përgjithshme Publike GNU; po qe se jo, i shkruani Free "
+#~ "Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA "
+#~ "02110-130159 USA"
